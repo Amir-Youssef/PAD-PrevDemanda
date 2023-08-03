@@ -1,0 +1,650 @@
+nome_do_aluno_diplomado,seis_digitos_centrais_do_cpf_do_aluno_diplomado,nome_curso_superior,codigo_emec_curso_superior,nome_da_ies_expedidora_do_diploma,codigo_emec_da_ies_expedidora_do_diploma,nome_da_ies_registradora_do_diploma,codigo_emec_da_ies_registradora_do_diploma,data_de_ingresso_no_curso,data_de_conclusao_do_curso,data_da_expedicao_do_diploma,data_do_registro_do_diploma,identificacao_do_numero_da_expedicao,numero_registro_de_diploma
+ROZILDA MEIRE RODRIGUES DA SILVA,***.237.971-**,PEDAGOGIA,"21992",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-04-28,2023-05-02,2023-05-02,10136,150119
+GESIEL FERREIRA,***.176.279-**,PEDAGOGIA,"21992",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2013-1",2023-04-28,2023-05-02,2023-05-02,10137,150120
+MARIA JÚLIA DE MELO SOUSA FERRO,***.562.471-**,DIREITO,"27673",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-04-28,2023-05-02,2023-05-02,10138,150121
+ALEXANDRE BARBOSA FERREIRA,***.234.712-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-02,2023-05-02,2023-05-02,10139,150122
+ANA EDUARDA CORREIA DE LIMA,***.846.921-**,TEATRO,"21989",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10145,150123
+ANDRÉ MARCELO DE SOUZA FONSECA FILHO,***.084.911-**,TEATRO,"21989",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10141,150124
+DENNIS MOURA GONÇALVES,***.511.981-**,TEATRO,"21989",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10142,150125
+ELISA VITÓRIA MENDONÇA SANTOS,***.261.201-**,TEATRO,"21989",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10143,150126
+JHENNYFFER COSTA SILVA,***.116.991-**,TEATRO,"21989",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10144,150127
+VITÓRIA CINTRA LISBOA SILVA,***.617.351-**,TEATRO,"21989",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10140,150128
+LIVYANNE GOMES DE OLIVEIRA,***.603.261-**,ARTES CÊNICAS,"21989",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-02,2023-05-02,2023-05-02,10146,150129
+ANDRIA JANNE PORTELA ALMEIDA,***.416.041-**,MUSICOTERAPIA,"14088",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10150,150130
+BEATRIZ BEZERRA EUFRASIO DE OLIVEIRA,***.927.961-**,MUSICOTERAPIA,"14088",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10149,150131
+RIZIERY SILVA SOUZA,***.148.651-**,MUSICOTERAPIA,"14088",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10148,150132
+THIAGO PIRES DA MOTA,***.519.881-**,MUSICOTERAPIA,"14088",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2020-1",2023-05-02,2023-05-02,2023-05-02,10147,150133
+GABRIELA NERI VIEIRA,***.644.681-**,DANÇA,"1151198",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10152,150134
+KARITA SEGATO RODRIGUES,***.429.941-**,DANÇA,"1151198",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10151,150135
+LAURA CARVALHO DE MORAES,***.300.781-**,DANÇA,"1151198",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10154,150136
+LYVIA PIRES TAVARES,***.154.971-**,DANÇA,"1151198",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10153,150137
+NAILA PORCIANA DE SOUZA FREITAS,***.000.749-**,DANÇA,"1151198",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-02,2023-05-02,2023-05-02,10156,150138
+SANT' CLAIR QUEIROZ DOS SANTOS,***.074.051-**,DANÇA,"1151198",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10155,150139
+CESAR AUGUSTO UMBELINO RIBEIRO,***.710.361-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10161,150140
+EMILY MARCELLA DE CUBAS BUENO,***.425.091-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10159,150141
+FELIPE NASCIMENTO DE ALMEIDA,***.503.231-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-02,2023-05-02,2023-05-02,10165,150142
+GABRIEL SOARES MUNIZ,***.412.061-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10163,150143
+GENIVALDO OLIVEIRA ARAUJO,***.895.371-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2012-1",2023-05-02,2023-05-02,2023-05-02,10164,150144
+LUCAS ANTONIO PELLENZ SANCHES,***.032.149-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10162,150145
+MATHEUS ALVES OLIVEIRA,***.353.891-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-02,2023-05-02,2023-05-02,10160,150146
+SAMARA SEVILHA NUNES,***.684.131-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2010-1",2023-05-02,2023-05-02,2023-05-02,10158,150147
+SAMUEL LIMA SANTOS,***.026.232-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10169,150148
+SILVANA SILVA DOS SANTOS,***.624.373-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10168,150149
+VICTOR CAVALCANTI CÉSAR,***.344.098-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10167,150150
+VICTOR SOUSA LIMA,***.921.061-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10166,150151
+WESLEY MOREIRA BRANDÃO,***.768.741-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10157,150152
+CAIO NEWTON DOS SANTOS,***.941.341-**,EDUCAÇÃO FÍSICA,"1113011",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10172,150153
+CLEITON BORGES,***.683.461-**,EDUCAÇÃO FÍSICA,"1113011",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-02,2023-05-02,2023-05-02,10171,150154
+ISABELA OLIVEIRA MORAIS,***.772.361-**,EDUCAÇÃO FÍSICA,"1113011",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10170,150155
+LETICIA MAMEDE MELO,***.662.211-**,EDUCAÇÃO FÍSICA,"1113011",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10176,150156
+LUANA LORRAINE PAULINA DA SILVA SOUZA,***.219.151-**,EDUCAÇÃO FÍSICA,"1113011",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10175,150157
+MATHEUS MARCO ANTÔNIO SOUZA PEREIRA,***.491.951-**,EDUCAÇÃO FÍSICA,"1113011",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10174,150158
+VICTOR SILVA ALMEIDA,***.579.221-**,EDUCAÇÃO FÍSICA,"1113011",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10173,150159
+VINÍCIUS VILA VERDE NOBRE,***.352.131-**,EDUCAÇÃO FÍSICA,"1113011",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-02,2023-05-02,2023-05-02,10177,150160
+ANA LUIZA RODRIGUES NOBERTO,***.888.071-**,GESTÃO DA INFORMAÇÃO,"1152529",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10183,150161
+EVERTON PAULO OTTMANN DE PÁDUA,***.032.551-**,GESTÃO DA INFORMAÇÃO,"1152529",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10181,150162
+IGOR SCHMITZ GONÇALVES NEIVA,***.883.591-**,GESTÃO DA INFORMAÇÃO,"1152529",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10182,150163
+JOÃO PEDRO FERNANDES LOBO,***.033.961-**,GESTÃO DA INFORMAÇÃO,"1152529",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10186,150164
+LAURA NUNES CARDOSO,***.759.461-**,GESTÃO DA INFORMAÇÃO,"1152529",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10187,150165
+LUÍS GUILHERME JARDIM BORGES,***.792.981-**,GESTÃO DA INFORMAÇÃO,"1152529",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-04,2023-05-04,2023-05-04,10184,150166
+MARCUS PAULO ALVES RIBEIRO,***.294.841-**,GESTÃO DA INFORMAÇÃO,"1152529",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10185,150167
+MARCUS SHAIDER SANTOS DE NOVAIS,***.737.371-**,GESTÃO DA INFORMAÇÃO,"1152529",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10179,150168
+MATHEUS RICARDO MENEZES NEVES,***.954.411-**,GESTÃO DA INFORMAÇÃO,"1152529",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10180,150169
+WILLIAM NAGIB BORGES ELMARONI,***.171.751-**,GESTÃO DA INFORMAÇÃO,"1152529",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-04,2023-05-04,2023-05-04,10178,150170
+ÁLVARO FELIPE SOUZA OLIVEIRA,***.056.891-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10189,150171
+BÁRBARA LIS BARBOSA MARTINS,***.775.801-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10192,150172
+BEATRIZ GONÇALVES BRANDÃO REIS,***.344.968-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10193,150173
+BEATRIZ LORENA LOPES VIEIRA,***.946.108-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10190,150174
+DANILO NUNES CARDOSO,***.756.651-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10191,150175
+ESTER DA SILVA DOURADO,***.872.521-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10211,150176
+GABRIELA REBECA RAPP GAIARDO,***.984.308-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10210,150177
+GUSTAVO RIBEIRO ANDRADE,***.478.861-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-04,2023-05-04,2023-05-04,10213,150178
+ISABELLA DE CARVALHO VAULA,***.096.931-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10212,150179
+JAQUELINE COSTA ROSA DA SILVA,***.464.771-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10215,150180
+JENNIFER KAROLINE NASCIMENTO SANTOS,***.144.091-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-04,2023-05-04,2023-05-04,10214,150181
+JOHNNY ROCHA EVANGELISTA,***.120.051-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-04,2023-05-04,2023-05-04,10217,150182
+JOSÉ ABRÃO NETO,***.907.471-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10216,150183
+JOSÉ PEDRO CZEPAK,***.473.011-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10203,150184
+JÚLIA OLIVEIRA ALVES ANDRADE,***.476.718-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10202,150185
+KAIAIA SUYA,***.855.421-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10205,150186
+KAREN BATISTA CAIXETA,***.884.401-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-04,2023-05-04,2023-05-04,10204,150187
+LAURA ANDRESSA PEREIRA DE FREITAS BARROS,***.678.011-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10207,150188
+LUCAS ALVES CAETANO,***.485.341-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10206,150189
+LUISA CRISTINA SILVA DE OLIVEIRA HIPÓLITO,***.839.161-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10209,150190
+MARCELO DE SOUSA MENEZES FILHO,***.281.501-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-04,2023-05-04,2023-05-04,10208,150191
+MARCOS DE ARAUJO FURTADO,***.914.631-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10194,150192
+MARIA CLARA ALVES PIRES COSTA,***.861.056-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10195,150193
+MARIANA LARA AMORIM,***.976.801-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10196,150194
+NATÁLIA MARTINS MARIANO,***.079.611-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-04,2023-05-04,2023-05-04,10197,150195
+PAMELLA MORAIS DOS SANTOS,***.801.861-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10198,150196
+PEDRO EDUARDO CARNEIRO MOURA,***.054.701-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10199,150197
+PEDRO HENRIQUE DE ABREU VITOR,***.029.501-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-04,2023-05-04,2023-05-04,10200,150198
+POLLYANA DA SILVA MENDONÇA,***.108.661-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-04,2023-05-04,2023-05-04,10201,150199
+VALDECI RAMOS DA SILVA FILHO,***.876.901-**,RELAÇÕES PÚBLICAS,"14108",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10188,150200
+ANA LUIZA ARIZA DE CASTRO CARVALHO ROCHA,***.356.541-**,DIREÇÃO DE ARTE,"1135939",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10218,150201
+ELIECI COSTA RIBEIRO,***.966.461-**,DIREÇÃO DE ARTE,"1135939",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10219,150202
+EMANUEL CARPENA DE CARVALHO RIBEIRO,***.768.250-**,DIREÇÃO DE ARTE,"1135939",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10220,150203
+GABRIELA CONCEIÇÃO DA SILVA,***.313.151-**,DIREÇÃO DE ARTE,"1135939",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-02,2023-05-02,2023-05-02,10221,150204
+JEFFESSON SILVA SANTOS,***.883.551-**,DIREÇÃO DE ARTE,"1135939",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10222,150205
+LHAIRTON KELVIN ARAUJO COSTA,***.032.481-**,DIREÇÃO DE ARTE,"1135939",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-02,2023-05-02,10223,150206
+MARIA CLARA DA SILVEIRA CABRAL,***.787.281-**,DIREÇÃO DE ARTE,"1135939",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10224,150207
+RODRIGO OLIVEIRA NUNES,***.112.661-**,DIREÇÃO DE ARTE,"1135939",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-02,2023-05-02,2023-05-02,10225,150208
+BRUNO FERNANDES OLIVEIRA,***.949.381-**,MÚSICA,"40183",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-02,2023-05-02,2023-05-02,10230,150209
+EMERSON VINÍCIUS DA SILVA,***.574.201-**,MÚSICA,"40183",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10229,150210
+LEONARDO DE SOUZA PEDRO,***.412.558-**,MÚSICA,"40183",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10228,150211
+MATEUS DE JESUS MEIRELES,***.235.621-**,MÚSICA,"40183",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10227,150212
+NATÃ MILHOMEM LEMOS,***.643.071-**,MÚSICA,"40182",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10226,150213
+ALINE MARTINS MENDES,***.772.841-**,MÚSICA,"1113067",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10240,150214
+AMANDA CORRÊA MARTINS,***.531.191-**,MÚSICA,"1111226",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-02,2023-05-02,2023-05-02,10239,150215
+AMANDA RODRIGUES LOPES,***.970.641-**,MÚSICA,"1111226",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10238,150216
+GUSTAVO HENRIQUE SOARES NUNES,***.712.611-**,MÚSICA,"1113067",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-02,2023-05-02,2023-05-02,10237,150217
+JOÃO PEDRO BARNEZ PIGNATA LEAL DINIZ,***.079.841-**,MÚSICA,"1111226",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-02,2023-05-02,2023-05-02,10235,150219
+LEANDRO RIBEIRO DUARTE,***.707.281-**,MÚSICA,"1113067",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-02,2023-05-02,2023-05-02,10234,150220
+OSWALDO CERTAIN SIMAS DE PAULA,***.708.571-**,MÚSICA,"1111226",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-02,2023-05-02,2023-05-02,10233,150221
+ROSYELLMA SOUSA DE OLIVEIRA,***.888.111-**,MÚSICA,"1111226",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10232,150222
+TIAGO ARAÚJO DE MORAIS PEREIRA,***.657.781-**,MÚSICA,"1111226",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-02,2023-05-02,2023-05-02,10231,150223
+ANDERSON RODRIGUES DE ALMEIDA,***.278.981-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10250,150224
+CÁSSIA BRAGA DO PRADO,***.748.281-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10251,150225
+JULIA VERONEZ NERY DI ALVES,***.496.841-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10248,150226
+KAREN SIMÕES CARDOSO,***.490.211-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10249,150227
+KÁTIA DE AGUIAR SOUSA,***.137.741-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-04,2023-05-04,2023-05-04,10246,150228
+MIRIELLY DOS SANTOS DOURADO,***.544.191-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10247,150229
+NATALIA MENDES DO NASCIMENTO,***.521.761-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10244,150230
+OTACILIO CARLOS BORGES DA SILVA,***.473.311-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-04,2023-05-04,2023-05-04,10245,150231
+POLYANE RIBEIRO DE MELO,***.139.151-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10242,150232
+RAIANNE ALVES RODRIGUES,***.998.271-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10243,150233
+YASMIN PEREIRA DE OLIVEIRA,***.557.941-**,BIBLIOTECONOMIA,"14104",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10241,150234
+MARTA LEITE SOUZA,***.530.192-**,ARTES CÊNICAS,"1147015",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-02,2023-05-02,2023-05-02,10253,150235
+TERESA CARDOSO MEDEIROS,***.841.151-**,ARTES CÊNICAS,"1147015",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-02,2023-05-02,2023-05-02,10252,150236
+ROSANA LEMES DE OLIVEIRA,***.695.091-**,ARTES CÊNICAS,"1147015",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2012-1",2023-05-02,2023-05-02,2023-05-02,10254,150237
+GEOVANE APARECIDO ROSA DE ÁZARA,***.709.541-**,COMUNICAÇÃO SOCIAL,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-04,2023-05-04,2023-05-04,10255,150238
+ANA LUIZA DE ABREU SILVA,***.720.271-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10256,150239
+BÁRBARA FERREIRA LIMA,***.737.821-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10268,150240
+BELLA RIBEIRO DE SOUZA ANDRADE MACHADO,***.102.891-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10267,150241
+CINTHIA EMIDIO RIBEIRO,***.904.441-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10270,150242
+GABRIELA BEATRIZ BORTOLOTTO,***.683.611-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10269,150243
+GUINEWER INAÊ BUENO DE QUEIROZ,***.496.651-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10264,150244
+HELOISA BRITO GOMES MORAIS,***.740.441-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10263,150245
+LUCAS GABRIEL REIS TAVARES,***.344.901-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10265,150247
+LUÍSA OLIVEIRA CHACON PINTO,***.505.087-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10260,150248
+LUNA APÓSTOLO MOREIRA,***.438.231-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10259,150249
+RENATO SILVEIRA COSTA,***.724.581-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-04,2023-05-04,2023-05-04,10262,150250
+RONILMA SILVA PINHEIRO,***.808.203-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10261,150251
+STÉPHANIE KAROLINE ARAUJO DO CARMO,***.661.901-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10258,150252
+THAYNÁ GUIMARÃES ARAÚJO TOSTA,***.826.361-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10257,150253
+AMANDA CÂNDIDA SILVA,***.692.621-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10294,150254
+BRUNA SILVA MELLO DA SILVEIRA,***.515.941-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10293,150255
+CECILIA FERNANDES NEVES DE REZENDE RODRIGUES,***.955.371-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10289,150256
+DANILO SARAIVA DE PINA,***.437.121-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10290,150257
+EMILY FONSECA FORTUNATO,***.314.226-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10291,150258
+ESTHER MODESTO DE ALMEIDA,***.228.501-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10292,150259
+FLÁVIA NOVAIS CARDOSO,***.612.296-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10285,150260
+GABRIELLY DE CARVALHO FRANCO,***.893.521-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10286,150261
+GEOVANA DE SOUSA SANTANA,***.154.911-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2020-1",2023-05-04,2023-05-04,2023-05-04,10287,150262
+GRAZIELA GONDIM DE CARVALHO,***.843.681-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10288,150263
+HÍGOR DE TORRES COSTA,***.583.811-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10280,150264
+JÚLIA SILVA GUEDES,***.775.291-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10282,150265
+KARINA XAVIER SANCHES MELO,***.106.681-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10283,150266
+LARISSA ALVES DO CARMO,***.325.251-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-04,2023-05-04,2023-05-04,10284,150267
+LAURA SOUSA RAMALHO,***.031.451-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10272,150268
+LUIZA DUMONT LAURIANO LEME,***.761.191-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10274,150269
+MARCOS CARILLI GORDO FERREIRA,***.475.661-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10276,150270
+MARCOS PAULO DE SOUZA FERREIRA,***.112.551-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10278,150271
+PAULO FERNANDO TOMAZ JUNQUEIRA,***.100.341-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-04,2023-05-04,2023-05-04,10271,150272
+SARAH VIEIRA ARRUDA,***.026.101-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10273,150273
+SAULO INACIO VEIGA FILHO,***.425.921-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10275,150274
+THALES EDUARDO CUSTÓDIO DE MELO,***.668.771-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-04,2023-05-04,10277,150275
+THULLIO GABRIEL SANTOS BARBOSA,***.646.361-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-04,2023-05-04,2023-05-04,10279,150276
+VICTOR HUGO PEREIRA,***.619.241-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-04,2023-05-04,2023-05-04,10281,150277
+MATEUS COSTA CORDEIRO,***.911.331-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-04-20,2023-05-08,2023-05-08,10295,150278
+GUSTAVO NICOLAU PEREIRA,***.247.411-**,QUÍMICA,"1113070",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-03,2023-05-08,2023-05-08,10296,150279
+LINDAURA LAISSA SOUZA MENDONÇA,***.222.681-**,QUÍMICA,"1113070",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-2",2023-05-03,2023-05-08,2023-05-08,10297,150280
+CAIO PORTUGUEZ DA SILVA,***.039.081-**,CIÊNCIAS SOCIAIS,"14105",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-08,2023-05-08,10298,150281
+YTALLO RIBEIRO DA SILVA,***.435.051-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-05,2023-05-08,2023-05-08,10300,150283
+JOÃO VICTOR DE CASTRO ABREU,***.220.871-**,ENGENHARIA MECÂNICA,"123860",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-08,2023-05-08,2023-05-08,10301,150284
+MARINA CONTI GERIZANI,***.495.658-**,MEDICINA VETERINÁRIA,"14094",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-05,2023-05-08,2023-05-08,10302,150285
+ANA CLEIDE PEREIRA DA SILVA,***.713.461-**,EDUCAÇÃO INTERCULTURAL,"118005",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-03,2023-05-03,2023-05-03,10309,150286
+ARLOZINHO WAÃMATÉ BUDZATSÉ,***.339.661-**,EDUCAÇÃO INTERCULTURAL,"118004",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-03,2023-05-03,2023-05-03,10310,150287
+DJUASSA KARAJÁ,***.808.151-**,EDUCAÇÃO INTERCULTURAL,"118006",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-03,2023-05-03,2023-05-03,10304,150288
+GEOVANE PEREIRA XERENTE,***.157.311-**,EDUCAÇÃO INTERCULTURAL,"118005",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-03,2023-05-03,2023-05-03,10303,150289
+GIOVANNI TSIRÃMNE TSEREDZAMA,***.223.291-**,EDUCAÇÃO INTERCULTURAL,"118006",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2013-1",2023-05-03,2023-05-03,2023-05-03,10306,150290
+GREGÓRIO HUHTE KRAHÔ,***.411.651-**,EDUCAÇÃO INTERCULTURAL,"118004",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-03,2023-05-03,2023-05-03,10305,150291
+MUNURI YAWALAPITI,***.020.971-**,EDUCAÇÃO INTERCULTURAL,"118005",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-03,2023-05-03,2023-05-03,10308,150292
+WERETUMA KARAJÁ,***.240.081-**,EDUCAÇÃO INTERCULTURAL,"118004",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-03,2023-05-03,2023-05-03,10307,150293
+CLÁUDIA REIS BRITO MONTALVÃO,***.088.861-**,ARTES CÊNICAS,"1147015",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-02,2023-05-02,2023-05-02,10312,150294
+FRANCISCO JOSÉ DA SILVA DE JESUS,***.713.121-**,ARTES CÊNICAS,"1147015",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-02,2023-05-02,2023-05-02,10311,150295
+JULIANA ALVES MACHADO,***.691.761-**,ARTES CÊNICAS,"1147015",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-02,2023-05-02,2023-05-02,10314,150296
+LAIANE MENDES ANDRADE DOS SANTOS,***.094.721-**,ARTES CÊNICAS,"1147015",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-02,2023-05-02,2023-05-02,10313,150297
+MARIZES SEVERINO DOS SANTOS BRITO,***.886.151-**,ARTES CÊNICAS,"1147015",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-02,2023-05-02,2023-05-02,10316,150298
+VANUZA DE SOUSA SILVA,***.253.303-**,ARTES CÊNICAS,"1147015",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-02,2023-05-02,2023-05-02,10315,150299
+LORRANY CAROLINE MARQUES ALMEIDA,***.340.211-**,ARQUITETURA E URBANISMO,"122584",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-04-10,2023-05-09,2023-05-09,10317,150300
+LUANA ARRAIS LIMONGI,***.227.691-**,LETRAS: ESTUDOS LITERÁRIOS,"86448",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2021-1",2023-05-09,2023-05-09,2023-05-09,10318,150301
+MARCOS VENICIUS FERREIRA DA SILVA,***.630.971-**,LETRAS: ESTUDOS LITERÁRIOS,"86448",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10319,150302
+ANA LUIZA SOUZA SILVA,***.583.451-**,LETRAS: INGLÊS,"86446",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10325,150303
+GENESI DORAIDES DA CRUZ NETA,***.517.961-**,LETRAS: INGLÊS,"86446",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10322,150304
+LUÍSA CRUZ IRINEU RIBEIRO,***.960.411-**,LETRAS: INGLÊS,"86446",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10323,150305
+LUIZA PACHECO CABRAL,***.886.251-**,LETRAS: INGLÊS,"86446",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10320,150306
+MELISSA COELHO MONTEIRO,***.332.211-**,LETRAS: INGLÊS,"86446",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10321,150307
+VICTORIA DA CONCEIÇÃO MARQUES,***.595.751-**,LETRAS: INGLÊS,"86446",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10324,150308
+SILVANA APARECIDA DE SOUZA SILVA,***.655.998-**,LETRAS: ESPANHOL,"86444",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10326,150309
+ALESSANDRA AGUIAR DE OLIVEIRA CORDEIRO,***.531.491-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10336,150310
+AMANDA LELES FEITOSA,***.873.651-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10337,150311
+ANA LUIZA MARIANO PEREIRA,***.730.671-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10340,150312
+ARIEL FEITOSA VITORINO SERAFIM,***.958.981-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10341,150313
+BEATRIZ BATISTA ALMEIDA,***.706.451-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10338,150314
+CAMILA LINS VITAL,***.612.271-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10339,150315
+CRISTIANE SILVA BERNARDO,***.370.211-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-09,2023-05-09,2023-05-09,10344,150316
+ELLEN BUENO MACEDO DE SOUZA,***.093.021-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10345,150317
+ÉRYKA GEANNE CLODES RIBEIRO,***.145.641-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10342,150318
+ESTER DE CAMPOS DA COSTA,***.607.277-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2020-1",2023-05-09,2023-05-09,2023-05-09,10343,150319
+FERNANDA DOS SANTOS SANTIAGO,***.148.631-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10349,150320
+FERNANDA FERREIRA SILVA,***.584.791-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10348,150321
+HARYTA SILVA QUEIROZ,***.798.991-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10347,150322
+INGRID ALVES MARTINS,***.876.461-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10346,150323
+ISABELLA CRISTINA DEL BIANCO E SILVA,***.784.611-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10353,150324
+JHESSIKA DA SILVA FRANÇA,***.590.711-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10352,150325
+KARINE SILVA DE BARROS,***.667.531-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10351,150326
+KEROLLAYNE DA SILVA FERREIRA,***.296.081-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10350,150327
+LAURA ARAÚJO CHAVES,***.849.261-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10357,150328
+LETÍCIA MARIA DE JESUS TEIXEIRA,***.625.131-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10356,150329
+LOUISE DE SOUZA MACÊDO NOVAIS,***.927.131-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10355,150330
+MARIA LUISA RIBEIRO DE MELO,***.221.821-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10354,150331
+MARIANA PEREIRA DA SILVA,***.657.341-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10361,150332
+NAYARA ANTUNES DOS SANTOS,***.361.711-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10360,150333
+OHANA LETICIA SILVA DELILO,***.074.261-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-09,2023-05-09,2023-05-09,10359,150334
+PAULA CRISTINA FERNANDES LEAL,***.096.621-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10358,150335
+PENÉLOPE ALVES ALMEIDA,***.151.911-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-09,2023-05-09,2023-05-09,10331,150336
+ROSIRENE BORGES RODRIGUES DOS SANTOS,***.115.471-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-09,2023-05-09,2023-05-09,10332,150337
+SARAAH INÁCIA DE MORAIS BARBO,***.556.151-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10333,150338
+SYNARA XAVIER DA COSTA,***.871.712-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-09,2023-05-09,2023-05-09,10334,150339
+THALITA BARBOSA DE LIMA,***.317.941-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10327,150340
+THAYNARA LINDRIA DOS SANTOS,***.872.971-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10328,150341
+THUANY JARDIM PARENTE,***.614.131-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-09,2023-05-09,2023-05-09,10329,150342
+VITÓRIA GEOVANNA LEMOS DE ARAUJO,***.882.971-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10330,150343
+WELTON LUIZ DA COSTA RAMOS,***.257.961-**,LETRAS: PORTUGUÊS,"44485",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10335,150344
+ADRIELY GOMES GERAES LIMA MARTINS,***.316.671-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-09,2023-05-09,2023-05-09,10368,150345
+ALICE COSTA OLIVEIRA,***.653.292-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10369,150346
+DAYANE MENDES SOARES,***.231.051-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10370,150347
+FÁBIA LÚCIA VICENTE DE SOUZA,***.062.755-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-09,2023-05-09,2023-05-09,10364,150348
+FÁBIO NEVES MARTINS,***.860.336-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10365,150349
+HÉLEN NAIARA AGUIAR ALVES DE OLIVEIRA,***.264.571-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10366,150350
+KAREN CAROLINA CAMARGO DE CARVALHO,***.882.471-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10367,150351
+MARIA CAROLINA DA SILVA ROCHA,***.361.741-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10363,150352
+UEUBERTE DO ESPIRITO SANTO SILVA,***.444.591-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10362,150353
+GABRIELLE RIBEIRO SILGE,***.115.751-**,LETRAS: FRANCÊS,"86445",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10372,150354
+LUCAS DIAS AVELAR,***.902.461-**,LETRAS: FRANCÊS,"86445",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10371,150355
+WISNEY OLIVEIRA E SILVA COSTA,***.870.711-**,LETRAS,"86445",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2008-1",2023-05-09,2023-05-09,2023-05-09,10373,150356
+VITÓRIA DE SOUZA CRUZ,***.029.881-**,MEDICINA VETERINÁRIA,"14094",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-05,2023-05-10,2023-05-10,10374,150357
+ALEXANDER ALMEIDA PEREIRA,***.704.451-**,FILOSOFIA,"314110",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-09,2023-05-10,2023-05-10,10375,150358
+VINÍCIUS RODRIGUES SOUSA,***.107.252-**,COMUNICAÇÃO SOCIAL,"18953",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-10,2023-05-10,10376,150359
+ANA CÉLIA ALVES TOBIAS PINHEIRO,***.649.441-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10385,150360
+BEATRIZ DE QUELUZ,***.076.461-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10384,150361
+BEATRIZ YASSUNAGA DE FREITAS,***.656.001-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10387,150362
+CÍNTIA MILHOMENS SIQUEIRA,***.588.601-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-09,2023-05-09,2023-05-09,10386,150363
+EDUARDA LORRANY DA SILVA ARAÚJO,***.486.311-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10381,150364
+IAGO ÉCIO DE ANDRADE,***.921.431-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2021-1",2023-05-09,2023-05-09,2023-05-09,10380,150365
+IZABELLA OHANA SANTOS CHAGAS MONTEIRO,***.053.421-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10383,150366
+LUCIA APARECIDA DA COSTA MOURA,***.098.301-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10382,150367
+LUNA CONSTANTINO,***.856.265-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-09,2023-05-09,2023-05-09,10378,150368
+MARIA CLARA DE CASTRO ISAAC,***.327.891-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-09,2023-05-09,2023-05-09,10379,150369
+RAPHAELA MAZER TAGLIAPIETRA,***.893.838-**,LETRAS: LIBRAS,"1120209",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-09,2023-05-09,2023-05-09,10377,150370
+AMANDA DANIN DE ARAÚJO MELO,***.985.611-**,MEDICINA VETERINÁRIA,"14094",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-05,2023-05-10,2023-05-10,10388,150371
+ANDRESSA SERAFIM CORREA,***.643.941-**,MEDICINA VETERINÁRIA,"14094",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-05,2023-05-10,2023-05-10,10389,150372
+DOUGLAS MATHEUS NUNES BONFIM,***.476.941-**,MATEMÁTICA,"14103",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10391,150373
+PEDRO ARAÚJO ELIAS DIB,***.978.611-**,MATEMÁTICA,"14103",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2020-1",2023-05-11,2023-05-11,2023-05-11,10390,150374
+ALCIMIR JUNIOR RAMOS LOPES,***.169.161-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-11,2023-05-11,2023-05-11,10392,150375
+ANA FLÁVIA DE OLIVEIRA,***.134.311-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10405,150376
+ANDRESSA GONÇALVES VIEIRA AFFONSO,***.446.582-**,MATEMÁTICA,"1304557",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10406,150377
+CHRISTIAN NEVES OLIVEIRA DA SILVA,***.190.521-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10403,150378
+EDUARDA DIAS CABRAL,***.862.991-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-11,2023-05-11,2023-05-11,10404,150379
+GABRIEL VIEIRA GONÇALVES GONZAGA,***.185.291-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10401,150380
+GUILHERME CAVALCANTE SILVA,***.579.011-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10402,150381
+HOMAR SILVA DOS REIS,***.346.381-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10399,150382
+ISABELLE QUEIROZ MONTI PENNA,***.911.461-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-11,2023-05-11,2023-05-11,10400,150383
+ITALO MARQUES RODRIGUES SILVA,***.142.371-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-11,2023-05-11,2023-05-11,10398,150384
+JOÃO ANGELO ZORZETTI MOTA,***.425.811-**,MATEMÁTICA,"1304557",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-11,2023-05-11,2023-05-11,10397,150385
+LEANDRA DE SOUZA NEVES,***.366.681-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-11,2023-05-11,2023-05-11,10396,150386
+LEANDRO LEAL ALVES,***.520.131-**,MATEMÁTICA,"1304557",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2020-1",2023-05-11,2023-05-11,2023-05-11,10395,150387
+VALMI GOMES SILVA JUNIOR,***.353.341-**,MATEMÁTICA,"1131697",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2010-2",2023-05-11,2023-05-11,2023-05-11,10394,150388
+VITÓRIA KAROLLINY DE ALMEIDA SILVA,***.156.561-**,MATEMÁTICA,"1304557",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-11,2023-05-11,2023-05-11,10393,150389
+ALICE DE SOUSA HIRLE,***.415.341-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10413,150390
+ANA LAURA HONÓRIO SILVA,***.195.931-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10412,150391
+ANDRESSA CAROLINE DE SOUSA,***.686.951-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10421,150392
+DÉBORA DE SOUSA FARIA,***.461.831-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10420,150393
+GUILHERME RODRIGUES SILVA,***.915.071-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10419,150394
+JOÃO HENRIQUE PERILLO DE SOUSA,***.791.751-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-11,2023-05-11,2023-05-11,10418,150395
+KÁSSIA RIBEIRO SANTANA,***.281.311-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-11,2023-05-11,2023-05-11,10417,150396
+LARISSA DA SILVEIRA ALMEIDA,***.523.181-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-11,2023-05-11,2023-05-11,10416,150397
+MARCO ANTÔNIO DA SILVA OLIVEIRA,***.727.931-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10415,150398
+MARIA EDUARDA DE OLIVEIRA SILVA,***.715.201-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10414,150399
+MÁRIO BATISTA DA SILVA,***.741.861-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10408,150400
+NADINE DE PAULA SANTOS,***.119.111-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10407,150401
+SONOSSIVIA NETA CARDOSO VALVERDE,***.739.441-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-11,2023-05-11,2023-05-11,10410,150402
+THIAGO BATISTA CARVALHO SOARES,***.366.191-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10409,150403
+THYAGO CÉSAR RODRIGUES PAIXÃO,***.072.591-**,ENGENHARIA AMBIENTAL E SANITÁRIA,"123496",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-11,2023-05-11,2023-05-11,10411,150404
+AMANDA RODRIGUES LOPES,***.114.561-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-2",2023-05-11,2023-05-11,2023-05-11,10430,150405
+ARTHUR FELIPE RICIERI FORCELINI SALVADOR,***.634.951-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10432,150406
+HELOISA PEREIRA VIANA,***.074.631-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-11,2023-05-11,2023-05-11,10431,150407
+IAGO SOARES BORGES SANTOS,***.736.271-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10423,150408
+LUCA JAMAL DA MATTA,***.950.881-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10422,150409
+LUCAS MENDONÇA REIS,***.941.721-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-11,2023-05-11,2023-05-11,10425,150410
+LUCCA ROSA PARREIRA BORGES,***.224.886-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10424,150411
+LUCIANO DE OLIVEIRA PEREIRA,***.633.921-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-11,2023-05-11,2023-05-11,10427,150412
+MARCOS ROBERTO RIBEIRO RIOS,***.061.201-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-2",2023-05-11,2023-05-11,2023-05-11,10426,150413
+MATEUS MARTINS DE ARAÚJO RESENDE,***.397.611-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-2",2023-05-11,2023-05-11,2023-05-11,10429,150414
+MATHEUS ALA TAVARES,***.197.331-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-11,2023-05-11,2023-05-11,10428,150415
+MATHEUS SOARES COUTO,***.308.951-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10436,150416
+MILENA FONSECA MOURA,***.274.641-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-11,2023-05-11,2023-05-11,10437,150417
+NATÁLIA DO NASCIMENTO ALVES,***.550.441-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-11,2023-05-11,2023-05-11,10438,150418
+NATÁLIA MATTOS RONDON,***.896.111-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10439,150419
+NAYARA SANTOS PEREIRA,***.627.361-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-11,2023-05-11,2023-05-11,10440,150420
+NEURIELLY RIBEIRO DA LUZ,***.751.791-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10441,150421
+PAULO AUGUSTO ALVES DA COSTA,***.157.841-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-11,2023-05-11,2023-05-11,10442,150422
+TALVANE DA VEIGA JARDIM NETTO,***.505.231-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-11,2023-05-11,2023-05-11,10443,150423
+VICTOR DANTAS COUTINHO,***.795.581-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10433,150424
+VICTOR STABILE TAVARES,***.237.611-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-11,2023-05-11,2023-05-11,10434,150425
+YAGO ALEJANDRO VELOSO BRAVO,***.390.461-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10435,150426
+CARLOS VICTOR XAVIER SILVA,***.034.881-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-11,2023-05-11,2023-05-11,10444,150427
+FERNANDA GOMES TEIXEIRA,***.682.611-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10445,150428
+GIOVANA GIAROLA DE ALMEIDA,***.018.106-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10446,150429
+GUILHERME HENRIQUE LUZINI LIMA,***.928.691-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10447,150430
+HELLOÁ PASSOS ALMEIDA,***.687.471-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2021-1",2023-05-11,2023-05-11,2023-05-11,10448,150431
+LEANNA ORLANDO BOTTA,***.732.491-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10452,150432
+LORENA PARENTE BERNARDINO,***.090.411-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-11,2023-05-11,2023-05-11,10451,150433
+MATHEUS FERRAZ DE OLIVEIRA,***.292.038-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10450,150434
+MATHEUS SANTOS VIEIRA DE SOUSA,***.961.971-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10449,150435
+PEDRO AUGUSTO ALVES GOULART,***.249.061-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10455,150436
+RENATA ALVES CASQUEIRO,***.815.411-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10454,150437
+RODRIGO LEÃO PEREIRA DE SOUZA,***.870.701-**,ENGENHARIA DE PRODUÇÃO,"1300254",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-11,2023-05-11,2023-05-11,10453,150438
+DÉBORA BATISTA BASÍLIO,***.491.311-**,ENGENHARIA DE TRANSPORTES,"1313291",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10457,150439
+DOUGLAS CARLOS SOARES DE MATOS,***.904.501-**,ENGENHARIA DE TRANSPORTES,"1313291",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10456,150440
+JAQUELINE RODRIGUES DE SOUZA GENTIL,***.777.331-**,ESTATÍSTICA,"121481",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10460,150441
+KAÍQUE FERREIRA HENRIQUE DE SOUZA,***.716.481-**,ESTATÍSTICA,"121481",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10459,150442
+LUCAS GABRIEL DA SILVA NERIS,***.280.551-**,ESTATÍSTICA,"121481",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-11,2023-05-11,2023-05-11,10458,150443
+PEDRO ARAÚJO PIETRAFESA,***.176.331-**,ESTATÍSTICA,"121481",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10462,150444
+YAN NEVES E SILVA,***.204.501-**,ESTATÍSTICA,"121481",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-11,2023-05-11,2023-05-11,10461,150445
+VICTOR AUGUSTO SILVA MACIEL,***.137.321-**,GEOLOGIA,"1313290",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-11,2023-05-11,2023-05-11,10463,150446
+FELIPE AGUSTÍN TORRES BENÍTEZ,***.314.661-**,ENGENHARIA CIVIL,"14099",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-11,2023-05-11,2023-05-11,10464,150447
+JOÃO MARCOS BONFIM DA SILVA,***.803.943-**,MÚSICA,"1113067",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-02,2023-05-12,2023-05-12,10465,150448
+GABRIELA MORAES MENDONÇA,***.256.511-**,QUÍMICA,"314118",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-12,2023-05-15,2023-05-15,10467,150450
+JÉSSICA STHEFFANY ALMEIDA GONÇALVES,***.730.791-**,JORNALISMO,"14106",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-04,2023-05-15,2023-05-15,10468,150451
+JANAÍNA CORDEIRO CAMPOS RIBEIRO DE FREITAS,***.845.291-**,FILOSOFIA,"1113012",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-16,2023-05-16,2023-05-16,10472,150453
+NANCY MAXIMO SANTANA,***.639.117-**,FILOSOFIA,"1113012",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-16,2023-05-16,2023-05-16,10470,150454
+SHANNON DIVINO DE SOUZA,***.357.611-**,FILOSOFIA,"1113012",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-16,2023-05-16,2023-05-16,10471,150455
+ANA CALDAS MARIANO,***.046.221-**,CIÊNCIAS SOCIAIS,"14105",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10475,150456
+BEATRIZ RAMOS DE CASTRO,***.667.941-**,CIÊNCIAS SOCIAIS,"14105",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10476,150457
+DAPHINY CARNEIRO SODRÉ MENDONÇA,***.970.501-**,CIÊNCIAS SOCIAIS,"14105",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10473,150458
+GRAÇA INÊS DO NASCIMENTO SILVA,***.345.761-**,CIÊNCIAS SOCIAIS,"14105",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-16,2023-05-16,2023-05-16,10474,150459
+INGRID FERNANDA RODRIGUES DA SILVA,***.940.011-**,CIÊNCIAS SOCIAIS,"14105",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-16,2023-05-16,2023-05-16,10477,150460
+RAQUEL VARELA DA SILVA,***.567.711-**,CIÊNCIAS SOCIAIS,"14105",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10478,150461
+ARTUR PEREIRA BORGES,***.539.381-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10480,150462
+CLARA ALEIXO LEANDRO,***.799.231-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10482,150463
+GABRIELE RODRIGUES DOS SANTOS,***.294.881-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10488,150464
+HELLEN SILVA AZEVEDO,***.682.922-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10487,150465
+JOÃO VICTOR AMARAL CRUZ,***.383.411-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10490,150466
+LAURA LUÍZA LIMA E SILVA,***.636.421-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10489,150467
+LIANARA ALVES ROCHA HONORATO,***.098.097-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10483,150469
+MÁINA CAROLINE ANTUNES DIAS,***.555.461-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10486,150470
+PAULO OTÁVIO SANTOS SOARES,***.945.273-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10485,150471
+PRISCILA GOMES OLIVEIRA,***.606.261-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10481,150472
+TALITA GUIMARÃES RODRIGUES DE SOUZA,***.698.821-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-16,2023-05-16,2023-05-16,10479,150473
+ÊNIO GOUVEIA BORGES FILHO,***.560.881-**,FILOSOFIA,"14110",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-16,2023-05-16,2023-05-16,10495,150474
+JOYCE HELLEN SANTOS DE MORAIS,***.096.681-**,FILOSOFIA,"14110",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10494,150475
+PATRICIA DOS SANTOS SILVA,***.103.151-**,FILOSOFIA,"14110",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2013-1",2023-05-16,2023-05-16,2023-05-16,10492,150476
+THAIS MARIA LOPES DE FARIA,***.283.311-**,FILOSOFIA,"14110",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10491,150477
+VANESSA CUNHA UNGARELLI,***.892.561-**,FILOSOFIA,"14110",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-16,2023-05-16,2023-05-16,10493,150478
+HENRIQUE MOREIRA OLIVEIRA,***.960.911-**,MUSEOLOGIA,"1110644",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10496,150479
+JOGLESSON RODRIGO DOS SANTOS COSTA,***.875.531-**,MUSEOLOGIA,"1110644",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10497,150480
+NEUMA SÔNIA DE SOUZA CARVALHO,***.039.231-**,MUSEOLOGIA,"1110644",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-16,2023-05-16,2023-05-16,10498,150481
+TATJANA DEL CASTILLO BARBOZA,***.514.912-**,MUSEOLOGIA,"1110644",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10499,150482
+DANIEL ANDRULIS LIMA,***.085.291-**,HISTÓRIA,"14112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-16,2023-05-16,2023-05-16,10504,150483
+FERNANDA SIQUEIRA COSTA,***.216.041-**,HISTÓRIA,"14112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-16,2023-05-16,2023-05-16,10500,150484
+KLEITON MARTINS DE SOUZA,***.809.521-**,HISTÓRIA,"14112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-16,2023-05-16,2023-05-16,10501,150485
+MARTE WIRTHMANN GONÇALVES GODOI PERES,***.190.071-**,HISTÓRIA,"14112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10502,150486
+VITÓRIA OLIVEIRA DE FARIA SOUZA,***.146.806-**,HISTÓRIA,"14112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10503,150487
+ALEXANDRE QUEIROZ DE SOUZA,***.704.673-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10525,150488
+ANA LIVIA PIRES BERNARDO,***.298.701-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10526,150489
+ELISA MARTINS DE REZENDE CONSTANTINO,***.747.271-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10527,150490
+ERICLYS HENRIQUE DE SOUSA PANTALEÃO,***.230.073-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10528,150491
+ERIKA LARISSA COIMBRA DE SOUZA,***.964.846-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10521,150492
+FABRICIO RODRIGUES DOS SANTOS,***.892.261-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-16,2023-05-16,2023-05-16,10522,150493
+FELIPE DA SILVA ALVES DUARTE,***.947.851-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-16,2023-05-16,2023-05-16,10523,150494
+FLAVIO VINICIUS DA SILVA SOUZA,***.316.571-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10524,150495
+GABRIEL VAGNO BORGES GOMIDES,***.109.911-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10520,150496
+HUDIENY DIAS DE SOUZA,***.091.381-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10519,150497
+ISABELA MAGIONI MARÓSTICA MARIANO,***.834.931-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10518,150498
+ISMAEL FELICIANO MACEDO RODRIGUES,***.893.611-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10517,150499
+JOSÉ SILVÉRIO SASSO,***.997.851-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10516,150500
+JULIANE JÚLIA FERNANDES ALMEIDA BORGES,***.277.351-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-16,2023-05-16,2023-05-16,10515,150501
+LARISSA GONÇALVES DA LUZ,***.303.461-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10514,150502
+LUCAS FERREIRA RODRIGUES,***.382.681-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10513,150503
+MARCUS VINÍCIUS CARLOS PARREIRA,***.161.201-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-16,2023-05-16,2023-05-16,10512,150504
+MATHEUS SOBRINHO FIORAMONTE,***.651.881-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-16,2023-05-16,2023-05-16,10511,150505
+MONIQUE DE SOUSA SILVA,***.250.211-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-16,2023-05-16,2023-05-16,10510,150506
+MURILLO ARAUJO DOS SANTOS SILVA,***.263.951-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10509,150507
+NILTON PERIM NETO,***.732.751-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10508,150508
+PAULO ADRIANO AIRES RIBEIRO PAES,***.269.001-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-16,2023-05-16,2023-05-16,10507,150509
+VINÍCIUS MARQUES FERREIRA,***.761.471-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10506,150510
+VITÓRIA IVO OLIVEIRA,***.284.331-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10505,150511
+YASSER MATHEUS DOS SANTOS ASSIS,***.438.741-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10529,150512
+YNDI LARA LACERDA DOS ANJOS,***.587.491-**,HISTÓRIA,"314112",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-16,2023-05-16,2023-05-16,10530,150513
+ANA CAROLINA DE CASTRO BUENO,***.844.051-**,CIÊNCIAS SOCIAIS,"1113007",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10541,150514
+ANA KATARYNA FREIRE COWAL,***.880.181-**,CIÊNCIAS SOCIAIS,"1113007",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10542,150515
+CHRYSTIANE ILDA DOS REIS VIEIRA,***.621.411-**,CIÊNCIAS SOCIAIS,"1113007",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10539,150516
+EDUARDO PEREIRA DE CARVALHO,***.990.631-**,CIÊNCIAS SOCIAIS,"1295548",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10540,150517
+GIOVANA RODRIGUES DE SOUZA,***.610.231-**,CIÊNCIAS SOCIAIS,"1113007",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10537,150518
+LÍLIAN EVYLEN GOMES DA CRUZ,***.836.141-**,CIÊNCIAS SOCIAIS,"1295548",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10538,150519
+MATEUS FERREIRA DA SILVA,***.914.328-**,CIÊNCIAS SOCIAIS,"1113007",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-16,2023-05-16,2023-05-16,10535,150520
+MAYKON DOUGLAS NUNES DIAS,***.104.221-**,CIÊNCIAS SOCIAIS,"1113007",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10536,150521
+SANAU BALTAZAR DA COSTA,***.662.431-**,CIÊNCIAS SOCIAIS,"1113007",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-16,2023-05-16,2023-05-16,10533,150522
+SYLL FARNEY JULLE PEREIRA DE ARAUJO,***.010.281-**,CIÊNCIAS SOCIAIS,"1113007",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-16,2023-05-16,2023-05-16,10534,150523
+TÂNIA GLAYDE MACEDO DE ARAÚJO GENEROSO,***.793.801-**,CIÊNCIAS SOCIAIS,"1113007",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-16,2023-05-16,2023-05-16,10531,150524
+THAUANA ALVES CZERVIEC,***.597.871-**,CIÊNCIAS SOCIAIS,"1113007",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-16,2023-05-16,10532,150525
+ALINE ELIAS CÂNDIDO,***.996.621-**,PEDAGOGIA,"21992",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-04-27,2023-05-17,2023-05-17,10543,150526
+LETÍCIA DUARTE FERNANDES,***.118.751-**,RELAÇÕES INTERNACIONAIS,"1188874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-16,2023-05-17,2023-05-17,10544,150527
+MARCUS BARROS FIGUEREDO,***.426.301-**,MÚSICA,"1113067",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-2",2023-05-17,2023-05-18,2023-05-18,10545,150528
+EVALDO ANDRADE DA SILVA,***.092.021-**,ARTES CÊNICAS,"1147015",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-2",2023-05-17,2023-05-18,2023-05-18,10546,150529
+FABIANO GOMES PIRES,***.139.771-**,ENGENHARIA DE SOFTWARE,"121570",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10552,150530
+HEITOR MELO DE LUCAS BRANDÃO,***.646.011-**,ENGENHARIA DE SOFTWARE,"121570",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10553,150531
+JACOB FERRAZ DOS SANTOS,***.431.715-**,ENGENHARIA DE SOFTWARE,"121570",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10550,150532
+MICHELLY SILVA LIMA,***.044.201-**,ENGENHARIA DE SOFTWARE,"121570",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10551,150533
+PABLO HENRIQUE AGUIAR CAVALCANTE,***.352.921-**,ENGENHARIA DE SOFTWARE,"121570",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10548,150534
+ROBERTO KENZO HAMANO,***.805.241-**,ENGENHARIA DE SOFTWARE,"121570",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10549,150535
+VICTOR MELO DE LUCAS BRANDÃO,***.646.001-**,ENGENHARIA DE SOFTWARE,"121570",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10547,150536
+BEATRIZ DE JESUS RODRIGUES,***.419.991-**,CIÊNCIAS CONTÁBEIS,"90202",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10560,150537
+DANIELLE DE PAULI OLIVEIRA,***.824.071-**,CIÊNCIAS CONTÁBEIS,"90202",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10558,150538
+ELISA GONÇALVES CASTILHO SILVA,***.409.421-**,CIÊNCIAS CONTÁBEIS,"90202",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10559,150539
+FRANCINY ROCHA LIMA,***.492.691-**,CIÊNCIAS CONTÁBEIS,"90202",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10556,150540
+HERICA TAINARA PEREIRA XAVIER,***.860.531-**,CIÊNCIAS CONTÁBEIS,"90202",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10557,150541
+JÉSSICA MONTEIRO FARIA,***.595.021-**,CIÊNCIAS CONTÁBEIS,"90202",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-18,2023-05-18,2023-05-18,10554,150542
+JULIANA INACIA DE ALMEIDA,***.290.961-**,CIÊNCIAS CONTÁBEIS,"90202",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-18,2023-05-18,10555,150543
+PRISCILLA HELENA DE OLIVEIRA,***.306.891-**,CIÊNCIAS CONTÁBEIS,"90202",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2012-1",2023-05-18,2023-05-18,2023-05-18,10561,150544
+ALEF IURY SIQUEIRA FERREIRA,***.700.811-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10573,150545
+CRISTHINNY SARAH PIRES ARAUJO,***.424.941-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10572,150546
+DIONATAN ALVES VIEIRA,***.756.121-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2013-1",2023-05-18,2023-05-18,2023-05-18,10571,150547
+EDUARDO CARDOSO LOURENZO,***.891.801-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2013-1",2023-05-18,2023-05-18,2023-05-18,10570,150548
+GEISSON BARBACENA CARDOSO DE OLIVEIRA,***.631.081-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-18,2023-05-18,2023-05-18,10569,150549
+GUSTAVO MACHADO LEAL,***.635.451-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-18,2023-05-18,2023-05-18,10568,150550
+ISABELA CAROLINA LEMES FROTA,***.773.541-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-18,2023-05-18,2023-05-18,10567,150551
+JENIFFER SILVA PIRES DE MORAES,***.575.051-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2013-1",2023-05-18,2023-05-18,2023-05-18,10566,150552
+LUCAS DE SOUSA NEVES,***.287.391-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10565,150553
+PEDRO HENRIQUE SANCHES PELEGRINO ZAMBRANO,***.897.598-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10564,150554
+RENATO SILVA DIAS,***.325.281-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-18,2023-05-18,2023-05-18,10563,150555
+THIAGO EMANUELL VIEIRA MOURA,***.806.271-**,CIÊNCIA DA COMPUTAÇÃO,"14098",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-18,2023-05-18,2023-05-18,10562,150556
+ALANNA FANTIELLE MELO DE DEUS,***.994.451-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-18,2023-05-18,10576,150557
+ANDRESSA AYUMI ADATI KOGATI,***.969.161-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-18,2023-05-18,10575,150558
+ANTONIO PIRES DE MORAIS NETO,***.768.451-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10574,150559
+ARIANE MATIAS CORREIA,***.956.071-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-18,2023-05-18,10589,150560
+BEATRIZ MARQUES FORTES FLEURY E SOUZA,***.121.051-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-18,2023-05-18,10590,150561
+FLORIANO RODRIGUES DE MORAES NETO,***.386.941-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10591,150562
+GABRIEL ARRATES POTENCIANO GARCIA,***.824.441-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10592,150563
+GUILHERME DE MELO GODOY,***.946.511-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-18,2023-05-18,2023-05-18,10585,150564
+HEITOR DE QUEIROZ MIRANDA,***.553.021-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-18,2023-05-18,10586,150565
+ISABELLA DELAZARI PARRAVANO,***.072.661-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10587,150566
+JOÃO PEDRO DOS SANTOS MORENO,***.756.821-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10588,150567
+KÉVIN GARCIA CORBIN,***.776.741-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-18,2023-05-18,10581,150568
+MARIA CAROLINA GOMES PEIXOTO,***.164.841-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-18,2023-05-18,2023-05-18,10582,150569
+PEDRO AUGUSTO DE OLIVEIRA MOREIRA,***.598.671-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-18,2023-05-18,10583,150570
+SAMUEL ENRIQUE IVANASKAS DUARTE,***.813.701-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-18,2023-05-18,2023-05-18,10584,150571
+TARCÍSIO LUIS RODRIGUES,***.796.681-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2013-1",2023-05-18,2023-05-18,2023-05-18,10577,150572
+THAMILLA ALVES DE MORAIS,***.700.001-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10578,150573
+VINÍCIUS RODRIGUES SILVA,***.844.311-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10579,150574
+YURI JARDIM CABRAL,***.108.771-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-18,2023-05-18,10580,150575
+ALAN VIANA DO NASCIMENTO,***.500.142-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-18,2023-05-18,2023-05-18,10606,150576
+BIANCA RAISSA FERREIRA NUNES,***.676.881-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-18,2023-05-18,2023-05-18,10605,150577
+CARDEQUE HENRIQUE BITTES DE ALVARENGA BORGES,***.378.101-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-18,2023-05-18,2023-05-18,10608,150578
+GABRIEL BATISTA ALEIXO,***.867.081-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-18,2023-05-18,2023-05-18,10607,150579
+GABRIELL CASTRO DE CARVALHO,***.398.271-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10602,150580
+JOÃO PAULO AMARAL AZEVEDO E SILVA,***.391.031-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2011-1",2023-05-18,2023-05-18,2023-05-18,10601,150581
+JONATHAN MIGUEL RIBEIRO,***.350.391-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2020-1",2023-05-18,2023-05-18,2023-05-18,10604,150582
+JOSUÉ GOMES QUEIROZ,***.379.271-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-18,2023-05-18,2023-05-18,10603,150583
+LORENA CLOTILDE AIRES DE MORAIS,***.674.481-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2010-2",2023-05-18,2023-05-18,2023-05-18,10598,150584
+LUAN MACEDO GALVÃO DE OLIVEIRA,***.888.861-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-18,2023-05-18,2023-05-18,10597,150585
+MATHEUS FERREIRA ALVES TOLEDO,***.775.151-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10600,150586
+MAURICIO RODRIGUES LIMA,***.708.161-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10599,150587
+MURILO GONTIJO FERREIRA NETTO,***.518.391-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2012-2",2023-05-18,2023-05-18,2023-05-18,10594,150588
+PAULO HENRIQUE DE SOUSA SANTOS,***.291.061-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10593,150589
+PEDRO COSTA FARIA CARDOSO,***.706.001-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2013-1",2023-05-18,2023-05-18,2023-05-18,10596,150590
+PEDRO VITOR MENEGAT DE ARAÚJO,***.194.668-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-18,2023-05-18,2023-05-18,10595,150591
+REINALDO ALBERNAZ DE OLIVEIRA,***.012.471-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-2",2023-05-18,2023-05-18,2023-05-18,10610,150592
+THIAGO FILIPE STIVAL OLIVEIRA,***.810.151-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10611,150593
+WESLEY RODRIGUES DOS SANTOS,***.647.651-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-18,2023-05-18,2023-05-18,10609,150594
+AHOEFA WENDY CECILIA KOUAMI,***.037.532-**,CIÊNCIAS ECONÔMICAS,"80638",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10612,150595
+ADRIELLY GABRIELA DO VALE SANTANA,***.943.211-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-2",2023-05-18,2023-05-18,2023-05-18,10630,150596
+ANA MAIRA DOS SANTOS BERNARDO,***.523.241-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-2",2023-05-18,2023-05-18,2023-05-18,10631,150597
+ANA VICTÓRIA CARMO TOCANTINS,***.192.101-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10628,150598
+BRENO ALCEBIADES FERREIRA,***.742.541-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10629,150599
+ERNANDEZ DA COSTA OLIVEIRA,***.902.061-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10622,150600
+ISABELLA CRISTINE CORDEIRO DE AQUINO,***.745.001-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-18,2023-05-18,2023-05-18,10623,150601
+ISADORA SILVA DE MELO PEREIRA,***.803.811-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-18,2023-05-18,2023-05-18,10620,150602
+IZADORA DE FREITAS RODRIGUES,***.021.811-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-18,2023-05-18,2023-05-18,10621,150603
+JHONATAN DA SILVA ROCHA,***.600.311-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10626,150604
+JOÃO FERNANDO CAVALCANTE SOUSA,***.148.731-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-18,2023-05-18,2023-05-18,10627,150605
+KARINA LEITÃO NORONHA,***.121.071-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2020-2",2023-05-18,2023-05-18,2023-05-18,10624,150606
+KATTRYEL DE SOUZA ALCÂNTARA,***.637.971-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-18,2023-05-18,2023-05-18,10625,150607
+MICAELA DA SILVA LESSA,***.302.121-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-18,2023-05-18,2023-05-18,10616,150608
+MOISÉS BELO DOS SANTOS NETO,***.891.021-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2011-2",2023-05-18,2023-05-18,2023-05-18,10615,150609
+RODRIGO ANDRADE OLIVEIRA SILVA,***.104.921-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-18,2023-05-18,2023-05-18,10614,150610
+SARAH COSTA MAGALHÃES,***.274.811-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-18,2023-05-18,2023-05-18,10613,150611
+SILVIA VITÓRIA MARIA OLIVEIRA CURADO,***.628.521-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-18,2023-05-18,10619,150612
+SYLVIA BEATRIZ STUDENIK ELIAS,***.235.131-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-18,2023-05-18,2023-05-18,10618,150613
+VICTOR KAORU KATO,***.134.968-**,ADMINISTRAÇÃO,"90047",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-18,2023-05-18,2023-05-18,10617,150614
+NATHIELLY ALVES MESQUITA,***.767.451-**,PEDAGOGIA,"21992",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-18,2023-05-19,2023-05-19,10632,150615
+AMANDA ROSA FALCÃO,***.775.861-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10636,150616
+ANA ELISA DE LIMA OLIVEIRA,***.367.671-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10635,150617
+ELIAS GONÇALVES DA SILVA NETO,***.277.631-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10634,150618
+GABRIEL FERREIRA SANTOS,***.320.671-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10633,150619
+GUILHERME GOMES NASCIMENTO,***.852.061-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10640,150620
+KARLA GABRIELLE MOREIRA DE SOUZA,***.887.701-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10639,150621
+LUAN DE SOUSA RODRIGUES,***.110.141-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10638,150622
+LUCAS NUNES GUIMARÃES,***.575.121-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10637,150623
+MARCOS CARRIJO DOS SANTOS,***.573.861-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10642,150624
+MATHEUS AZEVEDO DA SILVA,***.263.941-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10643,150625
+MYLENA DE CAMPOS LIMA,***.049.301-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10644,150626
+NATHALY ZAINE BARCELOS SILVA DE BRITO,***.863.271-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10645,150627
+PATRÍCIA CARVALHO GONDIM TELES,***.823.561-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10646,150628
+RAFAEL GUSTAVO GONÇALVES DOS ANJOS BRITO FERREIRA,***.581.366-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10647,150629
+RAIANY CRISTINA RIBEIRO SANTOS,***.403.801-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10648,150630
+THAMIRYS DE SOUZA CANTÃO,***.107.992-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2021-1",2023-05-23,2023-05-23,2023-05-23,10649,150631
+YASMIM TAVARES HIRDES,***.792.291-**,CIÊNCIAS AMBIENTAIS,"1084192",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10641,150632
+CAMILA NARUMI YANO LOPES,***.748.431-**,ENGENHARIA QUÍMICA,"122843",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10650,150633
+GUILHERME SOUZA DE CARVALHO,***.480.261-**,ENGENHARIA QUÍMICA,"122843",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-23,2023-05-23,2023-05-23,10651,150634
+ISABELA AYRES FERREIRA TITO,***.309.151-**,ENGENHARIA QUÍMICA,"122843",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10652,150635
+LETÍCIA MARTA KELLER KENEDY,***.698.201-**,ENGENHARIA QUÍMICA,"122843",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-23,2023-05-23,2023-05-23,10653,150636
+LUCAS BEZERRA SILVA,***.631.283-**,ENGENHARIA QUÍMICA,"122843",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10654,150637
+LUCAS RAMOS DOS REIS,***.023.131-**,ENGENHARIA QUÍMICA,"122843",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10655,150638
+WANDER MATHEUS DA SILVA,***.941.561-**,ENGENHARIA QUÍMICA,"122843",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10656,150639
+DÉBORA SABATE BORGES,***.508.061-**,QUÍMICA,"314118",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-23,2023-05-23,2023-05-23,10659,150640
+ENYA SILVA DE OLIVEIRA,***.295.531-**,QUÍMICA,"314118",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-23,2023-05-23,2023-05-23,10658,150641
+GABRIEL HENRY MORAIS DUFRAYER,***.358.271-**,QUÍMICA,"314118",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10661,150642
+IGOR LAFAETE DE FREITAS PEREIRA MORAIS,***.417.366-**,QUÍMICA,"314118",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10660,150643
+KAYRO MATHEUS PINTO DE MORAIS,***.362.391-**,QUÍMICA,"314118",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10663,150644
+LARISSA MELO DE ANDRADE,***.951.571-**,QUÍMICA,"314118",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-2",2023-05-23,2023-05-23,2023-05-23,10662,150645
+LAYS REGINA INACIO FERREIRA,***.805.811-**,QUÍMICA,"314118",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10665,150646
+POLYANA NOVAES SANTOS,***.819.351-**,QUÍMICA,"314118",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10664,150647
+RAISSA ROSA E SILVA,***.962.251-**,QUÍMICA,"314118",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-2",2023-05-23,2023-05-23,2023-05-23,10657,150648
+ALEX PEREIRA DA SILVA,***.415.571-**,QUÍMICA,"1113070",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-23,2023-05-23,2023-05-23,10666,150649
+CARLOS DANIEL PEREIRA FREITAS,***.283.721-**,QUÍMICA,"1113070",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2021-1",2023-05-23,2023-05-23,2023-05-23,10668,150650
+CARLOS EDUARDO DA SILVA GUIMARÃES,***.853.277-**,QUÍMICA,"1113070",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2020-1",2023-05-23,2023-05-23,2023-05-23,10667,150651
+DENI GOMES DA SILVA JUNIOR,***.118.801-**,QUÍMICA,"1113070",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-23,2023-05-23,2023-05-23,10670,150652
+GABRIELA FERREIRA MATOS,***.669.851-**,QUÍMICA,"1113070",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10669,150653
+BRUNO GUILHERME ANTUNES BORGES,***.741.611-**,FÍSICA,"1113044",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2011-1",2023-05-23,2023-05-23,2023-05-23,10675,150655
+CAMILA DOS REIS LEANDRO,***.267.191-**,FÍSICA,"1113044",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-23,2023-05-23,2023-05-23,10676,150656
+GUSTAVO ALVES DE ARAUJO,***.292.861-**,FÍSICA,"1113044",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-23,2023-05-23,2023-05-23,10674,150657
+IGOR RIBEIRO PIMENTA NUNES,***.912.121-**,FÍSICA,"1113044",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10673,150658
+MÁRIO ANTÔNIO COSTA FILHO,***.971.131-**,FÍSICA,"1113044",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-23,2023-05-23,2023-05-23,10672,150659
+JÚLIA BARCELOS MUNIZ,***.257.691-**,FÍSICA MÉDICA,"1188878",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10677,150660
+ADÃO JÚNIOR DE SOUSA DIAS,***.058.751-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10688,150661
+ALESSANDRO DA SILVA LIMA,***.616.931-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10687,150662
+AMARILDO TEHELE KARAJÁ,***.865.511-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10686,150663
+ANDRESSA ARAUJO GUIMARÃES,***.032.391-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-23,2023-05-23,2023-05-23,10696,150664
+AVANÚZIA DOS SANTOS ROSA,***.267.341-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10695,150665
+FELIPE FERRARI LOPES GUILHERME,***.596.911-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-23,2023-05-23,2023-05-23,10694,150666
+GABRIEL RAMOS BONACH DE CASTRO,***.311.281-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10693,150667
+GILVIA HELENA DOS SANTOS,***.761.811-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10692,150668
+GUILHERME DE OLIVEIRA LIMA,***.921.231-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10691,150669
+ÍTALO RODRIGUES ANTUNES,***.383.391-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10690,150670
+KIARA REGINA SANTOS SILVA,***.891.035-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10689,150671
+MARCOS SILVA,***.709.701-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10684,150672
+NATALIA BARBOSA MATEUS,***.677.971-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2020-1",2023-05-23,2023-05-23,2023-05-23,10685,150673
+THAIS CRISTINE DE SOUZA,***.603.188-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10682,150674
+VALDENILDE DA SILVA SOUSA LIMA,***.301.743-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10683,150675
+VANDERLEIA FAUSTINO DE JESUS,***.955.401-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10680,150676
+VANESSA MENDONÇA SAMPAIO,***.529.541-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10681,150677
+WECIO AUGUSTO ZANI MOURA,***.679.941-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10678,150678
+YASMIM CRISTINE DA CUNHA OLIVEIRA,***.610.363-**,GEOGRAFIA,"14102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10679,150679
+ANA CAROLINE PEREIRA DA SILVA,***.537.741-**,GEOGRAFIA,"314102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10704,150680
+BENEDITO MARCIANO DE MOURA NETO,***.824.091-**,GEOGRAFIA,"314102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10705,150681
+ELISÂNGELA FIAIA MIRANDA DE ARAÚJO,***.006.491-**,GEOGRAFIA,"314102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10702,150682
+GABRIELLY CRISTINY DE ANDRADE,***.900.791-**,GEOGRAFIA,"314102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10703,150683
+GUILHERME SILVEIRA DOS SANTOS,***.638.901-**,GEOGRAFIA,"314102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-23,2023-05-23,2023-05-23,10700,150684
+KAREN MYLLENE LIMA DE OLIVEIRA,***.223.571-**,GEOGRAFIA,"314102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10701,150685
+MATHEUS VALADARES DA SILVA,***.829.551-**,GEOGRAFIA,"314102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-23,2023-05-23,10698,150686
+RAÍSSA VIEIRA DOS SANTOS,***.872.761-**,GEOGRAFIA,"314102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-23,2023-05-23,2023-05-23,10699,150687
+YAN SILVA VARGAS,***.623.891-**,GEOGRAFIA,"314102",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10697,150688
+PAULA MIRELLY CARDOSO DA SILVA,***.696.061-**,PEDAGOGIA,"21992",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10706,150689
+INGRID SOUSA LIMA DOS SANTOS,***.801.655-**,PEDAGOGIA,"21992",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10707,150690
+THAYANNE APINAGÉS DOS SANTOS,***.371.711-**,PEDAGOGIA,"21992",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-23,2023-05-23,10708,150691
+ANA CLARA PANIAGO RISUENHO,***.269.321-**,ARTES VISUAIS,"21990",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10710,150692
+BRUNA MARTINS SILVA,***.188.751-**,ARTES VISUAIS,"21990",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10709,150693
+CÉU FERREIRA BARBOSA,***.388.211-**,ARTES VISUAIS,"21990",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10712,150694
+DANIELLI BETINI SOUZA SENA,***.431.878-**,ARTES VISUAIS,"21990",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-25,2023-05-25,2023-05-25,10711,150695
+KARL MARX SILVA ARAUJO,***.078.845-**,ARTES VISUAIS,"21990",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10714,150696
+POLIANE LIMA MACEDO,***.876.171-**,ARTES VISUAIS,"21990",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-25,2023-05-25,2023-05-25,10713,150697
+RAYLENE CAMPOS DE CARVALHO,***.968.251-**,ARTES VISUAIS,"21990",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10716,150698
+VITÓRIA LINHARES SILVA,***.695.241-**,ARTES VISUAIS,"21990",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-25,2023-05-25,2023-05-25,10715,150699
+ANA LUIZA DA SILVA FERREIRA,***.083.951-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10726,150700
+DANIELY DA GUIA MORAIS CARDOSO,***.368.121-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10725,150701
+EDUARDA DIAS ROSA,***.512.991-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10728,150702
+EMILLY SABRINE NERY BITTENCOURT,***.293.005-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10727,150703
+FABIANA MONTEIRO FIDELIS,***.600.431-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10721,150704
+KAROLINE MONTEIRO BARBOSA,***.707.731-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10722,150705
+LUIZA MESSIAS SANT' ANNA,***.510.472-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10723,150706
+MATHEUS GOMES BARBOSA,***.831.651-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10724,150707
+RENATA BORGES MARTINS PEREIRA,***.690.121-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10717,150708
+TAILA CARVALHO DE SOUSA,***.776.361-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10718,150709
+THAIS MISSIAS DE CARVALHO,***.772.051-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10719,150710
+YASMIN MARCIANO DOS SANTOS,***.074.041-**,DESIGN DE AMBIENTES,"1178874",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10720,150711
+AMANDA GARCIA MORAES,***.285.051-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10737,150712
+AMANDA VILELA JACARANDÁ MACIEL,***.097.671-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10738,150713
+BARBARA SILVA DOS SANTOS,***.418.686-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10739,150714
+CLARA AMARANTO BARBOSA,***.068.496-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10740,150715
+EMILY MOREIRA DE SOUZA,***.556.417-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10733,150716
+IMARA NATALLI CHAGAS,***.644.261-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10734,150717
+KELLEN RAMOS DA COSTA,***.838.851-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10735,150718
+LARA AMORIM MENDES,***.002.421-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10736,150719
+MARIA FERNANDA WODZYNSKI KLOEPPEL,***.447.071-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10732,150720
+RÚBEN VERNER DE OLIVEIRA,***.331.113-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10731,150721
+SARAH VICTÓRIA MARQUES RIBEIRO,***.201.132-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10730,150722
+STHEFANY RIBEIRO DE OLIVEIRA,***.336.161-**,DESIGN DE MODA,"14136",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10729,150723
+ADRIANO JUSTINIANO DE OLIVEIRA,***.355.671-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-25,2023-05-25,2023-05-25,10757,150724
+ALBERTO GORAYEB SANTOS,***.945.095-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10756,150725
+AMANDA ASSIS PEREIRA,***.556.821-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10755,150726
+ANA JULIA CARVALHO ALVES,***.858.261-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10754,150727
+ANDRÉ LUIZ MONTALVÃO JUNIOR,***.158.621-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10761,150728
+ARMANDO CUSTODIO NETO,***.628.401-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10760,150729
+BRENDA CRISTINA PAIXÃO SOUZA,***.886.891-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10759,150730
+DANTE GONÇALVES DA CRUZ,***.449.851-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-25,2023-05-25,2023-05-25,10758,150731
+DÁPHALY OLIVEIRA FERREIRA,***.838.621-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10765,150732
+DAYANE RIBEIRO,***.010.926-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10764,150733
+FELIPE DE PAULA CASTRO VARGAS,***.858.011-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10763,150734
+FER RIZO,***.510.671-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10762,150735
+ISABELLE SANTOS SILVA LINS,***.729.888-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10743,150736
+JACQUELINE ALVES DE OLIVEIRA,***.252.261-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10744,150737
+JOÃO VICTOR MARTINS BARCELLOS,***.597.971-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10741,150738
+JÚLIA GABRIELA CARDÔSO,***.859.843-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10742,150739
+KIARA PORTES RAMOS,***.247.961-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10747,150740
+LARISSA NUNES CAETANO,***.476.741-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10748,150741
+LAURA FERREIRA DIAS,***.166.298-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10745,150742
+LAURA PONTES DE CASTRO,***.431.711-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10746,150743
+MARCOS VINICIOS DIVINO DE LIMA,***.587.921-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10751,150744
+MATEUS CECÍLIO NAME TELES,***.928.401-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10752,150745
+RAQUEL ARAÚJO FRÓES,***.670.481-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10749,150746
+ROBERTA DA SILVA,***.599.338-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10750,150747
+VIRGÍNIA MOTA CURADO ADÔRNO,***.950.981-**,DESIGN GRÁFICO,"1188875",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10753,150748
+ELIANE SOARES DE REZENDE,***.632.521-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-25,2023-05-25,10766,150749
+ANA FLÁVIA NUNES CRUVINEL,***.151.851-**,ARQUITETURA E URBANISMO,"122584",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10771,150750
+ELOYSA SOUZA FERREIRA,***.786.481-**,ARQUITETURA E URBANISMO,"122584",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10772,150751
+IAGO RODRIGO SIQUEIRA VAZ,***.568.471-**,ARQUITETURA E URBANISMO,"122584",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10768,150752
+JOÃO PAULO FERREIRA DE SOUZA,***.348.231-**,ARQUITETURA E URBANISMO,"122584",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10767,150753
+KLEBER ANTÔNIO SANTANA,***.563.691-**,ARQUITETURA E URBANISMO,"122584",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10770,150754
+PEDRO HENRIQUE DE CASTRO XAVIER,***.020.131-**,ARQUITETURA E URBANISMO,"122584",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10769,150755
+ALICE CASTRO CARDOSO,***.841.918-**,ARTES VISUAIS,"39903",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10774,150756
+CLÉBIO BARBOSA DE SOUZA,***.662.682-**,ARTES VISUAIS,"39903",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10773,150757
+GIULIANNA VITORIA AUGUSTA RAMOS,***.111.561-**,ARTES VISUAIS,"39903",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10776,150758
+LEVI NASCENTE GOMES,***.931.941-**,ARTES VISUAIS,"39903",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10775,150759
+LIGIA MARINA DE MORAIS MONTAGNA,***.331.078-**,ARTES VISUAIS,"39903",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-1",2023-05-25,2023-05-25,2023-05-25,10778,150760
+LUIZ GUSTAVO CÂNDIDO DE ANDRADE,***.670.791-**,ARTES VISUAIS,"39903",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10777,150761
+MYREILLE HORTÊNCIA DO NASCIMENTO SILVA CAETANO,***.398.171-**,ARTES VISUAIS,"39903",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10780,150762
+PEDRO ALVES DA VEIGA JORDÃO,***.450.551-**,ARTES VISUAIS,"39903",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-25,2023-05-25,2023-05-25,10779,150763
+PEDRO LUCAS SILVA MENEZES,***.786.061-**,ARTES VISUAIS,"39903",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-25,2023-05-25,2023-05-25,10781,150764
+ELLEN SÂMILA DOS SANTOS MARINHO,***.770.171-**,LETRAS: TRADUÇÃO E INTERPRET. EM LIBRAS- PORTUGUÊS,"1314314",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2019-1",2023-05-23,2023-05-25,2023-05-25,10782,150765
+SARA VIEIRA CARDOSO,***.321.271-**,GEOLOGIA,"1313290",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2015-1",2023-05-23,2023-05-25,2023-05-25,10783,150766
+JÉSSICA GONÇALVES REZENDE,***.593.431-**,LETRAS: ESPANHOL,"86444",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-23,2023-05-25,2023-05-25,10784,150767
+ISRAEL MAGALHÃES TEIXEIRA,***.921.911-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2017-2",2023-05-25,2023-05-26,2023-05-26,10785,150768
+ISMAEL JOSÉ CIRILO JUNIOR,***.292.251-**,SISTEMAS DE INFORMAÇÃO,"123429",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2013-2",2023-05-25,2023-05-26,2023-05-26,10786,150769
+LARA CINTRA MARQUES,***.561.631-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2014-1",2023-05-26,2023-05-29,2023-05-29,10787,150770
+KAROLINE BATISTA DOS SANTOS,***.223.811-**,ENGENHARIA QUÍMICA,"122843",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-26,2023-05-29,2023-05-29,10788,150771
+RAFAEL PAVETITS MACHADO DE ARAÚJO,***.184.661-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2018-1",2023-05-30,2023-05-31,2023-05-31,10789,150772
+PITÁGORAS RODRIGUES LIMA,***.218.591-**,EDUCAÇÃO FÍSICA,"14123",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2016-1",2023-05-30,2023-05-31,2023-05-31,10790,150773
+MATHEUS SANTOS DE SOUZA TEODORICO,***.279.941-**,QUÍMICA,"1113070",Universidade Federal de Goias,"584",Universidade Federal de Goias,"584","2021-1",2023-05-23,2023-05-31,2023-05-31,10791,150774
