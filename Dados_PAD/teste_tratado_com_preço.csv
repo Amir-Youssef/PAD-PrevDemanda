@@ -1,0 +1,1460 @@
+Id,tipo_moradia,localizacao,andares,nota_casa,ano_contrucao,banheiros,vagas_garagem,cozinhas,banheiros,tamanho(em pés quadrados),tamanho lote (n útil)
+1461,Densidade Residencial Alta,NAmes,1 andar,6,1961,2,1.0,1,1.0,896,11622
+1462,Densidade Residencial Baixa,NAmes,1 andar,6,1958,3,1.0,1,2.0,1329,14267
+1463,Densidade Residencial Baixa,Gilbert,2 andares,5,1997,3,2.0,1,3.0,1629,13830
+1464,Densidade Residencial Baixa,Gilbert,2 andares,6,1998,3,2.0,1,3.0,1604,9978
+1465,Densidade Residencial Baixa,Stone Brook,1 andar,5,1992,2,2.0,1,2.0,1280,5005
+1466,Densidade Residencial Baixa,Gilbert,2 andares,5,1993,3,2.0,1,3.0,1655,10000
+1467,Densidade Residencial Baixa,Gilbert,1 andar,7,1992,3,2.0,1,3.0,1187,7980
+1468,Densidade Residencial Baixa,Gilbert,2 andares,5,1998,3,2.0,1,3.0,1465,8402
+1469,Densidade Residencial Baixa,Gilbert,1 andar,5,1990,2,2.0,1,3.0,1341,10176
+1470,Densidade Residencial Baixa,NAmes,1 andar,5,1970,2,2.0,1,2.0,882,8400
+1471,Densidade Residencial Alta,NAmes,1 andar,5,1999,2,2.0,1,3.0,1337,5858
+1472,Densidade Residencial Média,Briardale,2 andares,5,1971,2,1.0,1,2.0,987,1680
+1473,Densidade Residencial Média,Briardale,2 andares,5,1971,3,1.0,1,2.0,1092,1680
+1474,Densidade Residencial Baixa,Northpark Villa,2 andares,6,1975,3,2.0,1,3.0,1456,2280
+1475,Densidade Residencial Baixa,Northpark Villa,1 andar,6,1975,2,1.0,1,1.0,836,2280
+1476,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2009,3,3.0,1,3.0,2334,12858
+1477,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2009,3,3.0,1,2.0,1544,12883
+1478,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,3,3.0,1,2.0,1698,11520
+1479,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,3,3.0,1,2.0,1822,14122
+1480,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,3,3.0,1,4.0,2696,14300
+1481,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2002,3,3.0,1,4.0,2250,13650
+1482,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,2,2.0,1,2.0,1370,7132
+1483,Densidade Residencial Baixa,Gilbert,1 andar,5,2005,3,2.0,1,2.0,1324,18494
+1484,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2006,2,2.0,1,2.0,1145,3203
+1485,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,3,2.0,1,4.0,1374,13300
+1486,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,3,2.0,1,3.0,1733,8577
+1487,Densidade Residencial Baixa,Northridge,2 andares,5,1998,4,3.0,1,3.0,2475,17433
+1488,Densidade Residencial Baixa,Somerset,1 andar,5,2005,2,3.0,1,2.0,1595,8987
+1489,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2009,2,2.0,1,2.0,1218,9215
+1490,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2005,2,2.0,1,3.0,1468,10440
+1491,Densidade Residencial Baixa,Sawyer West,2 andares,5,2004,3,2.0,1,3.0,1659,11920
+1492,Densidade Residencial Alta,Sawyer West,1 andar,5,1920,2,1.0,1,1.0,1012,9800
+1493,Densidade Residencial Baixa,Sawyer,1 andar,6,1974,3,2.0,1,3.0,1494,15410
+1494,Densidade Residencial Baixa,Northridge,2 andares,5,1993,4,3.0,1,4.0,2349,13143
+1495,Densidade Residencial Baixa,Northridge,2 andares,5,1992,4,3.0,1,4.0,2225,11134
+1496,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2004,2,2.0,1,3.0,1488,4835
+1497,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2004,2,2.0,1,3.0,1680,3515
+1498,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2004,2,2.0,1,3.0,1200,3215
+1499,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2004,2,2.0,1,4.0,1200,2544
+1500,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,2,2.0,1,4.0,1236,2544
+1501,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,2,2.0,1,4.0,1512,2980
+1502,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2003,2,2.0,1,3.0,1080,2403
+1503,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2010,1,3.0,1,3.0,1418,12853
+1504,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,3,2.0,1,4.0,1848,7379
+1505,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2002,3,2.0,1,3.0,1492,8000
+1506,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1967,4,2.0,1,3.0,1829,10456
+1507,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1993,4,2.0,1,4.0,2495,10791
+1508,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1978,3,2.0,1,4.0,1891,18837
+1509,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1971,4,2.0,1,3.0,1645,9600
+1510,Densidade Residencial Baixa,NAmes,1 andar,5,1966,3,2.0,1,3.0,1232,9600
+1511,Densidade Residencial Baixa,NAmes,1 andar,5,1966,3,2.0,1,2.0,1209,9900
+1512,Densidade Residencial Baixa,NAmes,1 andar,6,1967,3,2.0,1,3.0,1510,9680
+1513,Densidade Residencial Baixa,NAmes,2 andares,5,1964,3,2.0,1,2.0,1775,10600
+1514,Densidade Residencial Baixa,NAmes,1 andar,6,1962,6,0.0,2,4.0,1728,13260
+1515,Densidade Residencial Baixa,NAmes,2 andares,7,1952,3,2.0,1,2.0,2461,9724
+1516,Densidade Residencial Baixa,NAmes,2 andares,6,1949,3,2.0,1,2.0,1556,17360
+1517,Densidade Residencial Baixa,NAmes,2 andares,8,1966,2,1.0,1,2.0,1128,11380
+1518,Densidade Residencial Baixa,NAmes,1 andar,5,1958,4,2.0,2,2.0,1604,8267
+1519,Densidade Residencial Baixa,NAmes,1 andar,5,2003,3,2.0,1,3.0,1480,8197
+1520,Densidade Residencial Baixa,NAmes,1 andar,5,1959,3,1.0,1,2.0,1143,8050
+1521,Densidade Residencial Baixa,NAmes,1 andar,5,1959,3,1.0,1,1.0,1206,10725
+1522,Densidade Residencial Baixa,NAmes,1 andar,5,1959,3,2.0,1,3.0,1580,10032
+1523,Densidade Residencial Baixa,NAmes,2 andares,5,1956,3,1.0,1,1.0,1337,8382
+1524,Densidade Residencial Baixa,NAmes,1 andar,7,1952,2,1.0,1,2.0,1064,10950
+1525,Densidade Residencial Baixa,NAmes,1 andar,6,1955,3,1.0,1,1.0,972,10895
+1526,Densidade Residencial Baixa,NAmes,1 andar,5,1958,2,1.0,1,2.0,988,13587
+1527,Densidade Residencial Baixa,NAmes,1 andar,7,1920,2,2.0,1,2.0,985,7898
+1528,Densidade Residencial Baixa,NAmes,2 andares,8,1948,3,1.0,1,2.0,1224,8064
+1529,Densidade Residencial Baixa,NAmes,1 andar,6,1960,3,2.0,1,2.0,1175,7635
+1530,Densidade Residencial Baixa,NAmes,1 andar,7,1963,2,2.0,1,2.0,1395,9760
+1531,Densidade Residencial Média,Old Town,2 andares,5,1900,3,1.0,1,2.0,1844,4800
+1532,Densidade Residencial Média,Old Town,1 andar,7,1920,2,0.0,1,2.0,936,4485
+1533,Densidade Residencial Média,Old Town,1 andar,7,1957,3,2.0,1,3.0,1347,5805
+1534,Densidade Residencial Média,Old Town,2 andares,7,1938,3,1.0,1,1.0,1251,6900
+1535,Densidade Residencial Média,Old Town,2 andares,7,1948,3,1.0,1,1.0,1633,11851
+1536,Densidade Residencial Média,Old Town,2 andares,6,1920,3,1.0,1,1.0,1245,8239
+1537,Densidade Residencial Média,Old Town,1 andar,2,1923,2,2.0,1,1.0,832,9656
+1538,Densidade Residencial Média,Old Town,2 andares,9,1900,3,1.0,1,2.0,1566,9600
+1539,Densidade Residencial Média,Old Town,2 andares,9,1890,3,2.0,1,3.0,2268,9000
+1540,Densidade Residencial Média,Old Town,2 andares,3,1910,4,0.0,2,2.0,2256,9045
+1541,Densidade Residencial Média,Old Town,2 andares,7,1922,2,2.0,1,2.0,1470,10560
+1542,Densidade Residencial Média,Brookside,2 andares,6,1950,3,1.0,1,2.0,1612,5830
+1543,Densidade Residencial Baixa,Brookside,2 andares,7,1922,3,1.0,1,2.0,2068,7793
+1544,Densidade Residencial Média,Brookside,1 andar,7,1925,2,1.0,1,2.0,765,5000
+1545,Densidade Residencial Média,Brookside,2 andares,7,1939,2,1.0,1,2.0,1132,6000
+1546,Densidade Residencial Média,Brookside,2 andares,6,1940,3,2.0,1,3.0,1196,6000
+1547,Densidade Residencial Média,Brookside,2 andares,6,1942,3,1.0,1,2.0,1453,6360
+1548,Densidade Residencial Média,Brookside,2 andares,7,1948,3,1.0,1,2.0,1416,6000
+1549,Densidade Residencial Média,Brookside,2 andares,7,1936,2,2.0,1,1.0,1040,6240
+1550,Densidade Residencial Média,Brookside,2 andares,5,1930,4,2.0,1,2.0,1536,6240
+1551,Densidade Residencial Média,Old Town,1 andar,5,1923,2,1.0,1,2.0,1068,6120
+1552,Densidade Residencial Média,Old Town,2 andares,5,1915,4,2.0,1,2.0,1962,8094
+1553,Densidade Residencial Média,Old Town,2 andares,8,1912,3,0.0,1,2.0,1560,12900
+1554,Densidade Residencial Média,Old Town,2 andares,8,1920,3,1.0,1,2.0,1324,3068
+1555,Densidade Residencial Baixa,Clear Creek,1 andar,5,1959,3,1.0,1,2.0,1675,15263
+1556,Densidade Residencial Baixa,Clear Creek,2 andares,3,1917,3,1.0,1,2.0,1224,10632
+1557,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,4,1915,3,0.0,1,2.0,1392,9900
+1558,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,5,1940,3,1.0,1,1.0,919,6001
+1559,C (all),South & West of Iowa State University,2 andares,1,1907,4,0.0,1,2.0,1884,6449
+1560,Densidade Residencial Alta,South & West of Iowa State University,2 andares,7,1910,2,2.0,2,3.0,1680,6048
+1561,Densidade Residencial Baixa,Sawyer,1 andar,3,1967,4,0.0,2,4.0,1832,10773
+1562,Densidade Residencial Baixa,Sawyer,1 andar,7,1966,3,1.0,1,2.0,892,7800
+1563,Densidade Residencial Baixa,Sawyer,1 andar,5,1968,2,1.0,1,2.0,864,7832
+1564,Densidade Residencial Baixa,Sawyer,2 andares,5,1978,3,2.0,1,2.0,1373,7424
+1565,Densidade Residencial Baixa,Sawyer,2 andares,5,1968,4,2.0,1,2.0,1440,11227
+1566,Densidade Residencial Baixa,Clear Creek,1 andar,7,1977,1,2.0,1,3.0,1483,20062
+1567,Densidade Residencial Baixa,Sawyer,1 andar,4,1927,2,2.0,1,1.0,756,9259
+1568,Densidade Residencial Baixa,Clear Creek,2 andares,5,1978,4,2.0,1,4.0,1981,17082
+1569,Densidade Residencial Baixa,Edwards,2 andares,4,1938,4,1.0,1,3.0,1610,18600
+1570,Densidade Residencial Baixa,Edwards,1 andar,7,1950,3,1.0,1,2.0,1074,11479
+1571,Densidade Residencial Baixa,Edwards,2 andares,6,1947,3,1.0,1,1.0,1531,9350
+1572,Densidade Residencial Baixa,Edwards,1 andar,7,1954,3,1.0,1,2.0,1172,9525
+1573,Densidade Residencial Baixa,Edwards,1 andar,5,2009,1,2.0,1,2.0,1508,17485
+1574,Densidade Residencial Baixa,Edwards,1 andar,3,1964,3,2.0,1,2.0,1298,11200
+1575,Densidade Residencial Baixa,Sawyer West,1 andar,5,1987,1,2.0,1,3.0,1433,11980
+1576,Densidade Residencial Baixa,Sawyer West,2 andares,7,1993,3,4.0,1,4.0,1802,12361
+1577,Densidade Residencial Baixa,College Creek,1 andar,5,2010,2,2.0,1,2.0,1222,7360
+1578,Densidade Residencial Baixa,Sawyer West,2 andares,8,1900,3,2.0,1,2.0,1445,14235
+1579,Densidade Residencial Baixa,College Creek,2 andares,5,1996,2,2.0,1,2.0,965,11105
+1580,Densidade Residencial Baixa,College Creek,2 andares,5,1997,3,2.0,1,3.0,1692,9337
+1581,Densidade Residencial Baixa,College Creek,1 andar,8,1977,3,1.0,1,3.0,1026,15240
+1582,Densidade Residencial Baixa,College Creek,1 andar,6,1972,3,2.0,1,2.0,876,7480
+1583,Densidade Residencial Baixa,College Creek,1 andar,5,2003,3,3.0,1,4.0,1978,10389
+1584,Densidade Residencial Baixa,College Creek,2 andares,5,1997,4,2.0,1,3.0,2098,9375
+1585,Densidade Residencial Média,College Creek,1 andar,5,2003,1,2.0,1,2.0,848,4435
+1586,Densidade Residencial Baixa,Edwards,1 andar,6,1945,2,1.0,1,1.0,640,8777
+1587,Densidade Residencial Baixa,Edwards,1 andar,6,1954,3,1.0,1,1.0,992,8842
+1588,Densidade Residencial Baixa,Edwards,1 andar,6,1968,3,1.0,1,2.0,1196,10044
+1589,Densidade Residencial Baixa,Edwards,2 andares,5,1948,2,2.0,1,1.0,1120,11792
+1590,Densidade Residencial Baixa,Edwards,2 andares,6,1975,3,1.0,1,2.0,1096,6305
+1591,Densidade Residencial Baixa,Edwards,1 andar,5,1958,3,0.0,1,1.0,960,6410
+1592,Densidade Residencial Baixa,South & West of Iowa State University,1 andar,6,1924,2,1.0,1,2.0,1296,4853
+1593,Densidade Residencial Baixa,South & West of Iowa State University,1 andar,6,1939,2,2.0,1,2.0,856,7890
+1594,Densidade Residencial Alta,South & West of Iowa State University,2 andares,6,1967,6,0.0,2,3.0,2650,7200
+1595,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,2,1931,3,0.0,1,2.0,1666,9839
+1596,Densidade Residencial Baixa,Crawford,2 andares,6,1941,4,1.0,1,3.0,2133,10452
+1597,Densidade Residencial Baixa,Crawford,2 andares,6,1950,5,2.0,2,3.0,2177,15600
+1598,Densidade Residencial Baixa,Crawford,2 andares,6,1994,3,2.0,1,4.0,1652,19645
+1599,Densidade Residencial Média,Bluestem,1 andar,6,1989,1,2.0,1,2.0,1034,3907
+1600,Densidade Residencial Média,Bluestem,1 andar,5,1989,2,2.0,1,2.0,1191,3907
+1601,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,5,1941,1,1.0,1,1.0,540,8154
+1602,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1921,2,1.0,1,1.0,1107,9140
+1603,C (all),Iowa DOT and Rail Road,1 andar,7,1896,3,1.0,1,1.0,952,8712
+1604,Densidade Residencial Média,Crawford,1 andar,5,2004,2,2.0,1,4.0,1646,3811
+1605,Densidade Residencial Baixa,Mitchell,2 andares,5,1998,3,3.0,1,4.0,1916,11050
+1606,Densidade Residencial Baixa,Mitchell,2 andares,7,1977,3,2.0,1,3.0,1285,9620
+1607,Densidade Residencial Baixa,Mitchell,1 andar,5,1976,5,2.0,2,3.0,2048,12760
+1608,Densidade Residencial Baixa,Timberland,1 andar,5,2008,3,3.0,1,3.0,1346,11896
+1609,Densidade Residencial Baixa,Timberland,1 andar,5,2009,2,2.0,1,2.0,1214,9803
+1610,Densidade Residencial Baixa,Timberland,2 andares,5,2006,3,2.0,1,3.0,1444,9802
+1611,Densidade Residencial Baixa,Mitchell,1 andar,5,1965,2,2.0,1,2.0,1264,15300
+1612,Densidade Residencial Baixa,Mitchell,1 andar,5,2004,3,2.0,1,2.0,1430,10114
+1613,Densidade Residencial Baixa,Mitchell,1 andar,5,1999,3,2.0,1,2.0,1344,11875
+1614,Densidade Residencial Média,Meadow Village,1 andar,6,1973,2,1.0,1,3.0,945,2394
+1615,Densidade Residencial Média,Meadow Village,2 andares,7,1970,3,0.0,1,2.0,1092,1476
+1616,Densidade Residencial Média,Meadow Village,2 andares,4,1970,3,0.0,1,2.0,1092,1900
+1617,Densidade Residencial Média,Meadow Village,2 andares,6,1972,3,1.0,1,2.0,1092,1890
+1618,Densidade Residencial Baixa,Mitchell,1 andar,7,1971,3,1.0,1,1.0,874,6953
+1619,Densidade Residencial Baixa,Mitchell,1 andar,7,1984,2,2.0,1,2.0,833,12887
+1620,Densidade Residencial Baixa,Mitchell,2 andares,2,1985,4,2.0,2,6.0,2432,7700
+1621,Densidade Residencial Baixa,Mitchell,2 andares,5,1991,3,2.0,1,2.0,1274,10475
+1622,Densidade Residencial Baixa,Mitchell,2 andares,5,1969,5,1.0,1,2.0,1479,10544
+1623,Densidade Residencial Baixa,Mitchell,1 andar,5,1994,3,2.0,1,5.0,1803,9892
+1624,Densidade Residencial Baixa,Mitchell,2 andares,5,1993,3,2.0,1,4.0,1797,12961
+1625,Densidade Residencial Baixa,NAmes,1 andar,5,1956,2,1.0,1,1.0,882,13008
+1626,Densidade Residencial Baixa,NAmes,1 andar,5,1974,4,2.0,1,3.0,1434,10200
+1627,Densidade Residencial Baixa,Gilbert,2 andares,5,1997,3,2.0,1,3.0,1608,10179
+1628,Densidade Residencial Baixa,Gilbert,2 andares,5,2003,4,3.0,1,3.0,2283,11792
+1629,Densidade Residencial Baixa,Gilbert,2 andares,5,1996,3,2.0,1,3.0,1628,8400
+1630,Densidade Residencial Baixa,Stone Brook,1 andar,5,2004,1,2.0,1,3.0,2522,7296
+1631,Densidade Residencial Baixa,Stone Brook,1 andar,5,1998,2,2.0,1,3.0,1478,7380
+1632,Densidade Residencial Baixa,Stone Brook,1 andar,5,1995,2,2.0,1,3.0,1734,8013
+1633,Densidade Residencial Baixa,Gilbert,2 andares,5,1998,3,2.0,1,3.0,1382,8923
+1634,Densidade Residencial Baixa,Gilbert,2 andares,5,1998,3,2.0,1,4.0,1636,7500
+1635,Densidade Residencial Baixa,Gilbert,2 andares,5,1994,3,2.0,1,4.0,1516,8803
+1636,Densidade Residencial Baixa,Gilbert,1 andar,5,1993,3,2.0,1,2.0,1190,7250
+1637,Densidade Residencial Baixa,Gilbert,2 andares,6,1977,3,2.0,1,4.0,1934,11900
+1638,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1978,4,2.0,1,3.0,2050,13250
+1639,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1978,3,2.0,1,2.0,1671,10928
+1640,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1980,4,2.0,1,3.0,2673,12388
+1641,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1978,3,2.0,1,2.0,1707,11088
+1642,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2003,3,2.0,1,4.0,1884,7000
+1643,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,3,2.0,1,3.0,1874,7500
+1644,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2002,3,2.0,1,3.0,1811,8470
+1645,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1975,3,2.0,1,3.0,1621,9373
+1646,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1974,3,2.0,1,3.0,1116,10140
+1647,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1975,3,2.0,1,2.0,1193,11050
+1648,Densidade Residencial Baixa,NAmes,1 andar,5,1970,2,2.0,1,2.0,1180,7830
+1649,Densidade Residencial Baixa,NAmes,1 andar,7,1971,3,1.0,1,3.0,1050,8510
+1650,Densidade Residencial Baixa,NAmes,1 andar,6,1970,3,2.0,1,2.0,864,7038
+1651,Densidade Residencial Baixa,NAmes,1 andar,7,1971,3,2.0,1,1.0,864,9000
+1652,Densidade Residencial Média,Briardale,2 andares,5,1973,2,1.0,1,3.0,987,1680
+1653,Densidade Residencial Média,Briardale,2 andares,6,1972,2,1.0,1,3.0,987,1680
+1654,Densidade Residencial Baixa,Northpark Villa,2 andares,5,1976,3,2.0,1,3.0,1548,2308
+1655,Densidade Residencial Baixa,Northpark Villa,1 andar,5,1975,2,2.0,1,3.0,1055,2280
+1656,Densidade Residencial Baixa,Northpark Villa,2 andares,5,1977,3,2.0,1,3.0,1456,2349
+1657,Densidade Residencial Baixa,Northpark Villa,2 andares,5,1978,3,2.0,1,4.0,1548,2364
+1658,Densidade Residencial Baixa,Northpark Villa,2 andares,5,1978,3,2.0,1,3.0,1456,2364
+1659,Densidade Residencial Baixa,Northpark Villa,1 andar,6,1976,2,1.0,1,2.0,836,2104
+1660,Densidade Residencial Baixa,NAmes,1 andar,7,1966,3,2.0,1,2.0,1120,10710
+1661,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2007,4,3.0,1,5.0,2772,14257
+1662,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2009,3,3.0,1,4.0,2690,12350
+1663,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,3,3.0,1,3.0,2020,12350
+1664,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,2,3.0,1,5.0,2674,13693
+1665,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,3,3.0,1,2.0,1736,11578
+1666,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2004,3,3.0,1,3.0,1782,16870
+1667,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2007,5,3.0,1,4.0,2520,23303
+1668,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,3,3.0,1,3.0,1743,10367
+1669,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,2,3.0,1,3.0,1531,10872
+1670,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,3,3.0,1,3.0,1808,13514
+1671,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,3,2.0,1,3.0,1760,12878
+1672,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,3,3.0,1,4.0,2452,15274
+1673,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2003,4,3.0,1,4.0,2400,13262
+1674,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,3,3.0,1,2.0,1606,9658
+1675,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,2,2.0,1,2.0,1358,6904
+1676,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,1,2.0,1,3.0,1306,5122
+1677,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,2,2.0,1,3.0,1358,10307
+1678,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2004,2,3.0,1,4.0,2492,14836
+1679,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,3,3.0,1,4.0,2200,15262
+1680,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,2,2.0,1,3.0,1884,7390
+1681,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,2,2.0,1,2.0,1456,6472
+1682,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2002,3,3.0,1,3.0,1712,16770
+1683,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,2,2.0,1,2.0,1405,3480
+1684,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,3,2.0,1,3.0,1456,10928
+1685,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,3,2.0,1,3.0,1490,8918
+1686,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2005,2,2.0,1,2.0,1220,3182
+1687,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,3,2.0,1,3.0,1374,9434
+1688,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,3,2.0,1,3.0,1630,7984
+1689,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,3,2.0,1,3.0,1594,10125
+1690,Densidade Residencial Baixa,Gilbert,2 andares,5,2003,3,2.0,1,4.0,1489,8965
+1691,Densidade Residencial Baixa,Gilbert,2 andares,5,2003,3,2.0,1,4.0,1342,8174
+1692,Densidade Residencial Baixa,Gilbert,2 andares,5,2002,4,3.0,1,4.0,2004,12891
+1693,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,3,2.0,1,3.0,1374,9734
+1694,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,3,2.0,1,4.0,1514,8433
+1695,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,3,2.0,1,3.0,1430,7750
+1696,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,4,3.0,1,4.0,2312,15896
+1697,Densidade Residencial Baixa,Gilbert,2 andares,6,1999,3,2.0,1,3.0,1430,7848
+1698,Densidade Residencial Baixa,Northridge,2 andares,5,2000,4,3.0,1,4.0,2687,12720
+1699,Densidade Residencial Baixa,Northridge,1 andar,5,1994,3,3.0,1,3.0,2063,10750
+1700,Densidade Residencial Baixa,Northridge,2 andares,5,1995,3,2.0,1,4.0,2061,9085
+1701,Densidade Residencial Baixa,Northridge,2 andares,5,1993,3,2.0,1,4.0,2232,11692
+1702,Densidade Residencial Baixa,Somerset,1 andar,5,2008,3,3.0,1,2.0,1696,11194
+1703,Densidade Residencial Baixa,Somerset,1 andar,5,2008,3,3.0,1,3.0,1658,10206
+1704,Densidade Residencial Baixa,Somerset,1 andar,5,2007,3,3.0,1,3.0,1702,10130
+1705,Densidade Residencial Baixa,Somerset,1 andar,5,2006,3,2.0,1,2.0,1432,9139
+1706,Densidade Residencial Baixa,Somerset,1 andar,5,2005,2,3.0,1,3.0,2490,11128
+1707,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2008,3,2.0,1,2.0,1436,7993
+1708,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2008,3,2.0,1,2.0,1402,8640
+1709,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2007,3,3.0,1,2.0,1530,12606
+1710,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,2,2.0,1,2.0,1448,7500
+1711,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2006,3,3.0,1,4.0,1795,10603
+1712,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2008,3,2.0,1,2.0,1836,8125
+1713,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,3,3.0,1,3.0,1662,10625
+1714,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2003,3,2.0,1,3.0,1553,8736
+1715,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2003,3,2.0,1,4.0,1653,8127
+1716,Densidade Residencial Baixa,Sawyer West,1 andar,6,2007,3,2.0,1,2.0,1218,9605
+1717,Densidade Residencial Baixa,Sawyer West,1 andar,5,2006,3,2.0,1,3.0,1141,7500
+1718,Densidade Residencial Baixa,Sawyer West,1 andar,5,2004,3,0.0,1,2.0,1158,7500
+1719,Densidade Residencial Baixa,Sawyer West,2 andares,5,2004,3,2.0,1,3.0,1812,10628
+1720,Densidade Residencial Baixa,Sawyer West,1 andar,5,2004,3,3.0,1,2.0,1512,10141
+1721,Densidade Residencial Baixa,Sawyer West,1 andar,5,2004,3,2.0,1,2.0,1114,13072
+1722,Densidade Residencial Baixa,Sawyer West,1 andar,5,2004,3,0.0,1,2.0,1114,13072
+1723,Densidade Residencial Baixa,Sawyer West,1 andar,5,2003,3,2.0,1,3.0,1114,12450
+1724,Densidade Residencial Baixa,Sawyer West,1 andar,5,2008,2,3.0,1,2.0,1450,7328
+1725,Densidade Residencial Baixa,Sawyer West,2 andares,5,1996,4,2.0,1,4.0,2122,11492
+1726,Densidade Residencial Baixa,Sawyer West,2 andares,6,1992,3,2.0,1,3.0,1730,7703
+1727,Densidade Residencial Baixa,Sawyer West,1 andar,5,1990,2,2.0,1,2.0,1332,7175
+1728,Densidade Residencial Baixa,Sawyer West,2 andares,5,1994,3,2.0,1,4.0,1540,9109
+1729,Densidade Residencial Baixa,Sawyer West,2 andares,7,1986,3,2.0,1,3.0,1400,10274
+1730,Densidade Residencial Baixa,Sawyer West,2 andares,7,1981,4,2.0,2,2.0,1882,8250
+1731,Densidade Residencial Baixa,Sawyer,1 andar,5,1962,3,2.0,1,2.0,980,9750
+1732,Densidade Residencial Baixa,Sawyer,1 andar,6,1961,3,2.0,1,2.0,864,8499
+1733,Densidade Residencial Baixa,Sawyer,1 andar,5,1961,2,1.0,1,1.0,864,9079
+1734,Densidade Residencial Baixa,Sawyer,1 andar,5,1965,3,1.0,1,2.0,1020,9316
+1735,Densidade Residencial Baixa,Sawyer,1 andar,8,1963,3,1.0,1,2.0,912,7791
+1736,Densidade Residencial Baixa,Sawyer,1 andar,6,1962,3,1.0,1,2.0,912,7150
+1737,Densidade Residencial Baixa,Veenker,1 andar,8,1980,2,3.0,1,3.0,2014,15676
+1738,Densidade Residencial Baixa,Northridge,2 andares,8,1991,3,2.0,1,4.0,1755,11949
+1739,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2004,3,3.0,1,3.0,3005,2880
+1740,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2008,2,2.0,1,3.0,1726,3830
+1741,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2008,1,2.0,1,3.0,1256,4217
+1742,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,2,2.0,1,4.0,1512,2998
+1743,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,3,2.0,1,4.0,1452,3768
+1744,Densidade Residencial Baixa,Veenker,1 andar,9,1977,2,2.0,1,3.0,1694,14694
+1745,Densidade Residencial Baixa,Veenker,1 andar,5,1981,2,2.0,1,2.0,1740,15417
+1746,Densidade Residencial Baixa,Veenker,2 andares,5,1976,4,2.0,1,3.0,2499,9600
+1747,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1974,3,2.0,1,3.0,2067,12732
+1748,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1967,5,2.0,1,3.0,2640,10400
+1749,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1969,3,2.0,1,3.0,1336,9600
+1750,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1969,3,1.0,1,2.0,1216,9000
+1751,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1977,4,2.0,1,3.0,2288,13774
+1752,Densidade Residencial Baixa,NAmes,1 andar,6,1967,2,1.0,1,2.0,864,7130
+1753,Densidade Residencial Baixa,NAmes,1 andar,5,1967,3,2.0,1,2.0,1568,9600
+1754,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1974,4,2.0,1,4.0,2061,9600
+1755,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1971,3,2.0,1,3.0,1320,16500
+1756,Densidade Residencial Baixa,NAmes,1 andar,7,1960,2,2.0,1,2.0,894,7436
+1757,Densidade Residencial Baixa,NAmes,1 andar,7,1959,3,1.0,1,1.0,864,8125
+1758,Densidade Residencial Baixa,NAmes,1 andar,5,1957,3,3.0,1,2.0,1362,9450
+1759,Densidade Residencial Baixa,NAmes,1 andar,6,1956,3,2.0,1,3.0,1728,13495
+1760,Densidade Residencial Baixa,NAmes,1 andar,6,1961,3,2.0,1,3.0,1313,9350
+1761,Densidade Residencial Baixa,NAmes,1 andar,5,1964,3,2.0,1,3.0,1292,10500
+1762,Densidade Residencial Baixa,NAmes,2 andares,6,1965,4,2.0,1,3.0,2140,8970
+1763,Densidade Residencial Baixa,NAmes,2 andares,6,1961,4,2.0,1,2.0,1576,11475
+1764,Densidade Residencial Baixa,NAmes,1 andar,5,1955,2,1.0,1,2.0,960,9768
+1765,Densidade Residencial Baixa,NAmes,1 andar,5,1967,2,2.0,1,2.0,1691,9900
+1766,Densidade Residencial Baixa,NAmes,1 andar,6,1961,3,2.0,1,3.0,1453,10573
+1767,Densidade Residencial Baixa,NAmes,1 andar,8,1966,2,2.0,1,3.0,1567,14695
+1768,Densidade Residencial Baixa,NAmes,1 andar,7,1956,3,1.0,1,2.0,1144,8760
+1769,Densidade Residencial Baixa,NAmes,1 andar,6,1960,3,2.0,1,2.0,1329,12285
+1770,Densidade Residencial Baixa,NAmes,1 andar,8,1959,3,1.0,1,3.0,988,9240
+1771,Densidade Residencial Baixa,NAmes,1 andar,5,1956,3,1.0,1,2.0,1202,8750
+1772,Densidade Residencial Baixa,NAmes,1 andar,5,1955,3,1.0,1,2.0,1382,8750
+1773,Densidade Residencial Baixa,NAmes,1 andar,5,1956,3,1.0,1,2.0,1200,10400
+1774,Densidade Residencial Baixa,NAmes,1 andar,4,1958,4,2.0,2,2.0,1866,9482
+1775,Densidade Residencial Baixa,NAmes,1 andar,7,1954,3,1.0,1,2.0,1062,8128
+1776,Densidade Residencial Baixa,NAmes,1 andar,5,1951,2,2.0,1,1.0,1112,13070
+1777,Densidade Residencial Baixa,NAmes,1 andar,6,1945,2,1.0,1,2.0,793,8480
+1778,Densidade Residencial Baixa,NAmes,1 andar,8,1952,2,1.0,1,2.0,1031,7626
+1779,Densidade Residencial Baixa,NAmes,1 andar,5,1953,2,1.0,1,2.0,1210,9533
+1780,Densidade Residencial Baixa,NAmes,2 andares,7,1948,3,2.0,1,3.0,1527,11419
+1781,Densidade Residencial Baixa,NAmes,1 andar,6,1950,3,1.0,1,1.0,1200,9600
+1782,Densidade Residencial Baixa,Old Town,1 andar,5,1958,2,1.0,1,1.0,792,5470
+1783,Densidade Residencial Baixa,Old Town,2 andares,7,1939,4,2.0,1,3.0,1352,10800
+1784,Densidade Residencial Baixa,Old Town,2 andares,8,1900,2,1.0,1,1.0,1039,8146
+1785,Densidade Residencial Baixa,Old Town,1 andar,7,1925,3,1.0,1,1.0,1078,10230
+1786,Densidade Residencial Baixa,Old Town,2 andares,5,1915,3,2.0,1,2.0,2377,10410
+1787,Densidade Residencial Baixa,Old Town,2 andares,9,1910,4,2.0,1,2.0,1690,7200
+1788,Densidade Residencial Baixa,Old Town,1 andar,5,1940,2,0.0,1,2.0,599,5400
+1789,Densidade Residencial Baixa,Old Town,1 andar,7,1920,2,2.0,1,1.0,846,10800
+1790,Densidade Residencial Baixa,Old Town,1 andar,5,1890,1,1.0,1,2.0,725,10800
+1791,Densidade Residencial Baixa,NAmes,2 andares,5,1969,6,3.0,2,4.0,2544,9671
+1792,Densidade Residencial Baixa,NAmes,1 andar,7,1963,3,1.0,1,2.0,1380,10143
+1793,Densidade Residencial Baixa,NAmes,1 andar,4,1967,3,2.0,1,2.0,1040,11500
+1794,Densidade Residencial Baixa,NAmes,1 andar,9,1958,2,2.0,1,2.0,951,8010
+1795,Densidade Residencial Baixa,NAmes,1 andar,6,1957,3,1.0,1,1.0,1105,10454
+1796,Densidade Residencial Baixa,NAmes,1 andar,6,1958,2,1.0,1,1.0,1142,9000
+1797,Densidade Residencial Baixa,NAmes,2 andares,5,1950,3,2.0,1,1.0,1133,8064
+1798,Densidade Residencial Baixa,NAmes,1 andar,6,1958,3,1.0,1,1.0,1041,7350
+1799,Densidade Residencial Baixa,NAmes,1 andar,7,1952,2,1.0,1,2.0,732,7200
+1800,Densidade Residencial Baixa,NAmes,2 andares,5,1959,3,1.0,1,2.0,1183,8000
+1801,Densidade Residencial Baixa,NAmes,2 andares,7,1949,4,1.0,1,2.0,1461,10800
+1802,Densidade Residencial Baixa,NAmes,2 andares,7,1948,3,2.0,1,1.0,1495,8064
+1803,Densidade Residencial Baixa,NAmes,2 andares,5,1964,4,2.0,1,2.0,1806,7570
+1804,Densidade Residencial Baixa,NAmes,2 andares,7,1978,2,2.0,1,2.0,941,8604
+1805,Densidade Residencial Baixa,NAmes,1 andar,6,1963,3,1.0,1,2.0,1045,7936
+1806,Densidade Residencial Média,Old Town,2 andares,8,1935,3,1.0,1,1.0,1378,4080
+1807,Densidade Residencial Média,Old Town,2 andares,5,1910,4,2.0,2,3.0,1944,10307
+1808,Densidade Residencial Média,Old Town,2 andares,8,1910,3,2.0,1,2.0,1306,15660
+1809,Densidade Residencial Média,Old Town,2 andares,8,1910,3,0.0,1,2.0,1464,9900
+1810,Densidade Residencial Média,Old Town,2 andares,6,1939,3,2.0,1,2.0,1558,6406
+1811,Densidade Residencial Média,Old Town,2 andares,6,1920,4,0.0,2,2.0,1701,7627
+1812,Densidade Residencial Média,Old Town,2 andares,5,1910,3,0.0,1,1.0,1447,10134
+1813,Densidade Residencial Média,Old Town,2 andares,7,1950,3,1.0,1,2.0,1328,6000
+1814,Densidade Residencial Média,Old Town,1 andar,6,1920,2,2.0,1,1.0,861,7404
+1815,Densidade Residencial Média,Old Town,1 andar,4,1940,1,1.0,1,1.0,612,5925
+1816,Densidade Residencial Média,Old Town,1 andar,8,1923,2,1.0,1,1.0,792,8520
+1817,Densidade Residencial Média,Old Town,2 andares,4,1910,3,2.0,1,2.0,1510,9600
+1818,Densidade Residencial Média,Old Town,2 andares,7,1900,3,1.0,1,2.0,2007,8400
+1819,Densidade Residencial Média,Old Town,2 andares,7,1917,3,1.0,1,2.0,1288,3600
+1820,C (all),Old Town,1 andar,3,1910,2,0.0,1,1.0,816,3300
+1821,Densidade Residencial Média,Old Town,2 andares,6,1920,3,1.0,1,1.0,1480,5400
+1822,Densidade Residencial Média,Old Town,2 andares,7,1910,4,3.0,1,1.0,1521,9720
+1823,C (all),Iowa DOT and Rail Road,1 andar,3,1900,2,0.0,1,1.0,797,9392
+1824,Densidade Residencial Baixa,Brookside,1 andar,6,1923,3,1.0,1,1.0,1432,6615
+1825,Densidade Residencial Baixa,Brookside,2 andares,7,1930,3,1.0,1,2.0,1654,4960
+1826,Densidade Residencial Média,Brookside,2 andares,5,1924,3,1.0,1,1.0,1142,6000
+1827,Densidade Residencial Média,Brookside,1 andar,6,1925,2,1.0,1,1.0,995,6120
+1828,Densidade Residencial Média,Brookside,2 andares,6,1938,3,1.0,1,2.0,1582,6120
+1829,Densidade Residencial Média,Brookside,1 andar,5,1925,2,5.0,1,2.0,1072,8635
+1830,Densidade Residencial Média,Old Town,2 andares,6,1915,3,2.0,1,2.0,1768,8094
+1831,Densidade Residencial Média,Old Town,2 andares,8,1915,3,1.0,1,2.0,1944,9928
+1832,Densidade Residencial Média,Old Town,2 andares,1,1922,4,0.0,2,2.0,2128,3000
+1833,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1927,4,1.0,1,3.0,1930,6876
+1834,Densidade Residencial Média,Old Town,2 andares,7,1915,3,1.0,1,1.0,1427,5775
+1835,Densidade Residencial Média,Old Town,2 andares,5,1902,6,0.0,1,3.0,1864,5852
+1836,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1927,3,1.0,1,1.0,1666,5160
+1837,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1923,1,0.0,1,2.0,892,5160
+1838,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1915,3,1.0,1,3.0,1403,10320
+1839,Densidade Residencial Baixa,Sawyer,1 andar,9,1946,2,1.0,1,2.0,704,4280
+1840,Densidade Residencial Baixa,Edwards,1 andar,5,1987,3,0.0,1,6.0,1200,10800
+1841,Densidade Residencial Baixa,Edwards,2 andares,5,1978,2,1.0,2,4.0,1152,10547
+1842,Densidade Residencial Baixa,Edwards,2 andares,3,1934,4,1.0,1,3.0,1112,9780
+1843,Densidade Residencial Baixa,Sawyer,1 andar,6,1967,3,1.0,1,2.0,1052,11625
+1844,Densidade Residencial Baixa,Sawyer,2 andares,5,1978,3,2.0,1,2.0,1034,8014
+1845,Densidade Residencial Baixa,Sawyer,2 andares,5,1961,4,1.0,1,2.0,1774,15400
+1846,Densidade Residencial Baixa,Sawyer,2 andares,5,1960,3,2.0,1,2.0,1138,15312
+1847,Densidade Residencial Baixa,Clear Creek,2 andares,5,1956,4,1.0,1,3.0,2071,15584
+1848,Densidade Residencial Baixa,Sawyer,1 andar,2,1947,2,0.0,1,1.0,660,9000
+1849,Densidade Residencial Baixa,Edwards,1 andar,5,1954,2,2.0,1,1.0,1383,15635
+1850,Densidade Residencial Baixa,Edwards,1 andar,5,1956,2,1.0,1,2.0,1073,9571
+1851,Densidade Residencial Baixa,Edwards,2 andares,7,1946,3,1.0,1,2.0,1639,9350
+1852,Densidade Residencial Baixa,Edwards,1 andar,6,1954,3,1.0,1,2.0,1089,7440
+1853,Densidade Residencial Baixa,Edwards,1 andar,5,1984,2,1.0,1,3.0,1049,4235
+1854,Densidade Residencial Baixa,Sawyer West,2 andares,6,1990,1,2.0,1,3.0,1061,10778
+1855,Densidade Residencial Baixa,Sawyer West,2 andares,5,1983,2,2.0,1,2.0,1338,19255
+1856,Densidade Residencial Baixa,Sawyer West,2 andares,5,1993,3,2.0,1,4.0,1879,10560
+1857,Densidade Residencial Baixa,Sawyer West,2 andares,7,1880,4,2.0,1,1.0,2016,26400
+1858,Densidade Residencial Baixa,Sawyer West,2 andares,5,1979,6,2.0,2,2.0,2228,7018
+1859,Densidade Residencial Baixa,Sawyer West,1 andar,5,1979,4,2.0,2,2.0,1535,7018
+1860,Densidade Residencial Baixa,Sawyer West,2 andares,5,1979,2,2.0,2,4.0,1229,7040
+1861,Densidade Residencial Baixa,Sawyer West,1 andar,5,1979,4,2.0,2,2.0,1513,7007
+1862,Densidade Residencial Baixa,Sawyer West,2 andares,5,2000,6,4.0,2,8.0,2787,11855
+1863,Densidade Residencial Baixa,Sawyer West,2 andares,5,2000,6,4.0,2,8.0,2787,7939
+1864,Densidade Residencial Baixa,Sawyer West,2 andares,5,2000,6,4.0,2,8.0,2787,7976
+1865,Densidade Residencial Baixa,College Creek,1 andar,5,2009,1,3.0,1,3.0,1680,10933
+1866,Densidade Residencial Baixa,College Creek,1 andar,5,2008,3,3.0,1,3.0,1720,10816
+1867,Densidade Residencial Baixa,College Creek,1 andar,5,2008,3,3.0,1,2.0,1468,9178
+1868,Densidade Residencial Baixa,College Creek,1 andar,5,2007,3,2.0,1,3.0,1838,11422
+1869,Densidade Residencial Baixa,College Creek,1 andar,5,2007,2,2.0,1,3.0,1290,6762
+1870,Densidade Residencial Baixa,College Creek,1 andar,5,2008,2,3.0,1,3.0,1254,10324
+1871,Densidade Residencial Baixa,College Creek,1 andar,5,2005,3,3.0,1,2.0,1498,11645
+1872,Densidade Residencial Baixa,College Creek,2 andares,5,2005,3,2.0,1,3.0,1422,11646
+1873,Densidade Residencial Baixa,Clear Creek,2 andares,5,1992,3,2.0,1,4.0,1759,16698
+1874,Densidade Residencial Baixa,College Creek,1 andar,7,1994,3,1.0,1,2.0,990,9757
+1875,Densidade Residencial Baixa,College Creek,1 andar,5,1998,3,2.0,1,3.0,1463,14753
+1876,Densidade Residencial Baixa,College Creek,2 andares,5,1998,3,2.0,1,4.0,1772,8750
+1877,Densidade Residencial Baixa,College Creek,1 andar,5,2002,3,2.0,1,3.0,1444,10739
+1878,Densidade Residencial Baixa,College Creek,1 andar,5,2001,3,2.0,1,2.0,1492,11166
+1879,Densidade Residencial Baixa,College Creek,1 andar,5,1978,3,1.0,1,1.0,907,16269
+1880,Densidade Residencial Baixa,College Creek,1 andar,7,1979,2,2.0,1,2.0,914,6950
+1881,Densidade Residencial Baixa,College Creek,1 andar,5,2002,3,3.0,1,3.0,1611,11664
+1882,Densidade Residencial Baixa,College Creek,2 andares,5,2003,4,2.0,1,3.0,2184,12334
+1883,Densidade Residencial Baixa,College Creek,2 andares,5,2002,3,2.0,1,3.0,1725,8749
+1884,Densidade Residencial Baixa,College Creek,2 andares,5,2001,3,2.0,1,3.0,1870,11250
+1885,Densidade Residencial Baixa,College Creek,1 andar,5,1999,2,2.0,1,3.0,1513,15750
+1886,Densidade Residencial Baixa,College Creek,1 andar,5,2002,3,2.0,1,3.0,1828,12782
+1887,Densidade Residencial Baixa,College Creek,1 andar,5,1997,3,2.0,1,3.0,1417,8750
+1888,Densidade Residencial Baixa,College Creek,1 andar,5,2007,3,3.0,1,3.0,1602,10200
+1889,Densidade Residencial Baixa,College Creek,2 andares,5,2007,3,2.0,1,3.0,1396,11069
+1890,Densidade Residencial Baixa,Edwards,1 andar,6,1960,3,1.0,1,2.0,1149,10682
+1891,Densidade Residencial Média,Edwards,2 andares,5,2005,2,2.0,1,2.0,1072,3675
+1892,Densidade Residencial Baixa,Edwards,1 andar,5,1959,3,1.0,1,1.0,876,6410
+1893,Densidade Residencial Baixa,Edwards,1 andar,5,1950,3,1.0,1,2.0,1368,11767
+1894,Densidade Residencial Baixa,Edwards,1 andar,5,1959,6,0.0,2,2.0,1678,10926
+1895,Densidade Residencial Baixa,Edwards,1 andar,5,1956,2,1.0,1,1.0,1560,11767
+1896,Densidade Residencial Baixa,Edwards,2 andares,6,1941,3,1.0,1,1.0,1298,8212
+1897,Densidade Residencial Alta,South & West of Iowa State University,2 andares,4,1938,3,1.0,1,2.0,1268,6300
+1898,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,6,1935,3,1.0,1,2.0,1242,5707
+1899,Densidade Residencial Baixa,Crawford,1 andar,8,1916,3,2.0,1,1.0,1232,8574
+1900,Densidade Residencial Baixa,Crawford,2 andares,8,1918,3,1.0,1,1.0,1228,7155
+1901,Densidade Residencial Baixa,Crawford,2 andares,6,1940,2,2.0,1,3.0,1567,13680
+1902,Densidade Residencial Baixa,Crawford,1 andar,4,1960,2,1.0,1,1.0,1273,14680
+1903,Densidade Residencial Baixa,Crawford,2 andares,6,1940,5,2.0,2,3.0,2480,8145
+1904,Densidade Residencial Baixa,Crawford,1 andar,6,1954,2,1.0,1,2.0,1112,9100
+1905,Densidade Residencial Baixa,Crawford,1 andar,6,1960,3,2.0,1,3.0,1561,13339
+1906,Densidade Residencial Baixa,Crawford,2 andares,7,1949,3,1.0,1,3.0,1523,15600
+1907,Densidade Residencial Baixa,Crawford,1 andar,5,1954,3,2.0,1,3.0,1906,17500
+1908,Densidade Residencial Média,Bluestem,2 andares,6,1980,2,2.0,1,1.0,1032,1733
+1909,Densidade Residencial Média,Bluestem,2 andares,6,1980,2,2.0,1,3.0,1229,1488
+1910,Densidade Residencial Média,Bluestem,2 andares,6,1980,2,2.0,1,2.0,1229,1612
+1911,Densidade Residencial Baixa,Crawford,2 andares,6,1986,3,2.0,1,4.0,1982,13607
+1912,Densidade Residencial Baixa,Crawford,1 andar,9,1971,3,2.0,1,3.0,2365,17597
+1913,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1900,5,2.0,1,2.0,2168,8660
+1914,C (all),Iowa DOT and Rail Road,1 andar,6,1925,2,1.0,1,1.0,572,10200
+1915,Densidade Residencial Média,Crawford,1 andar,5,2007,2,2.0,1,4.0,1648,3843
+1916,,Iowa DOT and Rail Road,1 andar,4,1910,1,1.0,1,1.0,810,21780
+1917,Densidade Residencial Baixa,Mitchell,2 andares,5,2000,3,3.0,1,3.0,2052,10125
+1918,Densidade Residencial Baixa,Mitchell,2 andares,6,1977,2,1.0,1,2.0,926,9750
+1919,Densidade Residencial Baixa,Mitchell,2 andares,7,1977,2,2.0,1,3.0,1287,9360
+1920,Densidade Residencial Baixa,Mitchell,1 andar,5,1991,2,2.0,1,3.0,1595,11070
+1921,Densidade Residencial Baixa,Timberland,1 andar,5,2008,3,3.0,1,3.0,2036,13438
+1922,Densidade Residencial Baixa,Timberland,1 andar,5,2008,3,3.0,1,3.0,1641,14463
+1923,Densidade Residencial Baixa,Timberland,2 andares,8,1980,3,2.0,1,3.0,2237,9839
+1924,Densidade Residencial Baixa,Timberland,2 andares,5,1987,3,2.0,1,5.0,1479,14419
+1925,Densidade Residencial Baixa,Timberland,2 andares,5,2003,3,2.0,1,3.0,2014,9157
+1926,Densidade Residencial Baixa,Timberland,1 andar,5,2007,2,3.0,1,3.0,1978,12633
+1927,Densidade Residencial Baixa,Mitchell,1 andar,7,1968,3,1.0,1,1.0,1008,12518
+1928,Densidade Residencial Baixa,Mitchell,1 andar,5,1969,3,2.0,1,2.0,1404,13383
+1929,Densidade Residencial Baixa,Mitchell,2 andares,8,1972,2,1.0,1,2.0,796,7689
+1930,Densidade Residencial Baixa,Mitchell,2 andares,5,1993,2,1.0,1,2.0,1091,7706
+1931,Densidade Residencial Baixa,Mitchell,2 andares,6,1992,2,2.0,1,2.0,883,7669
+1932,Densidade Residencial Baixa,Mitchell,2 andares,5,1992,3,2.0,1,2.0,1287,10429
+1933,Densidade Residencial Baixa,Mitchell,2 andares,7,1969,4,2.0,1,2.0,1632,10457
+1934,Densidade Residencial Baixa,Gilbert,2 andares,5,1997,3,2.0,1,3.0,1604,8702
+1935,Densidade Residencial Baixa,Gilbert,2 andares,5,1995,3,2.0,1,3.0,1470,8139
+1936,Densidade Residencial Baixa,Gilbert,2 andares,5,1998,3,2.0,1,3.0,1604,9535
+1937,Densidade Residencial Baixa,Gilbert,2 andares,5,1996,3,2.0,1,3.0,1636,15038
+1938,Densidade Residencial Baixa,Gilbert,1 andar,5,1996,3,2.0,1,3.0,1384,14137
+1939,Densidade Residencial Baixa,Stone Brook,1 andar,5,1997,1,2.0,1,3.0,1682,6264
+1940,Densidade Residencial Baixa,Stone Brook,1 andar,5,1992,2,2.0,1,2.0,1280,5070
+1941,Densidade Residencial Baixa,Gilbert,2 andares,5,1998,3,2.0,1,3.0,1633,11184
+1942,Densidade Residencial Baixa,Gilbert,2 andares,5,1991,3,2.0,1,4.0,1709,14067
+1943,Densidade Residencial Baixa,Stone Brook,1 andar,5,1989,2,2.0,1,3.0,1337,5950
+1944,Densidade Residencial Baixa,Stone Brook,2 andares,5,2005,5,3.0,1,4.0,2500,13543
+1945,Densidade Residencial Baixa,Stone Brook,1 andar,5,2004,2,3.0,1,3.0,1884,15401
+1946,Densidade Residencial Baixa,Gilbert,1 andar,2,1952,3,2.0,1,1.0,1474,31220
+1947,Densidade Residencial Baixa,Stone Brook,1 andar,5,2007,2,2.0,1,3.0,1710,8118
+1948,Densidade Residencial Baixa,Gilbert,1 andar,5,1950,3,2.0,1,3.0,1488,47280
+1949,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1988,2,2.0,1,3.0,1688,12680
+1950,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1983,3,2.0,1,3.0,1260,10825
+1951,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1978,3,2.0,1,3.0,2064,18559
+1952,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1979,3,2.0,1,3.0,1782,14450
+1953,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1976,3,2.0,1,3.0,1211,13068
+1954,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1980,3,2.0,1,3.0,2044,10400
+1955,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1969,3,2.0,1,2.0,1308,9743
+1956,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1978,4,4.0,1,4.0,2840,12511
+1957,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1976,2,2.0,1,2.0,1444,10400
+1958,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1996,4,3.0,1,4.0,2340,14311
+1959,Densidade Residencial Baixa,NAmes,2 andares,5,1974,4,2.0,2,4.0,1792,9000
+1960,Densidade Residencial Baixa,NAmes,1 andar,6,1969,2,1.0,1,1.0,936,10295
+1961,Densidade Residencial Baixa,NAmes,1 andar,5,1971,3,2.0,1,2.0,864,7560
+1962,Densidade Residencial Média,Briardale,2 andares,5,1973,2,1.0,1,3.0,987,1680
+1963,Densidade Residencial Média,Briardale,2 andares,6,1972,2,1.0,1,2.0,987,1890
+1964,Densidade Residencial Média,Briardale,2 andares,5,1972,3,1.0,1,3.0,1302,1680
+1965,Densidade Residencial Baixa,Northpark Villa,2 andares,6,1975,4,2.0,1,3.0,1456,2308
+1966,Densidade Residencial Baixa,Northpark Villa,1 andar,6,1977,2,2.0,1,2.0,1055,2529
+1967,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,3,3.0,1,3.0,1582,12704
+1968,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,4,3.0,1,4.0,2464,13693
+1969,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,2,3.0,1,3.0,1950,14418
+1970,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2006,4,3.0,1,4.0,2748,13418
+1971,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,4,4.0,1,4.0,2790,12539
+1972,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,3,3.0,1,4.0,2331,12151
+1973,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2007,4,3.0,1,3.0,2088,8899
+1974,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2004,4,3.0,1,4.0,2332,10574
+1975,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,1,3.0,1,4.0,2470,12720
+1976,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,2,3.0,1,3.0,1575,10845
+1977,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2001,4,3.0,1,4.0,2649,16900
+1978,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2003,4,3.0,1,3.0,2690,16451
+1979,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,2,3.0,1,3.0,1866,10110
+1980,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,2,2.0,1,2.0,1367,12304
+1981,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,2,3.0,1,3.0,1800,8232
+1982,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,2,2.0,1,3.0,1342,6240
+1983,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,2,2.0,1,2.0,1342,6240
+1984,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2003,2,2.0,1,3.0,1626,2448
+1985,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2003,2,3.0,1,3.0,1455,3940
+1986,Densidade Residencial Média,Bloomington Heights,1 andar,5,2004,2,3.0,1,3.0,1576,3940
+1987,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2007,2,2.0,1,2.0,1246,3710
+1988,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,3,2.0,1,3.0,1515,9024
+1989,Densidade Residencial Baixa,Gilbert,2 andares,5,2002,3,2.0,1,3.0,1720,8010
+1990,Densidade Residencial Baixa,Gilbert,2 andares,5,2003,4,2.0,1,3.0,1986,8396
+1991,Densidade Residencial Baixa,Northridge Heights,1 andar,6,2007,2,2.0,1,3.0,1358,7301
+1992,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,3,2.0,1,3.0,1892,8220
+1993,Densidade Residencial Baixa,Gilbert,2 andares,5,2002,3,2.0,1,3.0,1414,7750
+1994,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,4,2.0,1,3.0,2322,12460
+1995,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,3,2.0,1,3.0,1651,8390
+1996,Densidade Residencial Baixa,Northridge,2 andares,5,1997,3,2.0,1,3.0,2199,9660
+1997,Densidade Residencial Baixa,Northridge,2 andares,5,2000,4,3.0,1,3.0,2172,11000
+1998,Densidade Residencial Baixa,Northridge,1 andar,5,1998,2,3.0,1,3.0,2006,11675
+1999,Densidade Residencial Baixa,Northridge,2 andares,5,1996,4,2.0,1,4.0,2125,10990
+2000,Densidade Residencial Baixa,Northridge,2 andares,7,1995,4,3.0,1,3.0,2501,11929
+2001,Densidade Residencial Baixa,Northridge,2 andares,5,1993,4,3.0,1,4.0,2197,10010
+2002,Densidade Residencial Baixa,Somerset,1 andar,5,2006,3,3.0,1,3.0,1578,13253
+2003,Densidade Residencial Baixa,Somerset,2 andares,5,2007,3,3.0,1,3.0,1861,9801
+2004,Densidade Residencial Baixa,Somerset,2 andares,5,2007,3,3.0,1,4.0,1874,9428
+2005,Densidade Residencial Baixa,Somerset,1 andar,5,2006,3,2.0,1,2.0,1460,10037
+2006,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2007,3,2.0,1,2.0,1372,8640
+2007,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2007,3,3.0,1,2.0,1660,10625
+2008,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2007,2,2.0,1,3.0,1218,7500
+2009,Densidade Residencial Baixa,Sawyer West,2 andares,5,2003,3,2.0,1,4.0,1696,10110
+2010,Densidade Residencial Baixa,Sawyer West,2 andares,5,2003,3,2.0,1,3.0,1663,12774
+2011,Densidade Residencial Baixa,Sawyer West,1 andar,5,2005,3,0.0,1,2.0,1175,13072
+2012,Densidade Residencial Baixa,Sawyer West,1 andar,5,2007,3,2.0,1,2.0,1162,9260
+2013,Densidade Residencial Baixa,Sawyer West,2 andares,5,1995,3,2.0,1,3.0,1609,8453
+2014,Densidade Residencial Baixa,Sawyer West,2 andares,5,1993,3,2.0,1,4.0,1680,8480
+2015,Densidade Residencial Baixa,Sawyer West,2 andares,5,1994,3,2.0,1,3.0,1657,14565
+2016,Densidade Residencial Baixa,Sawyer West,2 andares,5,2001,3,2.0,1,4.0,1677,8450
+2017,Densidade Residencial Baixa,Sawyer West,2 andares,5,1992,3,2.0,1,4.0,1737,8285
+2018,Densidade Residencial Baixa,Sawyer,1 andar,5,1963,3,1.0,1,2.0,984,9100
+2019,Densidade Residencial Baixa,Sawyer,1 andar,8,1961,3,1.0,1,2.0,864,8100
+2020,Densidade Residencial Baixa,Sawyer,1 andar,5,1968,3,1.0,1,2.0,890,8450
+2021,Densidade Residencial Baixa,Sawyer,1 andar,5,1963,3,1.0,1,1.0,864,6360
+2022,Densidade Residencial Baixa,Veenker,1 andar,5,1974,3,2.0,1,3.0,1430,19508
+2023,Densidade Residencial Baixa,Sawyer,2 andares,4,1972,4,2.0,1,2.0,1641,10759
+2024,Densidade Residencial Baixa,Northridge,2 andares,5,1990,4,2.0,1,4.0,2683,9205
+2025,Densidade Residencial Baixa,Northridge,2 andares,5,1993,4,2.0,1,4.0,2786,11025
+2026,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2004,1,2.0,1,2.0,1245,3435
+2027,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,2,2.0,1,4.0,1200,3180
+2028,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2007,2,2.0,1,2.0,1392,3180
+2029,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,3,2.0,1,4.0,1549,2280
+2030,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2000,2,2.0,1,3.0,1638,4765
+2031,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2001,1,2.0,1,3.0,1310,4538
+2032,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2001,2,2.0,1,3.0,1419,4385
+2033,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,1999,2,2.0,1,3.0,1557,4109
+2034,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,3,2.0,1,4.0,1404,2160
+2035,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2001,3,2.0,1,4.0,1789,10646
+2036,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,3,2.0,1,4.0,1586,2645
+2037,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,3,2.0,1,4.0,1607,2645
+2038,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1998,2,2.0,1,4.0,2393,3951
+2039,Densidade Residencial Baixa,Veenker,1 andar,5,1995,1,2.0,1,3.0,1239,11064
+2040,Densidade Residencial Baixa,Veenker,2 andares,3,1977,3,3.0,1,4.0,2944,24572
+2041,Densidade Residencial Baixa,Veenker,1 andar,9,1976,3,2.0,1,4.0,1671,16280
+2042,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2002,3,2.0,1,3.0,1812,7500
+2043,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1969,4,2.0,1,3.0,1427,11104
+2044,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1968,4,2.0,1,2.0,1740,11050
+2045,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1967,4,2.0,1,2.0,1620,15387
+2046,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1965,4,2.0,2,2.0,1625,9750
+2047,Densidade Residencial Baixa,NAmes,2 andares,6,1968,4,2.0,1,2.0,1464,8814
+2048,Densidade Residencial Baixa,NAmes,1 andar,7,1965,3,2.0,1,2.0,925,8125
+2049,Densidade Residencial Baixa,NAmes,1 andar,5,1965,6,2.0,2,2.0,1728,11072
+2050,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1971,4,2.0,1,2.0,1670,13355
+2051,Densidade Residencial Baixa,NAmes,1 andar,5,1956,2,1.0,1,1.0,1014,7785
+2052,Densidade Residencial Baixa,NAmes,1 andar,5,1961,3,2.0,1,2.0,1114,9900
+2053,Densidade Residencial Baixa,NAmes,1 andar,7,1960,3,1.0,1,2.0,1118,11332
+2054,Densidade Residencial Baixa,Brookside,2 andares,7,1937,2,1.0,1,1.0,906,4882
+2055,Densidade Residencial Baixa,NAmes,1 andar,6,1960,3,2.0,1,2.0,1496,9600
+2056,Densidade Residencial Baixa,NAmes,1 andar,8,1950,3,1.0,1,2.0,1337,9600
+2057,Densidade Residencial Baixa,NAmes,1 andar,5,1953,3,1.0,1,1.0,1036,7584
+2058,Densidade Residencial Baixa,NAmes,2 andares,7,1966,4,2.0,1,3.0,1988,14670
+2059,Densidade Residencial Baixa,NAmes,1 andar,4,1957,3,1.0,1,2.0,1176,8856
+2060,Densidade Residencial Baixa,NAmes,1 andar,7,1959,2,1.0,1,3.0,1440,9840
+2061,Densidade Residencial Baixa,NAmes,1 andar,6,1958,3,2.0,1,2.0,1570,13200
+2062,Densidade Residencial Baixa,NAmes,1 andar,5,1956,3,1.0,1,2.0,1104,10425
+2063,Densidade Residencial Baixa,NAmes,1 andar,6,1952,2,1.0,1,2.0,882,11556
+2064,Densidade Residencial Baixa,NAmes,1 andar,6,1953,3,2.0,1,2.0,1152,9373
+2065,Densidade Residencial Baixa,NAmes,1 andar,5,1953,2,2.0,1,1.0,950,12774
+2066,Densidade Residencial Baixa,NAmes,1 andar,5,1957,3,2.0,1,2.0,1790,14250
+2067,Densidade Residencial Baixa,NAmes,1 andar,3,1957,4,1.0,1,3.0,1764,8838
+2068,Densidade Residencial Baixa,NAmes,1 andar,5,1957,5,2.0,2,2.0,1824,12436
+2069,Densidade Residencial Baixa,Old Town,1 andar,6,1948,1,1.0,1,1.0,869,10122
+2070,Densidade Residencial Baixa,Old Town,2 andares,8,1925,3,1.0,1,1.0,1159,7506
+2071,Densidade Residencial Baixa,Old Town,1 andar,7,1940,2,1.0,1,1.0,672,5400
+2072,Densidade Residencial Baixa,Old Town,2 andares,5,1922,3,4.0,1,2.0,1436,10836
+2073,Densidade Residencial Baixa,NAmes,1 andar,6,1968,3,2.0,1,3.0,1044,10180
+2074,Densidade Residencial Baixa,NAmes,1 andar,7,1958,3,2.0,1,2.0,1312,11355
+2075,Densidade Residencial Baixa,NAmes,1 andar,6,1960,3,1.0,1,2.0,1081,12929
+2076,Densidade Residencial Baixa,NAmes,1 andar,7,1951,2,2.0,1,1.0,876,7200
+2077,Densidade Residencial Baixa,NAmes,1 andar,6,1959,3,1.0,1,3.0,1256,8000
+2078,Densidade Residencial Baixa,NAmes,1 andar,5,1962,3,1.0,1,2.0,1027,8000
+2079,Densidade Residencial Baixa,NAmes,2 andares,6,1948,3,2.0,1,2.0,1320,8064
+2080,Densidade Residencial Baixa,NAmes,2 andares,7,1954,2,1.0,1,2.0,984,6390
+2081,Densidade Residencial Baixa,NAmes,2 andares,5,1954,4,1.0,1,1.0,1278,7200
+2082,Densidade Residencial Baixa,NAmes,1 andar,5,1961,6,0.0,2,2.0,1800,8513
+2083,Densidade Residencial Baixa,NAmes,2 andares,6,1955,3,2.0,1,2.0,1588,7200
+2084,Densidade Residencial Baixa,NAmes,1 andar,7,1954,2,1.0,1,2.0,825,7200
+2085,Densidade Residencial Baixa,NAmes,1 andar,5,1963,3,1.0,1,1.0,1117,7590
+2086,Densidade Residencial Média,Old Town,1 andar,5,2008,3,1.0,1,2.0,1133,9836
+2087,Densidade Residencial Média,Old Town,2 andares,7,1948,3,2.0,1,1.0,1323,9184
+2088,Densidade Residencial Média,Old Town,2 andares,5,1910,2,1.0,1,1.0,1360,4800
+2089,Densidade Residencial Média,Old Town,1 andar,4,1940,2,1.0,1,1.0,672,4800
+2090,Densidade Residencial Média,Old Town,2 andares,7,1915,4,1.0,1,2.0,1456,6000
+2091,Densidade Residencial Média,Old Town,2 andares,6,1910,3,0.0,2,2.0,1594,11426
+2092,Densidade Residencial Média,Old Town,2 andares,6,1940,2,2.0,1,2.0,1656,7628
+2093,Densidade Residencial Média,Old Town,2 andares,5,1920,2,1.0,1,1.0,1740,7308
+2094,Densidade Residencial Média,Old Town,1 andar,6,1920,2,0.0,1,2.0,1027,5400
+2095,Densidade Residencial Média,Old Town,2 andares,6,1940,3,2.0,2,2.0,1436,10800
+2096,Densidade Residencial Média,Old Town,1 andar,6,1910,2,1.0,1,1.0,899,6756
+2097,Densidade Residencial Média,Old Town,2 andares,9,1890,3,0.0,1,1.0,1080,5914
+2098,Densidade Residencial Média,Old Town,2 andares,6,1946,3,3.0,1,1.0,1499,9000
+2099,Densidade Residencial Média,Old Town,1 andar,5,1946,1,1.0,1,1.0,407,7311
+2100,Densidade Residencial Média,Old Town,1 andar,1,1949,5,0.0,1,2.0,1588,12205
+2101,Densidade Residencial Média,Old Town,2 andares,5,1900,4,2.0,2,2.0,1627,9142
+2102,Densidade Residencial Média,Old Town,2 andares,8,1920,3,1.0,1,1.0,1450,5350
+2103,Densidade Residencial Média,Old Town,2 andares,7,1900,2,1.0,1,1.0,1017,9143
+2104,Densidade Residencial Média,Old Town,2 andares,5,1920,4,2.0,2,2.0,2350,9600
+2105,Densidade Residencial Média,Old Town,2 andares,9,1905,3,0.0,1,2.0,1540,6000
+2106,Densidade Residencial Média,Old Town,2 andares,1,1920,2,2.0,1,1.0,1086,11340
+2107,Densidade Residencial Média,Old Town,2 andares,7,1890,5,2.0,1,2.0,2495,10800
+2108,Densidade Residencial Média,Old Town,1 andar,6,1959,2,1.0,1,2.0,984,9750
+2109,Densidade Residencial Média,Old Town,1 andar,6,1958,2,1.0,1,1.0,1093,8516
+2110,Densidade Residencial Baixa,Brookside,1 andar,7,1928,2,1.0,1,1.0,1143,7111
+2111,Densidade Residencial Média,Brookside,2 andares,7,1945,3,1.0,1,2.0,1668,7425
+2112,Densidade Residencial Baixa,Brookside,2 andares,5,1935,3,1.0,1,2.0,1738,7010
+2113,Densidade Residencial Média,Brookside,2 andares,7,1941,3,1.0,1,1.0,1210,5000
+2114,Densidade Residencial Média,Brookside,2 andares,9,1900,3,1.0,1,2.0,1290,5870
+2115,Densidade Residencial Média,Brookside,2 andares,7,1940,3,1.0,1,2.0,1672,6000
+2116,Densidade Residencial Média,Brookside,1 andar,7,1924,2,2.0,1,1.0,949,6000
+2117,Densidade Residencial Média,Brookside,2 andares,7,1937,3,1.0,1,2.0,1497,6000
+2118,Densidade Residencial Média,Brookside,2 andares,5,1939,2,1.0,2,2.0,1342,6000
+2119,Densidade Residencial Média,Brookside,2 andares,7,1926,3,1.0,1,1.0,1013,5000
+2120,Densidade Residencial Média,Brookside,2 andares,7,1920,3,1.0,1,2.0,1216,5520
+2121,Densidade Residencial Média,Brookside,1 andar,7,1946,2,1.0,1,,896,5940
+2122,Densidade Residencial Média,Brookside,2 andares,7,1929,2,1.0,1,2.0,1136,6240
+2123,Densidade Residencial Média,Brookside,1 andar,6,1945,1,1.0,1,1.0,808,6120
+2124,Densidade Residencial Média,Brookside,2 andares,5,1939,4,2.0,1,2.0,2009,6240
+2125,Densidade Residencial Média,Old Town,2 andares,5,1923,4,2.0,1,2.0,1902,6120
+2126,Densidade Residencial Baixa,Brookside,2 andares,4,1915,4,2.0,1,2.0,1716,9144
+2127,Densidade Residencial Média,Old Town,2 andares,8,1910,5,1.0,1,2.0,1984,8094
+2128,Densidade Residencial Média,Old Town,2 andares,8,1910,3,1.0,1,1.0,1609,4347
+2129,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,6,1930,1,2.0,1,1.0,768,6291
+2130,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1952,4,1.0,1,2.0,1536,10266
+2131,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1938,4,2.0,1,2.0,1969,6876
+2132,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1915,2,2.0,1,2.0,1308,10320
+2133,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,7,1925,2,2.0,1,1.0,1040,7200
+2134,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1925,3,1.0,1,3.0,1236,7006
+2135,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,8,1912,1,2.0,1,1.0,759,10320
+2136,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,3,1915,3,0.0,2,2.0,1344,10320
+2137,Densidade Residencial Baixa,Sawyer,1 andar,6,1947,3,1.0,1,1.0,1054,9488
+2138,Densidade Residencial Baixa,Sawyer,2 andares,6,1963,3,2.0,1,2.0,1075,11235
+2139,Densidade Residencial Baixa,Sawyer,2 andares,5,1978,3,2.0,1,2.0,1096,13014
+2140,Densidade Residencial Baixa,Sawyer,1 andar,7,1967,3,1.0,1,2.0,992,10265
+2141,Densidade Residencial Baixa,Sawyer,2 andares,8,1978,3,2.0,1,2.0,1034,7703
+2142,Densidade Residencial Baixa,Sawyer,1 andar,5,1967,3,1.0,1,1.0,1073,9981
+2143,Densidade Residencial Baixa,Sawyer,2 andares,5,1984,2,2.0,1,2.0,1126,7400
+2144,Densidade Residencial Baixa,Sawyer,1 andar,4,1920,3,2.0,1,2.0,1140,12900
+2145,Densidade Residencial Baixa,Sawyer,1 andar,8,1963,3,1.0,1,2.0,960,9239
+2146,Densidade Residencial Baixa,Sawyer,1 andar,8,1956,1,2.0,1,2.0,1188,14175
+2147,Densidade Residencial Baixa,Clear Creek,1 andar,3,1960,3,2.0,1,3.0,1721,10532
+2148,Densidade Residencial Baixa,Sawyer,2 andares,7,1941,2,3.0,1,3.0,1350,8375
+2149,Densidade Residencial Baixa,Sawyer,2 andares,8,1970,3,3.0,1,1.0,904,10200
+2150,Densidade Residencial Baixa,Clear Creek,1 andar,6,1979,3,2.0,1,3.0,1524,20270
+2151,Densidade Residencial Baixa,Edwards,2 andares,5,1948,2,1.0,1,1.0,1079,5190
+2152,Densidade Residencial Baixa,Edwards,1 andar,7,1940,2,0.0,1,2.0,1518,19550
+2153,Densidade Residencial Baixa,Edwards,1 andar,6,1956,3,1.0,1,2.0,1509,9571
+2154,Densidade Residencial Baixa,Edwards,2 andares,5,1975,2,0.0,1,2.0,864,9350
+2155,Densidade Residencial Baixa,Edwards,2 andares,8,1962,3,1.0,1,2.0,1269,9360
+2156,Densidade Residencial Baixa,Sawyer West,2 andares,5,1995,4,2.0,1,4.0,2814,9771
+2157,Densidade Residencial Baixa,Sawyer West,1 andar,5,1994,3,2.0,1,4.0,1626,9938
+2158,Densidade Residencial Baixa,Sawyer West,2 andares,5,1993,4,2.0,1,3.0,2200,14171
+2159,Densidade Residencial Baixa,Sawyer West,2 andares,5,1996,3,2.0,1,3.0,2037,10541
+2160,Densidade Residencial Baixa,College Creek,2 andares,5,2007,3,2.0,1,3.0,1356,10616
+2161,Densidade Residencial Baixa,College Creek,1 andar,5,2007,3,3.0,1,2.0,1615,9345
+2162,Densidade Residencial Baixa,College Creek,1 andar,5,2008,3,3.0,1,3.0,2276,11778
+2163,Densidade Residencial Baixa,College Creek,1 andar,5,2008,3,3.0,1,4.0,1766,11778
+2164,Densidade Residencial Baixa,Sawyer West,2 andares,5,1995,3,3.0,1,3.0,1511,11454
+2165,Densidade Residencial Baixa,Clear Creek,1 andar,6,1966,2,2.0,1,3.0,1643,11500
+2166,Densidade Residencial Baixa,College Creek,1 andar,7,1994,3,2.0,1,2.0,990,9750
+2167,Densidade Residencial Baixa,College Creek,1 andar,5,1997,3,2.0,1,3.0,1418,8696
+2168,Densidade Residencial Baixa,College Creek,2 andares,5,1997,3,2.0,1,4.0,1771,13142
+2169,Densidade Residencial Baixa,College Creek,2 andares,5,2000,3,2.0,1,3.0,1652,8998
+2170,Densidade Residencial Baixa,College Creek,2 andares,5,2000,3,2.0,1,4.0,1823,12192
+2171,Densidade Residencial Baixa,College Creek,1 andar,6,1978,3,2.0,1,2.0,1174,12250
+2172,Densidade Residencial Baixa,College Creek,1 andar,6,1975,3,2.0,1,2.0,1076,9216
+2173,Densidade Residencial Baixa,College Creek,1 andar,6,1975,2,2.0,1,3.0,1558,14330
+2174,Densidade Residencial Baixa,College Creek,2 andares,5,2001,3,2.0,1,3.0,2161,10400
+2175,Densidade Residencial Baixa,College Creek,2 andares,5,2001,3,3.0,1,4.0,1947,9720
+2176,Densidade Residencial Baixa,College Creek,1 andar,5,2002,3,3.0,1,3.0,1786,14860
+2177,Densidade Residencial Baixa,College Creek,2 andares,5,2003,4,2.0,1,3.0,2327,10905
+2178,Densidade Residencial Baixa,College Creek,2 andares,5,1999,3,2.0,1,3.0,1764,11690
+2179,Densidade Residencial Média,College Creek,1 andar,5,2004,1,2.0,1,2.0,848,4426
+2180,Densidade Residencial Média,College Creek,2 andares,5,1997,2,3.0,2,4.0,1838,10126
+2181,Densidade Residencial Baixa,College Creek,1 andar,5,2004,3,2.0,1,2.0,1445,9750
+2182,Densidade Residencial Baixa,College Creek,1 andar,6,2007,3,3.0,1,2.0,1564,11058
+2183,Densidade Residencial Baixa,College Creek,1 andar,5,2007,3,2.0,1,2.0,1361,9627
+2184,Densidade Residencial Baixa,Edwards,1 andar,5,1966,3,1.0,1,1.0,1092,9825
+2185,Densidade Residencial Baixa,Edwards,2 andares,5,1976,3,2.0,1,2.0,1033,12102
+2186,Densidade Residencial Baixa,Edwards,1 andar,6,1976,3,2.0,1,3.0,1127,6500
+2187,Densidade Residencial Baixa,Edwards,2 andares,6,1977,3,2.0,1,2.0,1117,9638
+2188,Densidade Residencial Baixa,Edwards,2 andares,7,1976,3,2.0,1,2.0,1398,7200
+2189,Densidade Residencial Baixa,Edwards,1 andar,7,1959,5,2.0,1,,3820,47007
+2190,Densidade Residencial Baixa,Edwards,1 andar,5,1955,2,0.0,2,2.0,1152,6012
+2191,Densidade Residencial Baixa,Edwards,1 andar,5,1955,2,0.0,2,2.0,1152,6845
+2192,Densidade Residencial Baixa,Edwards,1 andar,5,1955,2,0.0,1,2.0,784,6931
+2193,Densidade Residencial Baixa,Edwards,2 andares,7,1938,2,0.0,1,2.0,1053,12180
+2194,Densidade Residencial Baixa,Edwards,2 andares,8,1947,4,0.0,1,2.0,1137,8050
+2195,Densidade Residencial Baixa,Edwards,1 andar,5,1953,2,1.0,1,1.0,930,9520
+2196,Densidade Residencial Baixa,Edwards,2 andares,6,1954,3,1.0,1,1.0,1204,7692
+2197,Densidade Residencial Baixa,Edwards,2 andares,7,1923,3,1.0,1,2.0,1292,5142
+2198,Densidade Residencial Baixa,South & West of Iowa State University,1 andar,8,1921,2,1.0,1,2.0,1424,7290
+2199,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,7,1930,4,2.0,2,6.0,1920,7804
+2200,Densidade Residencial Baixa,Crawford,2 andares,6,1926,2,1.0,1,2.0,1316,8969
+2201,Densidade Residencial Baixa,Crawford,2 andares,6,1914,3,2.0,1,1.0,1264,15564
+2202,Densidade Residencial Baixa,Crawford,2 andares,9,1925,3,1.0,1,3.0,1512,7609
+2203,Densidade Residencial Baixa,Crawford,2 andares,3,1923,4,2.0,1,1.0,1603,9650
+2204,Densidade Residencial Baixa,Crawford,2 andares,6,1937,4,1.0,1,2.0,1938,11700
+2205,Densidade Residencial Baixa,Crawford,2 andares,4,1938,3,1.0,1,1.0,1374,9260
+2206,Densidade Residencial Baixa,Crawford,1 andar,5,1951,2,1.0,1,2.0,1091,7801
+2207,Densidade Residencial Baixa,Crawford,2 andares,6,1935,4,2.0,1,2.0,1873,9670
+2208,Densidade Residencial Baixa,Crawford,2 andares,9,1950,3,2.0,1,4.0,2161,12392
+2209,Densidade Residencial Baixa,Crawford,1 andar,5,1956,3,2.0,1,3.0,1898,26073
+2210,Densidade Residencial Média,Bluestem,2 andares,6,1980,2,2.0,1,1.0,1032,1879
+2211,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,8,1926,2,1.0,1,2.0,919,7000
+2212,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,8,1940,3,1.0,1,1.0,1090,6000
+2213,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1930,4,0.0,1,1.0,1200,8155
+2214,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1967,3,1.0,1,2.0,1656,6000
+2215,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,7,1930,2,1.0,1,1.0,912,7392
+2216,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1958,4,1.0,1,2.0,1955,9000
+2217,,Iowa DOT and Rail Road,1 andar,5,1952,2,2.0,1,1.0,733,14584
+2218,C (all),Iowa DOT and Rail Road,2 andares,7,1895,2,1.0,1,1.0,1361,5280
+2219,C (all),Iowa DOT and Rail Road,2 andares,7,1910,2,1.0,1,1.0,1049,5150
+2220,C (all),Iowa DOT and Rail Road,2 andares,6,1920,3,1.0,1,2.0,864,9000
+2221,Densidade Residencial Média,Crawford,1 andar,5,2007,2,2.0,1,4.0,1648,3843
+2222,Densidade Residencial Média,Crawford,1 andar,5,2004,2,2.0,1,4.0,1646,3811
+2223,Densidade Residencial Baixa,Mitchell,1 andar,5,1996,3,3.0,1,4.0,2032,23730
+2224,Densidade Residencial Baixa,Mitchell,2 andares,5,1996,3,3.0,1,3.0,1820,11050
+2225,Densidade Residencial Baixa,Mitchell,2 andares,4,1976,4,2.0,2,4.0,1872,10260
+2226,Densidade Residencial Baixa,Mitchell,1 andar,5,1991,3,2.0,1,3.0,1689,9990
+2227,Densidade Residencial Baixa,Timberland,1 andar,6,1986,2,2.0,1,3.0,1501,4084
+2228,Densidade Residencial Baixa,Timberland,1 andar,5,2006,3,3.0,1,3.0,1537,11563
+2229,Densidade Residencial Baixa,Timberland,2 andares,5,2007,3,2.0,1,4.0,1780,12852
+2230,Densidade Residencial Baixa,Timberland,2 andares,5,2006,3,2.0,1,3.0,1442,9802
+2231,Densidade Residencial Baixa,Timberland,2 andares,5,2008,3,3.0,1,3.0,1612,12018
+2232,Densidade Residencial Baixa,Timberland,1 andar,5,1989,3,2.0,1,2.0,1495,12890
+2233,Densidade Residencial Baixa,Timberland,1 andar,5,1986,3,2.0,1,2.0,1256,18265
+2234,Densidade Residencial Baixa,Timberland,1 andar,5,2003,3,2.0,1,3.0,1440,11202
+2235,Densidade Residencial Baixa,Timberland,1 andar,5,1999,3,2.0,1,3.0,1675,7915
+2236,Densidade Residencial Baixa,Timberland,1 andar,5,2007,3,2.0,1,3.0,1728,11449
+2237,Densidade Residencial Baixa,Timberland,1 andar,5,2005,3,3.0,1,4.0,1964,11447
+2238,Densidade Residencial Média,Mitchell,2 andares,5,1997,2,4.0,2,4.0,1344,8940
+2239,Densidade Residencial Baixa,Mitchell,1 andar,5,2007,2,0.0,1,1.0,1092,9278
+2240,Densidade Residencial Média,Mitchell,1 andar,5,1997,2,2.0,1,3.0,1189,4500
+2241,Densidade Residencial Baixa,Mitchell,2 andares,5,1964,3,3.0,1,2.0,1200,14137
+2242,Densidade Residencial Média,Meadow Village,1 andar,6,1975,3,2.0,1,1.0,1040,4224
+2243,Densidade Residencial Média,Meadow Village,2 andares,7,1976,4,1.0,1,2.0,1475,2665
+2244,Densidade Residencial Média,Meadow Village,2 andares,7,1973,2,1.0,1,2.0,988,1974
+2245,Densidade Residencial Média,Meadow Village,2 andares,6,1973,1,1.0,1,2.0,988,1596
+2246,Densidade Residencial Baixa,Mitchell,1 andar,6,1968,3,1.0,1,2.0,1160,17979
+2247,Densidade Residencial Média,Meadow Village,2 andares,9,1970,3,0.0,1,3.0,1092,1477
+2248,Densidade Residencial Baixa,Mitchell,1 andar,7,1983,2,1.0,1,2.0,816,6490
+2249,Densidade Residencial Baixa,Mitchell,1 andar,6,1982,3,1.0,1,1.0,845,6600
+2250,Densidade Residencial Baixa,Mitchell,1 andar,6,1984,3,2.0,1,1.0,889,12395
+2251,,Iowa DOT and Rail Road,2 andares,1,1900,4,1.0,1,2.0,1836,56600
+2252,Densidade Residencial Baixa,NAmes,1 andar,6,1971,3,2.0,1,2.0,1587,10667
+2253,Densidade Residencial Baixa,Gilbert,2 andares,5,1997,3,2.0,1,3.0,1384,8872
+2254,Densidade Residencial Baixa,Gilbert,2 andares,5,1994,3,2.0,1,3.0,1694,10147
+2255,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,3,2.0,1,4.0,1714,8637
+2256,Densidade Residencial Baixa,Gilbert,2 andares,5,1996,3,2.0,1,3.0,1553,7875
+2257,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,5,2.0,1,4.0,2299,7500
+2258,Densidade Residencial Baixa,Gilbert,1 andar,5,1992,3,2.0,1,2.0,1187,9556
+2259,Densidade Residencial Baixa,Gilbert,2 andares,5,1993,3,2.0,1,3.0,1642,7655
+2260,Densidade Residencial Baixa,Gilbert,1 andar,6,1964,3,2.0,1,2.0,1128,18160
+2261,Densidade Residencial Baixa,Stone Brook,1 andar,5,1988,2,2.0,1,3.0,1179,4740
+2262,Densidade Residencial Baixa,Stone Brook,1 andar,5,1990,1,2.0,1,2.0,1321,5118
+2263,Densidade Residencial Baixa,Stone Brook,2 andares,5,2005,4,3.0,1,5.0,2541,12328
+2264,Densidade Residencial Baixa,Stone Brook,1 andar,5,2006,4,3.0,1,4.0,2338,51974
+2265,Densidade Residencial Baixa,Gilbert,1 andar,5,1969,3,3.0,1,3.0,1424,41600
+2266,Densidade Residencial Baixa,Stone Brook,1 andar,5,2006,2,2.0,1,3.0,1612,8035
+2267,Densidade Residencial Baixa,Stone Brook,1 andar,5,2006,1,2.0,1,3.0,2234,14082
+2268,Densidade Residencial Baixa,Stone Brook,1 andar,5,2006,3,3.0,1,3.0,2042,13870
+2269,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1984,3,2.0,1,3.0,1284,10960
+2270,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1981,3,2.0,1,3.0,1479,12090
+2271,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1978,3,2.0,1,3.0,1664,12299
+2272,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1979,4,2.0,1,4.0,1930,11339
+2273,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1984,3,2.0,1,2.0,1177,11850
+2274,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1979,2,2.0,1,3.0,1353,10400
+2275,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1971,2,2.0,1,3.0,1220,13001
+2276,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1976,3,2.0,1,3.0,1324,8991
+2277,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1974,4,2.0,1,4.0,1877,8000
+2278,Densidade Residencial Baixa,NAmes,1 andar,6,1970,3,2.0,1,2.0,1422,9457
+2279,Densidade Residencial Baixa,NAmes,1 andar,5,1970,3,1.0,1,1.0,914,7920
+2280,Densidade Residencial Baixa,NAmes,1 andar,7,1961,2,1.0,1,1.0,914,17199
+2281,Densidade Residencial Alta,NAmes,1 andar,5,2001,2,2.0,1,2.0,1337,4113
+2282,Densidade Residencial Alta,NAmes,1 andar,5,1997,2,2.0,1,3.0,1337,10943
+2283,Densidade Residencial Média,Briardale,2 andares,6,1973,3,1.0,1,2.0,1092,2205
+2284,Densidade Residencial Média,Briardale,2 andares,5,1973,4,1.0,1,2.0,1218,2058
+2285,Densidade Residencial Baixa,Northpark Villa,1 andar,7,1978,2,1.0,1,2.0,1055,2304
+2286,Densidade Residencial Baixa,NAmes,1 andar,6,1966,3,1.0,1,2.0,988,7150
+2287,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,3,3.0,1,3.0,1816,12469
+2288,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,3,3.0,1,2.0,1694,11825
+2289,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,2,3.0,1,4.0,2122,14333
+2290,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2007,3,3.0,1,4.0,2656,13641
+2291,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2006,4,3.0,1,3.0,2550,13440
+2292,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,2,3.0,1,4.0,2046,15431
+2293,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,3,3.0,1,3.0,2552,13891
+2294,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,4,3.0,1,3.0,2758,13654
+2295,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,2,3.0,1,5.0,2290,17169
+2296,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2007,3,2.0,1,3.0,2152,16659
+2297,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2007,3,3.0,1,4.0,2100,9709
+2298,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,3,3.0,1,3.0,1802,13615
+2299,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2004,5,3.0,1,3.0,2956,13069
+2300,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2003,3,3.0,1,4.0,2385,14277
+2301,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2007,3,3.0,1,4.0,1818,12568
+2302,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,3,3.0,1,3.0,1614,9926
+2303,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,3,2.0,1,3.0,1721,9254
+2304,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2006,3,3.0,1,3.0,1828,10732
+2305,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,1,2.0,1,3.0,1302,3901
+2306,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,1,2.0,1,3.0,1302,3903
+2307,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,2,2.0,1,3.0,1362,6289
+2308,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,2,2.0,1,2.0,1554,4590
+2309,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,2,2.0,1,3.0,1577,7841
+2310,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,2,2.0,1,2.0,1324,6240
+2311,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,2,2.0,1,3.0,1405,3242
+2312,Densidade Residencial Baixa,Gilbert,2 andares,5,2007,3,2.0,1,3.0,1496,15810
+2313,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,3,2.0,1,3.0,1536,10237
+2314,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,3,2.0,1,2.0,1458,13204
+2315,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,3,2.0,1,3.0,1495,8857
+2316,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,3,3.0,1,4.0,1746,9729
+2317,Densidade Residencial Baixa,Gilbert,1 andar,5,2005,3,2.0,1,3.0,1326,12216
+2318,Densidade Residencial Baixa,Gilbert,2 andares,5,2007,3,2.0,1,3.0,1504,8229
+2319,Densidade Residencial Baixa,Gilbert,2 andares,5,2007,3,2.0,1,3.0,1456,7713
+2320,Densidade Residencial Baixa,Gilbert,1 andar,6,2007,3,2.0,1,2.0,1258,7697
+2321,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2003,2,3.0,1,3.0,1589,3621
+2322,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2007,2,2.0,1,2.0,1266,3710
+2323,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,2,2.0,1,3.0,1119,16219
+2324,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,3,2.0,1,4.0,1374,11084
+2325,Densidade Residencial Baixa,Gilbert,1 andar,5,2006,3,2.0,1,3.0,1525,10936
+2326,Densidade Residencial Baixa,Gilbert,2 andares,5,2003,3,2.0,1,3.0,1394,11950
+2327,Densidade Residencial Baixa,Gilbert,2 andares,5,2003,4,2.0,1,3.0,1948,7875
+2328,Densidade Residencial Baixa,Gilbert,2 andares,5,2002,4,2.0,1,3.0,1995,8740
+2329,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,3,2.0,1,4.0,1690,9487
+2330,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,3,2.0,1,3.0,1644,9649
+2331,Densidade Residencial Baixa,Northridge,2 andares,5,1997,4,3.0,1,4.0,2551,12191
+2332,Densidade Residencial Baixa,Northridge,2 andares,5,1998,4,3.0,1,4.0,3078,10557
+2333,Densidade Residencial Baixa,Northridge,2 andares,5,1998,4,3.0,1,4.0,2582,11002
+2334,Densidade Residencial Baixa,Northridge,2 andares,5,1998,4,3.0,1,3.0,2385,10790
+2335,Densidade Residencial Baixa,Northridge,2 andares,5,1992,4,2.0,1,4.0,2202,11762
+2336,Densidade Residencial Baixa,Northridge,2 andares,5,1996,4,3.0,1,3.0,2538,9044
+2337,Densidade Residencial Baixa,Somerset,1 andar,6,2007,3,2.0,1,2.0,1369,9910
+2338,Densidade Residencial Baixa,Somerset,1 andar,5,2007,3,3.0,1,3.0,1542,11830
+2339,Densidade Residencial Baixa,Somerset,1 andar,5,2006,3,2.0,1,2.0,1534,10612
+2340,Densidade Residencial Baixa,Somerset,1 andar,5,2007,1,3.0,1,3.0,1966,12291
+2341,Densidade Residencial Baixa,Somerset,1 andar,5,2007,3,2.0,1,5.0,1528,9965
+2342,Densidade Residencial Baixa,Somerset,1 andar,5,2005,3,2.0,1,3.0,1538,8847
+2343,Densidade Residencial Baixa,Somerset,1 andar,5,2005,3,2.0,1,3.0,1506,8251
+2344,Densidade Residencial Baixa,Somerset,2 andares,5,2006,3,3.0,1,3.0,1977,9605
+2345,Densidade Residencial Baixa,Somerset,2 andares,5,2006,3,3.0,1,3.0,1830,8778
+2346,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2007,3,2.0,1,2.0,1338,8640
+2347,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,3,2.0,1,2.0,1335,9000
+2348,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2007,3,2.0,1,3.0,1792,8640
+2349,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2007,3,2.0,1,3.0,1588,10411
+2350,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2007,3,3.0,1,4.0,1880,12217
+2351,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2007,2,2.0,1,2.0,1584,10440
+2352,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,2,3.0,1,2.0,1685,11824
+2353,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2004,4,3.0,1,3.0,2443,10625
+2354,Densidade Residencial Baixa,Sawyer West,1 andar,5,2006,3,0.0,1,2.0,1100,7500
+2355,Densidade Residencial Baixa,Sawyer West,1 andar,5,2006,3,0.0,1,2.0,1143,7500
+2356,Densidade Residencial Baixa,Sawyer West,1 andar,5,2003,3,2.0,1,2.0,1094,12450
+2357,Densidade Residencial Baixa,Sawyer West,1 andar,5,2006,3,2.0,1,2.0,1486,7441
+2358,Densidade Residencial Baixa,Sawyer West,2 andares,5,1993,3,2.0,1,3.0,1820,11613
+2359,Densidade Residencial Baixa,Sawyer West,2 andares,5,1980,2,1.0,1,2.0,1266,8012
+2360,Densidade Residencial Baixa,Sawyer,1 andar,5,1977,2,1.0,1,2.0,894,6285
+2361,Densidade Residencial Baixa,Sawyer,1 andar,7,1968,3,2.0,1,3.0,1040,7476
+2362,Densidade Residencial Baixa,Veenker,2 andares,5,1990,3,2.0,1,4.0,2503,19522
+2363,Densidade Residencial Baixa,Sawyer,1 andar,5,1974,2,2.0,1,2.0,1037,10751
+2364,Densidade Residencial Baixa,Sawyer,1 andar,7,1973,2,2.0,1,2.0,1055,12712
+2365,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2004,2,2.0,1,3.0,1378,4379
+2366,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,2,2.0,1,3.0,1151,3523
+2367,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,2,2.0,1,3.0,1565,3784
+2368,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,2,2.0,1,3.0,1352,3606
+2369,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,2,2.0,1,3.0,1550,5330
+2370,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,3,2.0,1,4.0,1501,2280
+2371,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,3,2.0,1,3.0,1573,2117
+2372,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,1999,3,2.0,1,2.0,1358,7321
+2373,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2003,3,2.0,1,4.0,2048,8010
+2374,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1998,3,2.0,1,4.0,2362,8413
+2375,Densidade Residencial Baixa,Veenker,1 andar,5,1994,1,2.0,1,3.0,1494,9466
+2376,Densidade Residencial Baixa,Veenker,1 andar,6,1980,3,2.0,1,4.0,2362,12000
+2377,Densidade Residencial Baixa,Veenker,1 andar,5,1981,2,2.0,1,3.0,2497,17778
+2378,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1968,3,2.0,1,3.0,1152,11700
+2379,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1970,4,2.0,1,4.0,2411,8000
+2380,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1969,3,2.0,1,2.0,1082,8723
+2381,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1968,3,2.0,1,3.0,1295,11700
+2382,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1972,3,2.0,1,2.0,1610,11358
+2383,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1993,2,2.0,1,2.0,1594,9547
+2384,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1993,3,2.0,1,4.0,2075,10530
+2385,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1966,3,2.0,1,3.0,1093,10738
+2386,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1963,3,1.0,1,2.0,1052,10800
+2387,Densidade Residencial Baixa,NAmes,1 andar,6,1967,3,1.0,1,2.0,1107,8050
+2388,Densidade Residencial Baixa,NAmes,1 andar,5,1964,2,3.0,2,2.0,1224,10899
+2389,Densidade Residencial Baixa,NAmes,1 andar,5,1956,2,2.0,1,1.0,1074,7450
+2390,Densidade Residencial Baixa,NAmes,1 andar,5,1961,2,2.0,1,2.0,1187,14357
+2391,Densidade Residencial Baixa,NAmes,1 andar,7,1961,3,2.0,1,1.0,964,8243
+2392,Densidade Residencial Baixa,NAmes,1 andar,7,1960,3,1.0,1,1.0,894,8680
+2393,Densidade Residencial Baixa,NAmes,1 andar,6,1966,3,2.0,1,3.0,1200,8800
+2394,Densidade Residencial Baixa,NAmes,2 andares,5,1965,3,2.0,1,2.0,1042,9200
+2395,Densidade Residencial Baixa,NAmes,2 andares,7,1964,5,2.0,1,3.0,2154,8800
+2396,Densidade Residencial Baixa,NAmes,1 andar,5,1964,3,1.0,1,2.0,1374,11382
+2397,Densidade Residencial Baixa,NAmes,1 andar,7,1959,3,2.0,1,3.0,1652,22002
+2398,Densidade Residencial Baixa,NAmes,2 andares,7,1940,2,2.0,1,1.0,908,12172
+2399,Densidade Residencial Baixa,Brookside,1 andar,3,1946,2,0.0,1,2.0,666,5000
+2400,Densidade Residencial Baixa,Brookside,2 andares,5,1945,2,0.0,1,2.0,670,3500
+2401,Densidade Residencial Baixa,Brookside,1 andar,8,1958,2,1.0,1,1.0,808,5175
+2402,Densidade Residencial Baixa,NAmes,1 andar,6,1955,2,1.0,1,2.0,1150,9600
+2403,Densidade Residencial Baixa,NAmes,1 andar,5,1968,4,3.0,2,2.0,1560,8668
+2404,Densidade Residencial Baixa,NAmes,2 andares,6,1966,3,2.0,1,3.0,1280,10050
+2405,Densidade Residencial Baixa,NAmes,2 andares,5,1961,3,2.0,1,2.0,1254,9600
+2406,Densidade Residencial Baixa,NAmes,1 andar,7,1957,2,1.0,1,2.0,936,8760
+2407,Densidade Residencial Baixa,NAmes,1 andar,6,1956,3,1.0,1,2.0,1008,6860
+2408,Densidade Residencial Baixa,NAmes,1 andar,7,1963,3,2.0,1,2.0,1053,8250
+2409,Densidade Residencial Baixa,NAmes,1 andar,5,1960,3,1.0,1,1.0,1144,9100
+2410,Densidade Residencial Baixa,NAmes,1 andar,6,1957,4,2.0,1,1.0,1721,9736
+2411,Densidade Residencial Baixa,NAmes,1 andar,5,1957,2,1.0,1,2.0,922,9770
+2412,Densidade Residencial Baixa,NAmes,1 andar,6,1955,3,1.0,1,1.0,1411,12198
+2413,Densidade Residencial Baixa,NAmes,1 andar,5,1955,3,1.0,1,2.0,1216,10050
+2414,Densidade Residencial Baixa,NAmes,1 andar,9,1953,3,1.0,1,2.0,1154,11556
+2415,Densidade Residencial Baixa,NAmes,1 andar,5,1958,4,2.0,2,2.0,1560,8078
+2416,Densidade Residencial Baixa,NAmes,1 andar,6,1952,2,2.0,1,1.0,948,10950
+2417,Densidade Residencial Baixa,NAmes,1 andar,7,1953,3,1.0,1,2.0,1040,7942
+2418,Densidade Residencial Baixa,NAmes,1 andar,8,1956,3,1.0,1,2.0,925,8540
+2419,Densidade Residencial Baixa,NAmes,2 andares,4,1955,4,1.0,1,2.0,1540,7150
+2420,Densidade Residencial Baixa,NAmes,1 andar,5,1955,3,1.0,1,2.0,925,8400
+2421,Densidade Residencial Baixa,NAmes,1 andar,6,1953,3,1.0,1,2.0,1647,9532
+2422,Densidade Residencial Baixa,Old Town,1 andar,5,1952,2,1.0,1,1.0,924,15783
+2423,Densidade Residencial Baixa,Old Town,2 andares,7,1890,3,0.0,1,2.0,1544,14190
+2424,Densidade Residencial Baixa,NAmes,2 andares,6,1953,3,1.0,1,2.0,1728,12099
+2425,Densidade Residencial Baixa,NAmes,2 andares,4,1935,4,3.0,1,4.0,3086,21281
+2426,Densidade Residencial Baixa,Old Town,2 andares,7,1925,1,2.0,1,3.0,1281,10284
+2427,Densidade Residencial Baixa,Old Town,2 andares,9,1895,3,0.0,1,2.0,1534,10800
+2428,Densidade Residencial Baixa,NAmes,2 andares,5,1963,4,1.0,1,3.0,1651,10090
+2429,Densidade Residencial Baixa,NAmes,1 andar,7,1961,3,1.0,1,2.0,888,8700
+2430,Densidade Residencial Baixa,NAmes,1 andar,6,1968,3,1.0,1,2.0,952,8300
+2431,Densidade Residencial Baixa,NAmes,1 andar,3,1950,3,1.0,1,2.0,1238,7200
+2432,Densidade Residencial Baixa,NAmes,1 andar,7,1959,3,1.0,1,2.0,1040,7500
+2433,Densidade Residencial Baixa,NAmes,1 andar,6,1958,3,1.0,1,2.0,1170,7315
+2434,Densidade Residencial Baixa,NAmes,1 andar,5,1960,3,1.0,1,3.0,1242,7903
+2435,Densidade Residencial Baixa,NAmes,1 andar,5,1960,3,1.0,1,2.0,1377,8000
+2436,Densidade Residencial Baixa,NAmes,1 andar,6,1961,3,1.0,1,1.0,925,7000
+2437,Densidade Residencial Baixa,NAmes,1 andar,5,1962,2,1.0,1,1.0,864,6600
+2438,Densidade Residencial Baixa,NAmes,2 andares,5,1962,3,1.0,1,2.0,936,6760
+2439,Densidade Residencial Média,Old Town,1 andar,7,1926,2,2.0,1,1.0,960,6978
+2440,Densidade Residencial Média,Old Town,2 andares,6,1927,3,2.0,1,1.0,1296,6000
+2441,Densidade Residencial Média,Old Town,1 andar,5,1922,2,1.0,1,2.0,1022,4480
+2442,Densidade Residencial Média,Old Town,1 andar,6,1920,2,1.0,1,1.0,967,3153
+2443,Densidade Residencial Média,Old Town,1 andar,8,1940,2,2.0,1,1.0,1072,7200
+2444,Densidade Residencial Média,Old Town,2 andares,8,1900,2,2.0,1,1.0,1174,9000
+2445,Densidade Residencial Média,Old Town,2 andares,6,1900,3,1.0,1,1.0,1141,5925
+2446,Densidade Residencial Média,Old Town,2 andares,8,1900,4,2.0,1,3.0,1798,9639
+2447,Densidade Residencial Média,Old Town,2 andares,9,1910,3,2.0,1,3.0,1772,10337
+2448,Densidade Residencial Média,Old Town,2 andares,6,1927,4,1.0,1,3.0,1642,9863
+2449,Densidade Residencial Média,Old Town,2 andares,7,1910,3,2.0,1,1.0,1232,4571
+2450,Densidade Residencial Média,Old Town,2 andares,8,1910,3,2.0,1,2.0,1650,8398
+2451,Densidade Residencial Média,Old Town,2 andares,7,1930,3,1.0,1,2.0,1358,3600
+2452,Densidade Residencial Média,Old Town,2 andares,8,1879,3,2.0,1,2.0,2454,13500
+2453,Densidade Residencial Média,Old Town,1 andar,6,1956,2,1.0,1,1.0,968,8626
+2454,Densidade Residencial Média,Old Town,2 andares,7,1949,1,1.0,1,2.0,1382,11800
+2455,Densidade Residencial Baixa,Brookside,1 andar,7,1925,1,1.0,1,2.0,1060,6854
+2456,Densidade Residencial Média,Brookside,2 andares,6,1950,3,1.0,1,2.0,1435,8674
+2457,Densidade Residencial Média,Brookside,2 andares,7,1939,3,1.0,1,2.0,1274,6125
+2458,Densidade Residencial Média,Brookside,2 andares,6,1939,3,1.0,1,2.0,1232,6000
+2459,Densidade Residencial Média,Brookside,2 andares,7,1939,2,1.0,1,1.0,884,6120
+2460,Densidade Residencial Média,Brookside,2 andares,5,1938,3,2.0,1,3.0,1409,6240
+2461,Densidade Residencial Média,Brookside,2 andares,8,1939,4,1.0,1,2.0,1322,6240
+2462,Densidade Residencial Média,Brookside,2 andares,7,1930,3,1.0,1,1.0,1426,6240
+2463,Densidade Residencial Média,Brookside,2 andares,6,1926,2,2.0,1,2.0,1281,6120
+2464,Densidade Residencial Média,Old Town,2 andares,8,1918,4,1.0,1,3.0,2264,7755
+2465,Densidade Residencial Baixa,Brookside,2 andares,7,1920,3,2.0,1,1.0,1376,8850
+2466,Densidade Residencial Baixa,Brookside,2 andares,5,1926,4,2.0,1,1.0,1316,8550
+2467,Densidade Residencial Média,Old Town,2 andares,6,1929,3,2.0,1,3.0,1344,5700
+2468,Densidade Residencial Média,Old Town,2 andares,4,1901,3,1.0,1,2.0,1173,5680
+2469,Densidade Residencial Média,Old Town,2 andares,3,1901,2,1.0,1,1.0,1214,5680
+2470,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1963,5,2.0,1,3.0,2294,13200
+2471,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,9,1950,4,1.0,1,2.0,1952,9780
+2472,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1915,3,2.0,1,2.0,2180,10320
+2473,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1958,3,2.0,1,3.0,1315,4330
+2474,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,1,1910,3,1.0,1,2.0,1484,10320
+2475,Densidade Residencial Baixa,Sawyer,2 andares,8,1937,3,2.0,1,3.0,2267,12888
+2476,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,6,1942,2,1.0,1,2.0,1282,4484
+2477,Densidade Residencial Baixa,Sawyer,2 andares,5,1963,3,1.0,1,2.0,999,11235
+2478,Densidade Residencial Baixa,Sawyer,2 andares,5,1964,2,2.0,1,2.0,1452,11235
+2479,Densidade Residencial Baixa,Sawyer,1 andar,3,1964,3,2.0,1,2.0,1005,14299
+2480,Densidade Residencial Baixa,Sawyer,2 andares,8,1964,3,2.0,1,3.0,1020,14149
+2481,Densidade Residencial Baixa,Sawyer,1 andar,4,1966,3,1.0,1,2.0,1040,11677
+2482,Densidade Residencial Baixa,Sawyer,1 andar,6,1971,2,2.0,1,2.0,868,8425
+2483,Densidade Residencial Baixa,Sawyer,1 andar,5,1968,3,1.0,1,1.0,897,8665
+2484,Densidade Residencial Baixa,Sawyer,1 andar,5,1967,2,2.0,1,2.0,943,8398
+2485,Densidade Residencial Baixa,Sawyer,1 andar,7,1966,3,1.0,1,2.0,912,8169
+2486,Densidade Residencial Baixa,Sawyer,1 andar,5,1956,3,1.0,1,2.0,1375,14175
+2487,Densidade Residencial Baixa,Sawyer,2 andares,4,1920,4,2.0,1,3.0,2654,16779
+2488,Densidade Residencial Baixa,Sawyer,2 andares,8,1940,2,1.0,1,2.0,1302,6960
+2489,Densidade Residencial Baixa,Sawyer,1 andar,5,1954,3,2.0,1,1.0,1299,11375
+2490,Densidade Residencial Baixa,Sawyer,1 andar,6,1958,3,1.0,1,2.0,1176,13770
+2491,Densidade Residencial Baixa,Sawyer,1 andar,7,1945,3,2.0,1,1.0,998,9000
+2492,Densidade Residencial Baixa,Clear Creek,1 andar,5,1984,3,2.0,1,2.0,1522,11075
+2493,Densidade Residencial Baixa,Edwards,1 andar,7,1948,3,2.0,1,2.0,1325,17541
+2494,Densidade Residencial Baixa,Edwards,1 andar,5,1953,3,2.0,1,2.0,1630,22692
+2495,Densidade Residencial Baixa,Edwards,1 andar,5,1946,2,1.0,1,1.0,1242,17808
+2496,Densidade Residencial Baixa,Clear Creek,1 andar,7,1954,4,2.0,1,3.0,2422,12671
+2497,Densidade Residencial Baixa,Edwards,2 andares,6,1954,3,1.0,1,2.0,1626,10512
+2498,Densidade Residencial Baixa,South & West of Iowa State University,1 andar,5,1958,3,1.0,1,2.0,864,5400
+2499,Densidade Residencial Baixa,Edwards,1 andar,5,1958,3,1.0,1,1.0,943,11515
+2500,Densidade Residencial Baixa,Edwards,1 andar,6,1984,2,1.0,1,2.0,1038,3869
+2501,Densidade Residencial Baixa,Edwards,1 andar,6,1951,4,1.0,1,2.0,1342,9280
+2502,Densidade Residencial Baixa,Edwards,2 andares,6,1951,4,1.0,1,2.0,1480,11100
+2503,Densidade Residencial Baixa,Edwards,2 andares,5,1920,4,1.0,1,2.0,1362,7550
+2504,Densidade Residencial Baixa,Sawyer West,2 andares,5,1984,4,2.0,1,2.0,1822,23920
+2505,Densidade Residencial Baixa,Sawyer West,2 andares,5,1994,3,2.0,1,4.0,1958,9317
+2506,Densidade Residencial Baixa,College Creek,1 andar,5,2007,3,3.0,1,2.0,1651,9178
+2507,Densidade Residencial Baixa,College Creek,1 andar,5,2006,3,3.0,1,3.0,2140,10481
+2508,Densidade Residencial Baixa,College Creek,1 andar,5,2007,3,3.0,1,2.0,1651,10235
+2509,Densidade Residencial Baixa,College Creek,1 andar,5,2005,3,3.0,1,2.0,1546,11750
+2510,Densidade Residencial Baixa,College Creek,1 andar,5,2006,3,2.0,1,2.0,1500,8760
+2511,Densidade Residencial Baixa,College Creek,1 andar,5,2005,2,2.0,1,2.0,1270,7242
+2512,Densidade Residencial Baixa,College Creek,2 andares,5,2005,3,2.0,1,3.0,1795,9316
+2513,Densidade Residencial Baixa,Sawyer West,2 andares,5,1988,3,2.0,1,4.0,1873,8883
+2514,Densidade Residencial Baixa,Clear Creek,1 andar,6,1976,0,2.0,1,3.0,1743,20064
+2515,Densidade Residencial Baixa,College Creek,1 andar,5,1994,3,2.0,1,2.0,1022,14217
+2516,Densidade Residencial Baixa,College Creek,2 andares,6,1997,3,2.0,1,4.0,1308,10021
+2517,Densidade Residencial Baixa,College Creek,1 andar,7,1994,3,1.0,1,2.0,990,8428
+2518,Densidade Residencial Baixa,College Creek,1 andar,5,1996,3,1.0,1,3.0,1097,16561
+2519,Densidade Residencial Baixa,College Creek,2 andares,5,1999,3,2.0,1,3.0,1873,10820
+2520,Densidade Residencial Baixa,College Creek,2 andares,5,1998,3,2.0,1,4.0,1753,12352
+2521,Densidade Residencial Baixa,College Creek,2 andares,5,2001,3,2.0,1,3.0,1690,9543
+2522,Densidade Residencial Baixa,College Creek,2 andares,5,2000,3,2.0,1,4.0,1842,8826
+2523,Densidade Residencial Baixa,College Creek,1 andar,5,1974,3,2.0,1,1.0,894,11800
+2524,Densidade Residencial Baixa,College Creek,2 andares,5,1976,3,2.0,1,2.0,1025,8660
+2525,Densidade Residencial Baixa,College Creek,2 andares,7,1977,3,2.0,1,2.0,1009,9720
+2526,Densidade Residencial Baixa,College Creek,1 andar,5,1977,3,2.0,1,2.0,1040,8982
+2527,Densidade Residencial Baixa,College Creek,1 andar,4,1977,3,1.0,1,2.0,907,16300
+2528,Densidade Residencial Baixa,College Creek,1 andar,6,1975,3,2.0,1,1.0,879,9675
+2529,Densidade Residencial Baixa,College Creek,1 andar,5,1972,3,2.0,1,2.0,864,7200
+2530,Densidade Residencial Baixa,College Creek,1 andar,8,1972,3,2.0,1,1.0,875,7200
+2531,Densidade Residencial Baixa,College Creek,1 andar,5,2000,3,2.0,1,3.0,1673,11354
+2532,Densidade Residencial Baixa,College Creek,2 andares,5,2003,3,2.0,1,4.0,1932,8749
+2533,Densidade Residencial Baixa,College Creek,2 andares,5,2002,3,2.0,1,3.0,1729,8158
+2534,Densidade Residencial Baixa,College Creek,1 andar,5,1994,3,2.0,1,2.0,1592,11927
+2535,Densidade Residencial Baixa,College Creek,2 andares,5,2001,4,2.0,1,4.0,2439,12728
+2536,Densidade Residencial Baixa,College Creek,2 andares,5,1996,3,2.0,1,4.0,1992,15295
+2537,Densidade Residencial Baixa,College Creek,1 andar,5,1999,1,2.0,1,3.0,1341,17227
+2538,Densidade Residencial Baixa,College Creek,2 andares,5,2007,3,2.0,1,3.0,1476,8145
+2539,Densidade Residencial Baixa,College Creek,1 andar,5,2005,2,2.0,1,3.0,1190,8769
+2540,Densidade Residencial Baixa,College Creek,1 andar,5,2006,3,2.0,1,2.0,1330,8334
+2541,Densidade Residencial Baixa,College Creek,2 andares,5,2006,3,2.0,1,3.0,1491,8333
+2542,Densidade Residencial Baixa,College Creek,2 andares,5,2005,3,2.0,1,3.0,1536,9045
+2543,Densidade Residencial Baixa,Edwards,2 andares,5,1967,2,1.0,1,2.0,936,9825
+2544,Densidade Residencial Baixa,Edwards,1 andar,6,1963,2,2.0,1,1.0,1088,8308
+2545,Densidade Residencial Baixa,Edwards,2 andares,6,1925,3,2.0,1,2.0,1351,16287
+2546,Densidade Residencial Baixa,Edwards,1 andar,6,1960,2,2.0,1,1.0,1179,8240
+2547,Densidade Residencial Baixa,Edwards,2 andares,6,1976,3,2.0,1,2.0,1044,6285
+2548,Densidade Residencial Baixa,Edwards,2 andares,6,1979,5,2.0,2,3.0,2233,9555
+2549,Densidade Residencial Baixa,Edwards,2 andares,5,2005,3,2.0,1,4.0,1408,7023
+2550,Densidade Residencial Baixa,Edwards,1 andar,5,2008,2,3.0,1,5.0,5095,39290
+2551,Densidade Residencial Média,Edwards,2 andares,5,2005,2,2.0,1,2.0,1072,3675
+2552,Densidade Residencial Baixa,Edwards,1 andar,7,1959,2,1.0,1,2.0,960,6400
+2553,Densidade Residencial Baixa,Edwards,1 andar,3,1955,2,0.0,2,2.0,1152,6882
+2554,Densidade Residencial Baixa,Edwards,1 andar,6,1946,4,0.0,2,2.0,1195,8741
+2555,Densidade Residencial Baixa,Edwards,2 andares,8,1920,2,1.0,1,2.0,865,10042
+2556,Densidade Residencial Baixa,Edwards,1 andar,5,1955,2,1.0,1,1.0,768,8172
+2557,Densidade Residencial Baixa,Edwards,1 andar,5,1955,3,2.0,1,2.0,864,8172
+2558,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,6,1923,6,0.0,2,4.0,2592,10890
+2559,Densidade Residencial Baixa,Crawford,1 andar,5,1926,3,1.0,1,1.0,1422,7223
+2560,Densidade Residencial Baixa,Crawford,2 andares,7,1921,2,1.0,1,2.0,1298,6821
+2561,Densidade Residencial Baixa,Crawford,2 andares,8,1930,2,1.0,1,2.0,1098,4000
+2562,Densidade Residencial Baixa,Crawford,2 andares,7,1921,3,1.0,1,1.0,1436,6720
+2563,Densidade Residencial Baixa,Crawford,2 andares,8,1926,3,1.0,1,1.0,1461,7155
+2564,Densidade Residencial Baixa,Crawford,2 andares,7,1927,4,2.0,1,3.0,1718,7230
+2565,Densidade Residencial Baixa,Crawford,1 andar,5,1951,2,2.0,1,2.0,1226,13108
+2566,Densidade Residencial Baixa,Crawford,2 andares,6,1930,4,1.0,1,2.0,1755,7810
+2567,Densidade Residencial Baixa,Crawford,2 andares,5,1941,3,2.0,1,2.0,1355,6221
+2568,Densidade Residencial Baixa,Crawford,1 andar,4,1960,3,2.0,1,2.0,1560,25485
+2569,Densidade Residencial Baixa,Crawford,1 andar,6,1968,3,2.0,1,3.0,1488,21579
+2570,Densidade Residencial Média,Bluestem,2 andares,6,1980,2,2.0,1,1.0,1045,1782
+2571,Densidade Residencial Baixa,Crawford,1 andar,5,1995,4,2.0,1,2.0,1680,17871
+2572,Densidade Residencial Média,Bluestem,1 andar,5,1988,1,2.0,1,2.0,1020,3907
+2573,Densidade Residencial Baixa,Crawford,1 andar,5,1971,3,2.0,1,2.0,1696,20693
+2574,Densidade Residencial Baixa,Crawford,1 andar,5,1986,2,2.0,1,3.0,2726,18044
+2575,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1940,3,2.0,1,1.0,1215,7000
+2576,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1925,3,0.0,1,2.0,1601,7288
+2577,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1923,3,,1,2.0,1828,9060
+2578,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,7,1922,2,1.0,1,1.0,816,3672
+2579,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,4,1939,1,1.0,1,1.0,845,11067
+2580,C (all),Iowa DOT and Rail Road,2 andares,6,1895,4,0.0,2,2.0,1991,8250
+2581,C (all),Iowa DOT and Rail Road,1 andar,6,1957,3,2.0,1,2.0,1073,6565
+2582,C (all),Iowa DOT and Rail Road,1 andar,9,1930,2,1.0,1,1.0,1001,6060
+2583,Densidade Residencial Média,Crawford,1 andar,5,2006,2,2.0,1,4.0,1625,5568
+2584,Densidade Residencial Baixa,Mitchell,2 andares,6,1979,2,2.0,1,3.0,1299,12150
+2585,Densidade Residencial Baixa,Mitchell,1 andar,5,2002,3,3.0,1,2.0,1392,10000
+2586,Densidade Residencial Baixa,Mitchell,1 andar,5,2002,1,2.0,1,3.0,1409,12864
+2587,Densidade Residencial Baixa,Mitchell,1 andar,5,1991,3,2.0,1,3.0,1478,9928
+2588,Densidade Residencial Baixa,Mitchell,2 andares,6,1975,3,1.0,0,2.0,918,8750
+2589,Densidade Residencial Baixa,Mitchell,2 andares,6,1974,2,2.0,1,2.0,1026,8410
+2590,Densidade Residencial Baixa,Timberland,1 andar,6,1987,2,2.0,1,3.0,1501,4054
+2591,Densidade Residencial Baixa,Timberland,1 andar,8,1958,4,2.0,1,3.0,2279,19958
+2592,Densidade Residencial Baixa,Timberland,1 andar,5,2006,3,2.0,1,2.0,1689,8368
+2593,Densidade Residencial Baixa,Timberland,1 andar,5,2006,2,2.0,1,2.0,1564,8298
+2594,Densidade Residencial Baixa,Timberland,1 andar,7,1985,3,2.0,1,3.0,1240,10331
+2595,Densidade Residencial Baixa,Timberland,1 andar,5,2001,2,2.0,1,2.0,1312,6718
+2596,Densidade Residencial Baixa,Timberland,1 andar,5,2002,2,3.0,1,3.0,1922,11305
+2597,Densidade Residencial Baixa,Timberland,1 andar,5,1996,3,2.0,1,2.0,1491,7777
+2598,Densidade Residencial Baixa,Timberland,2 andares,5,2003,5,2.0,1,5.0,2486,11800
+2599,Densidade Residencial Baixa,Timberland,1 andar,5,2006,3,3.0,1,2.0,1824,12633
+2600,Densidade Residencial Baixa,Mitchell,1 andar,5,1953,2,4.0,1,1.0,2034,43500
+2601,Densidade Residencial Média,Mitchell,2 andares,5,1996,0,2.0,1,3.0,936,6710
+2602,Densidade Residencial Média,Meadow Village,2 andares,4,1972,3,1.0,1,2.0,1092,1504
+2603,Densidade Residencial Média,Meadow Village,2 andares,5,1970,2,1.0,1,2.0,992,1533
+2604,Densidade Residencial Média,Meadow Village,2 andares,6,1970,3,0.0,1,2.0,1092,1495
+2605,Densidade Residencial Média,Meadow Village,2 andares,3,1976,3,1.0,1,2.0,1092,1890
+2606,Densidade Residencial Baixa,Mitchell,2 andares,5,1977,1,2.0,1,2.0,1008,9129
+2607,Densidade Residencial Baixa,Mitchell,2 andares,6,1977,3,2.0,1,4.0,1356,15957
+2608,Densidade Residencial Baixa,Mitchell,1 andar,6,1977,3,2.0,1,3.0,1676,33983
+2609,Densidade Residencial Baixa,Mitchell,2 andares,7,1977,3,2.0,1,3.0,1432,8286
+2610,Densidade Residencial Baixa,Mitchell,2 andares,7,1971,2,0.0,1,2.0,796,6723
+2611,Densidade Residencial Baixa,Mitchell,1 andar,3,1961,3,1.0,1,1.0,1608,27697
+2612,Densidade Residencial Baixa,Mitchell,1 andar,6,1976,3,2.0,1,3.0,1178,11000
+2613,Densidade Residencial Baixa,Mitchell,1 andar,7,1983,2,1.0,1,2.0,816,11625
+2614,Densidade Residencial Baixa,Mitchell,1 andar,6,1984,3,1.0,1,2.0,887,10447
+2615,Densidade Residencial Baixa,NAmes,1 andar,5,1954,2,2.0,1,3.0,1293,11027
+2616,Densidade Residencial Baixa,NAmes,1 andar,6,1956,2,1.0,1,2.0,1024,10533
+2617,Densidade Residencial Baixa,NAmes,1 andar,5,1957,3,3.0,1,2.0,1797,11765
+2618,Densidade Residencial Baixa,NAmes,1 andar,6,1957,1,2.0,1,3.0,1390,39384
+2619,Densidade Residencial Baixa,NAmes,1 andar,6,1969,3,2.0,1,2.0,1851,11727
+2620,Densidade Residencial Baixa,Gilbert,2 andares,5,1997,3,2.0,1,4.0,1525,8238
+2621,Densidade Residencial Baixa,Gilbert,2 andares,5,1995,3,2.0,1,3.0,1671,13041
+2622,Densidade Residencial Baixa,Gilbert,2 andares,5,1996,3,2.0,1,3.0,1776,9783
+2623,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,4,2.0,1,3.0,2064,13128
+2624,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,3,3.0,1,4.0,2212,13751
+2625,Densidade Residencial Baixa,Stone Brook,2 andares,5,1994,4,2.0,1,3.0,2687,13108
+2626,Densidade Residencial Baixa,Gilbert,1 andar,6,1993,3,2.0,1,3.0,1169,8076
+2627,Densidade Residencial Baixa,Stone Brook,1 andar,5,1987,2,2.0,1,2.0,1204,3701
+2628,Densidade Residencial Baixa,Stone Brook,2 andares,5,2005,3,3.0,1,5.0,2798,16023
+2629,Densidade Residencial Baixa,Stone Brook,2 andares,5,2006,5,3.0,1,4.0,3390,18062
+2630,Densidade Residencial Baixa,Stone Brook,2 andares,5,2006,4,3.0,1,3.0,2473,12292
+2631,Densidade Residencial Baixa,Stone Brook,2 andares,5,2006,4,3.0,1,4.0,2698,16052
+2632,Densidade Residencial Baixa,Stone Brook,2 andares,5,2005,4,3.0,1,4.0,2795,15922
+2633,Densidade Residencial Baixa,Stone Brook,1 andar,5,2005,2,2.0,1,3.0,1714,8147
+2634,Densidade Residencial Baixa,Stone Brook,1 andar,5,2005,3,3.0,1,4.0,2000,18261
+2635,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1980,2,2.0,1,2.0,1102,10464
+2636,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1978,4,2.0,1,3.0,1857,10530
+2637,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1976,2,2.0,1,2.0,1083,9927
+2638,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,3,2.0,1,4.0,2318,9512
+2639,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1975,3,2.0,1,3.0,1875,10530
+2640,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1974,3,2.0,1,2.0,1103,10000
+2641,Densidade Residencial Baixa,NAmes,1 andar,4,1971,3,2.0,1,2.0,874,7200
+2642,Densidade Residencial Alta,NAmes,1 andar,5,2002,2,2.0,1,3.0,1419,8773
+2643,Densidade Residencial Média,Briardale,2 andares,5,1973,3,2.0,1,2.0,1092,2760
+2644,Densidade Residencial Média,Briardale,2 andares,6,1973,3,2.0,1,2.0,1365,2160
+2645,Densidade Residencial Média,Briardale,2 andares,7,1972,3,1.0,1,2.0,1030,1890
+2646,Densidade Residencial Média,Briardale,2 andares,5,1972,2,1.0,1,2.0,948,1680
+2647,Densidade Residencial Média,Briardale,2 andares,5,1972,3,1.0,1,2.0,1092,1680
+2648,Densidade Residencial Baixa,Northpark Villa,1 andar,5,1975,2,2.0,1,3.0,1069,4043
+2649,Densidade Residencial Baixa,NAmes,1 andar,7,1967,3,1.0,1,2.0,1387,7514
+2650,Densidade Residencial Baixa,Northpark Villa,1 andar,7,1976,2,1.0,1,3.0,1055,2280
+2651,Densidade Residencial Baixa,Northpark Villa,2 andares,5,1976,3,2.0,1,3.0,1456,2179
+2652,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2006,4,3.0,1,4.0,2589,16387
+2653,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2004,2,3.0,1,2.0,1618,16163
+2654,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,4,3.0,1,2.0,1740,12228
+2655,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,2,3.0,1,3.0,1868,14780
+2656,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,4,3.0,1,3.0,2206,13975
+2657,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,3,2.0,1,4.0,2091,9942
+2658,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,3,2.0,1,3.0,2253,12867
+2659,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2006,4,3.0,1,3.0,2389,10672
+2660,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,4,3.0,1,4.0,2358,11643
+2661,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,2,3.0,1,3.0,1792,13758
+2662,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2004,2,3.0,1,3.0,1780,14828
+2663,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2004,3,3.0,1,4.0,1914,13215
+2664,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,2,2.0,1,3.0,1565,5911
+2665,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,1,3.0,1,3.0,1686,7740
+2666,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,2,2.0,1,3.0,1666,6373
+2667,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,3,2.0,1,3.0,1456,10237
+2668,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,3,2.0,1,3.0,1492,10237
+2669,Densidade Residencial Baixa,Gilbert,1 andar,5,2006,3,2.0,1,2.0,1326,11660
+2670,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,4,3.0,1,3.0,2373,11631
+2671,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,3,2.0,1,3.0,1492,9073
+2672,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2006,2,2.0,1,3.0,1364,3087
+2673,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2002,2,2.0,1,3.0,1511,2938
+2674,Densidade Residencial Média,Bloomington Heights,1 andar,5,2004,2,2.0,1,3.0,1548,3072
+2675,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2005,2,2.0,1,2.0,1142,3010
+2676,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,3,2.0,1,3.0,1598,9171
+2677,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,3,2.0,1,3.0,1889,8658
+2678,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,4,3.0,1,4.0,2322,12104
+2679,Densidade Residencial Baixa,Northridge,2 andares,5,1998,3,3.0,1,4.0,1976,9660
+2680,Densidade Residencial Baixa,Northridge,2 andares,5,2000,3,3.0,1,4.0,2234,9545
+2681,Densidade Residencial Baixa,Northridge,2 andares,5,2000,4,3.0,1,4.0,2855,9233
+2682,Densidade Residencial Baixa,Northridge,2 andares,5,1995,4,3.0,1,3.0,2726,10019
+2683,Densidade Residencial Baixa,Northridge,2 andares,5,1993,4,3.0,1,5.0,3500,17242
+2684,Densidade Residencial Baixa,Northridge,2 andares,5,1994,4,3.0,1,4.0,2494,10236
+2685,Densidade Residencial Baixa,Northridge,2 andares,5,1993,3,3.0,1,4.0,2799,12585
+2686,Densidade Residencial Baixa,Somerset,2 andares,5,2005,3,2.0,1,3.0,1964,12447
+2687,Densidade Residencial Baixa,Somerset,1 andar,5,2006,2,3.0,1,4.0,1670,15218
+2688,Densidade Residencial Baixa,Somerset,1 andar,5,2006,3,2.0,1,2.0,1504,10936
+2689,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,2,2.0,1,2.0,1278,8640
+2690,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2006,3,3.0,1,5.0,2640,13162
+2691,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,3,2.0,1,3.0,1716,8125
+2692,Densidade Residencial Baixa,Sawyer West,1 andar,5,2005,3,0.0,1,2.0,1142,7733
+2693,Densidade Residencial Baixa,Sawyer West,1 andar,5,2005,3,2.0,1,2.0,1400,11024
+2694,Densidade Residencial Baixa,Sawyer West,1 andar,5,2005,3,0.0,1,2.0,1131,13072
+2695,Densidade Residencial Baixa,Sawyer West,2 andares,5,2005,3,2.0,1,3.0,1686,7800
+2696,Densidade Residencial Baixa,Sawyer West,2 andares,5,2005,3,2.0,1,3.0,1585,7632
+2697,Densidade Residencial Baixa,Sawyer West,2 andares,5,1997,3,2.0,1,3.0,1837,8304
+2698,Densidade Residencial Baixa,Sawyer West,2 andares,5,1992,3,2.0,1,4.0,1731,9370
+2699,Densidade Residencial Baixa,Sawyer West,1 andar,5,1990,2,2.0,1,3.0,1398,7175
+2700,Densidade Residencial Baixa,Sawyer West,1 andar,5,1991,2,2.0,1,2.0,1217,7175
+2701,Densidade Residencial Baixa,Sawyer West,2 andares,5,1994,3,2.0,1,3.0,1320,9019
+2702,Densidade Residencial Baixa,Sawyer,1 andar,4,1962,3,2.0,1,2.0,988,9100
+2703,Densidade Residencial Média,Sawyer,2 andares,6,1977,4,2.0,2,2.0,1654,8927
+2704,Densidade Residencial Baixa,Sawyer,1 andar,6,1962,2,2.0,1,1.0,1211,9240
+2705,Densidade Residencial Baixa,Sawyer,1 andar,5,1965,3,1.0,1,1.0,984,9308
+2706,Densidade Residencial Baixa,Sawyer,1 andar,6,1968,3,1.0,1,1.0,909,8450
+2707,Densidade Residencial Baixa,Sawyer,1 andar,6,1963,2,2.0,1,2.0,925,8638
+2708,Densidade Residencial Baixa,Sawyer,1 andar,6,1965,3,1.0,1,2.0,1024,13052
+2709,Densidade Residencial Baixa,Sawyer,1 andar,6,1964,3,0.0,1,1.0,912,8020
+2710,Densidade Residencial Baixa,Sawyer,1 andar,6,1967,3,1.0,1,1.0,941,8789
+2711,Densidade Residencial Baixa,Veenker,2 andares,4,1974,3,2.0,1,5.0,2646,14330
+2712,Densidade Residencial Baixa,Northridge,2 andares,5,1992,3,3.0,1,4.0,2826,11025
+2713,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2004,1,2.0,1,2.0,1143,3628
+2714,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,2,2.0,1,3.0,1223,2544
+2715,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,2,2.0,1,3.0,1524,2998
+2716,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2003,2,2.0,1,3.0,1080,4447
+2717,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1997,3,1.0,1,3.0,1694,8314
+2718,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2001,3,2.0,1,2.0,1568,7180
+2719,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1972,2,2.0,1,3.0,1193,13110
+2720,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1967,3,2.0,1,3.0,1334,10140
+2721,Densidade Residencial Baixa,NAmes,1 andar,5,1968,3,2.0,1,2.0,1051,9600
+2722,Densidade Residencial Baixa,NAmes,2 andares,5,1968,4,2.0,1,3.0,1770,8640
+2723,Densidade Residencial Baixa,NAmes,1 andar,7,1968,2,2.0,1,2.0,976,9360
+2724,Densidade Residencial Baixa,NAmes,2 andares,6,1968,3,1.0,1,2.0,898,8400
+2725,Densidade Residencial Baixa,NAmes,1 andar,5,1966,3,1.0,1,2.0,1051,9759
+2726,Densidade Residencial Baixa,NAmes,2 andares,7,1967,3,1.0,1,2.0,1141,9600
+2727,Densidade Residencial Baixa,NAmes,1 andar,7,1965,3,1.0,1,3.0,1565,8800
+2728,Densidade Residencial Baixa,NAmes,1 andar,6,1964,3,2.0,1,3.0,1488,10368
+2729,Densidade Residencial Baixa,NAmes,2 andares,6,1964,4,2.0,1,2.0,1440,9350
+2730,Densidade Residencial Baixa,NAmes,1 andar,7,1960,3,1.0,1,2.0,1248,10800
+2731,Densidade Residencial Baixa,NAmes,1 andar,8,1934,2,1.0,1,2.0,816,8550
+2732,Densidade Residencial Baixa,NAmes,1 andar,7,1947,2,1.0,1,1.0,1043,9724
+2733,Densidade Residencial Baixa,NAmes,1 andar,6,1961,3,2.0,1,2.0,1433,9600
+2734,Densidade Residencial Baixa,NAmes,1 andar,6,1952,2,1.0,1,2.0,1624,10858
+2735,Densidade Residencial Baixa,NAmes,1 andar,5,1951,3,1.0,1,2.0,1216,9600
+2736,Densidade Residencial Baixa,NAmes,2 andares,6,1949,3,1.0,1,2.0,1728,9462
+2737,Densidade Residencial Baixa,NAmes,1 andar,6,1954,2,1.0,1,1.0,936,9888
+2738,Densidade Residencial Baixa,NAmes,1 andar,5,1967,4,2.0,2,2.0,1584,8917
+2739,Densidade Residencial Baixa,NAmes,2 andares,5,1964,3,2.0,1,2.0,1246,12700
+2740,Densidade Residencial Baixa,NAmes,1 andar,7,1963,2,2.0,1,1.0,1008,9723
+2741,Densidade Residencial Baixa,NAmes,1 andar,5,1957,3,1.0,1,2.0,1364,8400
+2742,Densidade Residencial Baixa,NAmes,1 andar,6,1958,3,2.0,1,2.0,1336,9610
+2743,Densidade Residencial Baixa,NAmes,2 andares,6,1956,3,1.0,1,2.0,1370,10000
+2744,Densidade Residencial Baixa,NAmes,1 andar,6,1956,3,1.0,1,2.0,1124,10152
+2745,Densidade Residencial Baixa,NAmes,1 andar,8,1954,3,1.0,1,2.0,1050,8092
+2746,Densidade Residencial Baixa,NAmes,1 andar,6,1952,2,1.0,1,2.0,1008,12778
+2747,Densidade Residencial Baixa,NAmes,1 andar,6,1951,2,2.0,1,2.0,1575,10170
+2748,Densidade Residencial Baixa,NAmes,2 andares,7,1956,3,2.0,1,1.0,1145,7700
+2749,Densidade Residencial Baixa,NAmes,1 andar,5,1956,2,1.0,1,1.0,1005,11050
+2750,Densidade Residencial Baixa,NAmes,1 andar,6,1955,3,1.0,1,3.0,1056,13600
+2751,Densidade Residencial Baixa,NAmes,1 andar,6,1951,2,1.0,1,2.0,884,15428
+2752,Densidade Residencial Baixa,NAmes,1 andar,5,1941,3,3.0,1,3.0,2039,21299
+2753,Densidade Residencial Baixa,NAmes,1 andar,5,1956,2,2.0,1,2.0,1384,13300
+2754,Densidade Residencial Baixa,Old Town,2 andares,5,1925,5,3.0,1,5.0,2640,22136
+2755,Densidade Residencial Baixa,NAmes,2 andares,6,1947,3,2.0,1,2.0,1312,7500
+2756,Densidade Residencial Baixa,Old Town,1 andar,8,1930,2,1.0,1,1.0,713,10410
+2757,Densidade Residencial Baixa,NAmes,1 andar,3,1929,2,2.0,1,1.0,715,10914
+2758,Densidade Residencial Baixa,Old Town,2 andares,8,1900,1,1.0,1,1.0,720,7008
+2759,Densidade Residencial Baixa,Old Town,2 andares,8,1915,3,2.0,1,2.0,1595,7200
+2760,Densidade Residencial Baixa,Old Town,2 andares,4,1910,4,2.0,1,2.0,1760,10818
+2761,Densidade Residencial Baixa,NAmes,2 andares,5,1963,3,1.0,1,2.0,1146,10184
+2762,Densidade Residencial Baixa,NAmes,1 andar,5,1962,3,1.0,1,2.0,1207,9510
+2763,Densidade Residencial Baixa,NAmes,1 andar,6,1961,3,2.0,1,3.0,1773,10800
+2764,Densidade Residencial Baixa,NAmes,1 andar,5,1959,2,2.0,1,2.0,1472,11650
+2765,Densidade Residencial Baixa,NAmes,2 andares,8,1962,3,2.0,1,4.0,2448,18275
+2766,Densidade Residencial Baixa,NAmes,2 andares,6,1950,3,1.0,1,2.0,1521,12144
+2767,Densidade Residencial Baixa,NAmes,1 andar,4,1950,2,2.0,2,2.0,1040,8544
+2768,Densidade Residencial Baixa,NAmes,1 andar,5,1960,4,0.0,2,2.0,1556,8512
+2769,Densidade Residencial Baixa,NAmes,1 andar,4,1961,3,1.0,1,1.0,1150,7000
+2770,Densidade Residencial Baixa,NAmes,1 andar,6,1962,3,2.0,1,2.0,1045,7400
+2771,Densidade Residencial Baixa,NAmes,1 andar,6,1962,3,1.0,1,2.0,864,7000
+2772,Densidade Residencial Baixa,NAmes,2 andares,5,1962,3,0.0,1,2.0,1025,7000
+2773,Densidade Residencial Média,Old Town,2 andares,8,1900,5,2.0,1,2.0,2014,9856
+2774,Densidade Residencial Média,Old Town,2 andares,6,1948,3,1.0,1,2.0,1668,9600
+2775,Densidade Residencial Média,Old Town,2 andares,6,1920,4,1.0,1,1.0,1657,5520
+2776,Densidade Residencial Média,Old Town,2 andares,8,1900,3,2.0,1,2.0,1416,9600
+2777,Densidade Residencial Média,Old Town,2 andares,7,1900,4,2.0,1,2.0,1428,6451
+2778,Densidade Residencial Média,Old Town,2 andares,8,1930,2,1.0,1,1.0,1004,3960
+2779,Densidade Residencial Média,Old Town,2 andares,6,1900,4,2.0,2,2.0,1951,7745
+2780,Densidade Residencial Média,Old Town,1 andar,5,1924,2,1.0,1,1.0,1032,7741
+2781,Densidade Residencial Média,Old Town,1 andar,7,1925,2,1.0,1,1.0,844,5633
+2782,Densidade Residencial Média,Old Town,1 andar,5,1950,2,1.0,1,1.0,864,7200
+2783,Densidade Residencial Média,Old Town,2 andares,5,1905,2,1.0,1,1.0,1376,7614
+2784,Densidade Residencial Média,Old Town,1 andar,7,1955,3,2.0,1,2.0,960,6000
+2785,Densidade Residencial Média,Old Town,2 andares,7,1924,5,2.0,1,2.0,1566,6000
+2786,Densidade Residencial Média,Old Town,1 andar,5,1921,1,1.0,1,2.0,492,7830
+2787,Densidade Residencial Média,Old Town,2 andares,7,1945,3,1.0,1,2.0,1182,9576
+2788,Densidade Residencial Média,Old Town,1 andar,4,1920,2,1.0,1,1.0,840,5747
+2789,Densidade Residencial Média,Old Town,2 andares,6,1910,5,2.0,1,2.0,2104,6300
+2790,Densidade Residencial Média,Old Town,2 andares,7,1920,2,0.0,2,2.0,1248,5976
+2791,Densidade Residencial Média,Old Town,1 andar,5,1958,3,2.0,1,1.0,960,9750
+2792,C (all),Iowa DOT and Rail Road,2 andares,3,1918,2,0.0,1,1.0,1020,4761
+2793,Densidade Residencial Baixa,Brookside,2 andares,7,1924,2,1.0,1,1.0,1827,11737
+2794,Densidade Residencial Média,Brookside,2 andares,5,1930,3,1.0,1,2.0,1162,6120
+2795,Densidade Residencial Média,Brookside,2 andares,7,1930,3,1.0,1,1.0,1324,6120
+2796,Densidade Residencial Baixa,Brookside,1 andar,5,1925,2,1.0,1,1.0,816,11672
+2797,Densidade Residencial Média,Old Town,2 andares,5,1962,5,2.0,1,2.0,2486,33120
+2798,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1924,3,2.0,1,2.0,1430,10320
+2799,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,8,1910,3,1.0,1,1.0,1330,7518
+2800,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,4,1919,2,0.0,1,1.0,819,9000
+2801,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,6,1930,3,1.0,1,1.0,984,7200
+2802,Densidade Residencial Baixa,Sawyer,2 andares,5,1951,3,1.0,1,2.0,1422,12375
+2803,Densidade Residencial Baixa,Sawyer,1 andar,5,1964,4,2.0,2,2.0,1921,11136
+2804,Densidade Residencial Baixa,Sawyer,1 andar,5,1950,3,2.0,1,1.0,1640,21370
+2805,Densidade Residencial Baixa,Edwards,1 andar,7,1935,2,1.0,1,1.0,1032,8250
+2806,Densidade Residencial Baixa,South & West of Iowa State University,1 andar,3,1936,2,1.0,1,1.0,879,5220
+2807,Densidade Residencial Baixa,South & West of Iowa State University,1 andar,5,2004,2,1.0,1,3.0,1073,5500
+2808,Densidade Residencial Baixa,Sawyer,1 andar,6,1967,3,2.0,1,2.0,1064,11327
+2809,Densidade Residencial Baixa,Sawyer,2 andares,7,1964,2,1.0,1,2.0,934,10366
+2810,Densidade Residencial Baixa,Sawyer,1 andar,6,1966,3,1.0,1,2.0,1059,9000
+2811,Densidade Residencial Baixa,Sawyer,1 andar,5,1967,3,2.0,1,3.0,1458,9535
+2812,Densidade Residencial Baixa,Sawyer,2 andares,6,1978,3,2.0,1,2.0,1040,7176
+2813,Densidade Residencial Baixa,Sawyer,1 andar,4,1977,6,2.0,2,2.0,1967,9662
+2814,Densidade Residencial Baixa,Sawyer,1 andar,4,1977,6,2.0,2,2.0,1949,8235
+2815,Densidade Residencial Baixa,Sawyer,1 andar,5,1924,2,1.0,1,1.0,872,17529
+2816,Densidade Residencial Baixa,Clear Creek,1 andar,6,1967,2,2.0,1,2.0,1830,20355
+2817,Densidade Residencial Baixa,Clear Creek,1 andar,6,1963,1,2.0,1,2.0,1000,13050
+2818,Densidade Residencial Baixa,Sawyer,2 andares,7,1971,2,2.0,1,2.0,810,10820
+2819,Densidade Residencial Baixa,Clear Creek,2 andares,5,1980,2,1.0,1,4.0,1700,1700
+2820,Densidade Residencial Baixa,Edwards,1 andar,5,1954,3,2.0,1,2.0,1350,9375
+2821,Densidade Residencial Baixa,Edwards,2 andares,5,1942,3,1.0,1,1.0,1150,6488
+2822,Densidade Residencial Baixa,Edwards,2 andares,7,1928,4,3.0,1,2.0,2009,19950
+2823,Densidade Residencial Baixa,Edwards,2 andares,8,1935,5,2.0,1,4.0,3672,19800
+2824,Densidade Residencial Baixa,Edwards,2 andares,5,1962,3,2.0,1,3.0,1560,11679
+2825,Densidade Residencial Baixa,Edwards,1 andar,6,1952,3,2.0,1,1.0,1488,12048
+2826,Densidade Residencial Baixa,Edwards,1 andar,8,1955,3,1.0,1,2.0,1057,10519
+2827,Densidade Residencial Baixa,Edwards,2 andares,5,1953,5,1.0,1,2.0,1609,9525
+2828,Densidade Residencial Baixa,Sawyer West,2 andares,4,1989,4,2.0,1,3.0,2559,12128
+2829,Densidade Residencial Baixa,Sawyer West,2 andares,8,1993,2,4.0,2,4.0,1440,9069
+2830,Densidade Residencial Baixa,College Creek,2 andares,5,2005,3,3.0,1,3.0,1876,11003
+2831,Densidade Residencial Baixa,College Creek,1 andar,5,2005,2,2.0,1,2.0,1208,7488
+2832,Densidade Residencial Baixa,College Creek,1 andar,5,2006,3,2.0,1,3.0,1846,13377
+2833,Densidade Residencial Baixa,College Creek,1 andar,5,2005,2,3.0,1,4.0,1590,11645
+2834,Densidade Residencial Baixa,College Creek,2 andares,5,2005,3,2.0,1,3.0,1809,10984
+2835,Densidade Residencial Baixa,College Creek,1 andar,5,2005,3,2.0,1,2.0,1614,9316
+2836,Densidade Residencial Baixa,College Creek,2 andares,5,2005,3,2.0,1,3.0,1596,9316
+2837,Densidade Residencial Baixa,Clear Creek,1 andar,5,1968,3,2.0,1,3.0,1388,12000
+2838,Densidade Residencial Baixa,College Creek,1 andar,6,1996,3,2.0,1,2.0,1100,13015
+2839,Densidade Residencial Baixa,College Creek,2 andares,5,1995,3,2.0,1,3.0,1499,12438
+2840,Densidade Residencial Baixa,College Creek,1 andar,5,1998,3,2.0,1,3.0,1425,8685
+2841,Densidade Residencial Baixa,College Creek,2 andares,5,1999,3,2.0,1,3.0,1749,9272
+2842,Densidade Residencial Baixa,College Creek,2 andares,5,1999,3,2.0,1,4.0,1779,13426
+2843,Densidade Residencial Baixa,College Creek,2 andares,6,1977,3,1.0,1,2.0,1388,8340
+2844,Densidade Residencial Baixa,College Creek,2 andares,6,1978,3,3.0,1,3.0,1282,10385
+2845,Densidade Residencial Baixa,College Creek,1 andar,8,1972,3,1.0,1,1.0,864,7200
+2846,Densidade Residencial Baixa,College Creek,2 andares,5,2002,3,2.0,1,3.0,1762,9930
+2847,Densidade Residencial Baixa,College Creek,2 andares,5,1999,3,2.0,1,4.0,1755,9468
+2848,Densidade Residencial Baixa,College Creek,1 andar,5,2002,1,2.0,1,3.0,1358,11088
+2849,Densidade Residencial Baixa,College Creek,2 andares,5,2002,4,2.0,1,3.0,1909,8726
+2850,Densidade Residencial Baixa,College Creek,2 andares,5,1999,3,3.0,1,4.0,2214,10566
+2851,Densidade Residencial Baixa,College Creek,2 andares,5,1996,4,2.0,1,3.0,2049,21533
+2852,Densidade Residencial Baixa,College Creek,2 andares,5,1998,3,3.0,1,4.0,1939,11250
+2853,Densidade Residencial Baixa,College Creek,2 andares,5,1995,4,2.0,1,4.0,1995,11250
+2854,Densidade Residencial Média,College Creek,1 andar,5,2003,1,2.0,1,2.0,848,4435
+2855,Densidade Residencial Baixa,College Creek,1 andar,5,2003,3,2.0,1,3.0,1390,8810
+2856,Densidade Residencial Baixa,College Creek,2 andares,5,2006,3,2.0,1,3.0,1737,8581
+2857,Densidade Residencial Baixa,College Creek,2 andares,5,2005,3,2.0,1,3.0,1611,8400
+2858,Densidade Residencial Baixa,College Creek,1 andar,5,2005,3,2.0,1,3.0,1336,8772
+2859,Densidade Residencial Baixa,Edwards,2 andares,6,1910,3,2.0,1,3.0,1436,8777
+2860,Densidade Residencial Baixa,Edwards,2 andares,5,1975,4,0.0,0,4.0,1012,7840
+2861,Densidade Residencial Baixa,Edwards,1 andar,4,1969,2,1.0,1,2.0,1176,16133
+2862,Densidade Residencial Baixa,Edwards,2 andares,5,2003,3,2.0,1,3.0,1724,7162
+2863,Densidade Residencial Baixa,Edwards,1 andar,5,2002,2,0.0,1,2.0,914,8050
+2864,Densidade Residencial Baixa,Edwards,2 andares,5,2003,3,2.0,1,3.0,2314,11060
+2865,Densidade Residencial Média,Edwards,2 andares,5,2005,2,2.0,1,2.0,1072,3675
+2866,Densidade Residencial Média,Edwards,2 andares,5,2004,3,2.0,1,2.0,1709,2522
+2867,Densidade Residencial Baixa,Edwards,2 andares,7,1948,3,1.0,1,1.0,936,6956
+2868,Densidade Residencial Baixa,Edwards,2 andares,3,1915,3,2.0,1,2.0,1338,7822
+2869,Densidade Residencial Baixa,Edwards,2 andares,5,1924,4,1.0,1,2.0,1669,8707
+2870,Densidade Residencial Baixa,Edwards,1 andar,4,1954,3,2.0,1,3.0,1482,16012
+2871,Densidade Residencial Baixa,Edwards,2 andares,4,1922,3,0.0,1,1.0,1414,8248
+2872,Densidade Residencial Baixa,Edwards,1 andar,3,1922,1,1.0,1,1.0,498,8088
+2873,Densidade Residencial Baixa,Edwards,2 andares,7,1910,3,1.0,1,1.0,1273,11388
+2874,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,5,1938,3,1.0,1,3.0,1551,10890
+2875,Densidade Residencial Alta,South & West of Iowa State University,2 andares,6,1945,3,1.0,1,2.0,1340,6430
+2876,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,8,1926,3,1.0,1,2.0,1479,7000
+2877,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,8,1920,3,1.0,1,1.0,1510,4899
+2878,Densidade Residencial Baixa,Crawford,2 andares,8,1919,4,1.0,1,2.0,1636,9399
+2879,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,5,1939,3,1.0,1,2.0,1465,10164
+2880,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,4,1941,4,1.0,1,1.0,1288,6191
+2881,Densidade Residencial Baixa,Crawford,2 andares,5,1920,3,1.0,1,2.0,1550,21780
+2882,Densidade Residencial Baixa,Crawford,2 andares,6,1940,2,1.0,1,2.0,1717,12400
+2883,Densidade Residencial Baixa,Crawford,2 andares,7,1929,4,2.0,1,2.0,1671,8170
+2884,Densidade Residencial Baixa,Crawford,2 andares,7,1932,3,3.0,1,2.0,1609,12320
+2885,Densidade Residencial Baixa,Crawford,2 andares,7,1930,3,2.0,1,2.0,1801,14210
+2886,Densidade Residencial Baixa,Crawford,2 andares,7,1950,4,1.0,1,3.0,2315,15600
+2887,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,6,1942,2,1.0,1,2.0,976,7288
+2888,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1926,3,2.0,1,2.0,1285,7000
+2889,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,4,1925,2,0.0,1,1.0,672,8534
+2890,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,6,1925,2,1.0,1,1.0,641,7030
+2891,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1957,4,1.0,1,2.0,1638,9060
+2892,C (all),Iowa DOT and Rail Road,1 andar,5,1945,2,0.0,1,1.0,729,12366
+2893,C (all),Iowa DOT and Rail Road,2 andares,6,1951,4,0.0,2,2.0,1396,9000
+2894,C (all),Iowa DOT and Rail Road,2 andares,5,1916,2,0.0,1,1.0,936,8520
+2895,Densidade Residencial Média,Crawford,1 andar,5,2005,2,2.0,1,4.0,1778,5748
+2896,Densidade Residencial Média,Crawford,1 andar,5,2004,2,2.0,1,4.0,1646,3842
+2897,Densidade Residencial Baixa,Mitchell,1 andar,6,1979,3,2.0,1,3.0,1625,23580
+2898,Densidade Residencial Baixa,Mitchell,1 andar,5,1978,4,2.0,2,2.0,1664,8385
+2899,Densidade Residencial Baixa,Mitchell,1 andar,5,2001,3,2.0,1,2.0,1491,9116
+2900,Densidade Residencial Baixa,Mitchell,2 andares,6,1975,3,2.0,1,3.0,1210,11080
+2901,Densidade Residencial Baixa,Timberland,1 andar,5,1958,2,2.0,1,2.0,1650,50102
+2902,Densidade Residencial Baixa,Timberland,1 andar,5,2000,2,2.0,1,3.0,1403,8098
+2903,Densidade Residencial Baixa,Timberland,1 andar,5,2005,3,3.0,1,3.0,1960,13618
+2904,Densidade Residencial Baixa,Timberland,1 andar,5,2005,3,3.0,1,3.0,1838,11577
+2905,,Mitchell,1 andar,3,1951,3,1.0,1,2.0,1600,31250
+2906,Densidade Residencial Média,Mitchell,2 andares,5,1997,2,4.0,2,4.0,1368,7020
+2907,Densidade Residencial Média,Meadow Village,2 andares,6,1977,3,1.0,1,2.0,1304,2665
+2908,Densidade Residencial Baixa,Mitchell,1 andar,7,1968,3,1.0,1,2.0,874,10172
+2909,Densidade Residencial Baixa,Mitchell,1 andar,5,1970,4,3.0,2,2.0,1652,11836
+2910,Densidade Residencial Média,Meadow Village,2 andares,6,1970,1,0.0,1,2.0,630,1470
+2911,Densidade Residencial Média,Meadow Village,2 andares,4,1972,3,1.0,1,2.0,1092,1484
+2912,Densidade Residencial Baixa,Mitchell,1 andar,5,1969,3,1.0,1,2.0,1360,13384
+2913,Densidade Residencial Média,Meadow Village,2 andares,5,1970,3,1.0,1,2.0,1092,1533
+2914,Densidade Residencial Média,Meadow Village,2 andares,5,1970,3,0.0,1,2.0,1092,1526
+2915,Densidade Residencial Média,Meadow Village,2 andares,7,1970,3,0.0,1,2.0,1092,1936
+2916,Densidade Residencial Média,Meadow Village,2 andares,5,1970,3,1.0,1,2.0,1092,1894
+2917,Densidade Residencial Baixa,Mitchell,1 andar,7,1960,4,2.0,1,2.0,1224,20000
+2918,Densidade Residencial Baixa,Mitchell,2 andares,5,1992,3,0.0,1,2.0,970,10441
+2919,Densidade Residencial Baixa,Mitchell,2 andares,5,1993,3,3.0,1,3.0,2000,9627

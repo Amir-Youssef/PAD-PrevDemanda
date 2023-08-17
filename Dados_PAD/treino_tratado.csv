@@ -1,0 +1,1461 @@
+Id,tipo_moradia,localização,andares,nota_casa,ano_contrucao,preco,banheiros,vagas_garagem,cozinhas,banheiros,tamanho(em pés quadrados),tamanho lote (n útil)
+1,Densidade Residencial Baixa,College Creek,2 andares,5,2003,208500,3,2,1,4,1710,8450
+2,Densidade Residencial Baixa,Veenker,1 andar,8,1976,181500,3,2,1,3,1262,9600
+3,Densidade Residencial Baixa,College Creek,2 andares,5,2001,223500,3,2,1,4,1786,11250
+4,Densidade Residencial Baixa,Crawford,2 andares,5,1915,140000,3,3,1,2,1717,9550
+5,Densidade Residencial Baixa,Northridge,2 andares,5,2000,250000,4,3,1,4,2198,14260
+6,Densidade Residencial Baixa,Mitchell,2 andares,5,1993,143000,1,2,1,3,1362,14115
+7,Densidade Residencial Baixa,Somerset,1 andar,5,2004,307000,3,2,1,3,1694,10084
+8,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1973,200000,3,2,1,4,2090,10382
+9,Densidade Residencial Média,Old Town,2 andares,5,1931,129900,2,2,2,2,1774,6120
+10,Densidade Residencial Baixa,Brookside,2 andares,6,1939,118000,2,1,2,2,1077,7420
+11,Densidade Residencial Baixa,Sawyer,1 andar,5,1965,129500,3,1,1,2,1040,11200
+12,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,345000,4,3,1,4,2324,11924
+13,Densidade Residencial Baixa,Sawyer,1 andar,6,1962,144000,2,1,1,2,912,12968
+14,Densidade Residencial Baixa,College Creek,1 andar,5,2006,279500,3,3,1,2,1494,10652
+15,Densidade Residencial Baixa,NAmes,1 andar,5,1960,157000,2,1,1,3,1253,10920
+16,Densidade Residencial Média,Brookside,2 andares,8,1929,132000,2,2,1,1,854,6120
+17,Densidade Residencial Baixa,NAmes,1 andar,7,1970,149000,2,2,1,2,1004,11241
+18,Densidade Residencial Baixa,Sawyer,1 andar,5,1967,90000,2,2,2,2,1296,10791
+19,Densidade Residencial Baixa,Sawyer West,1 andar,5,2004,159000,3,2,1,3,1114,13695
+20,Densidade Residencial Baixa,NAmes,1 andar,6,1958,139000,3,1,1,1,1339,7560
+21,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,325300,4,3,1,4,2376,14215
+22,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1930,139400,3,1,1,1,1108,7449
+23,Densidade Residencial Baixa,College Creek,1 andar,5,2002,230000,3,2,1,2,1795,9742
+24,Densidade Residencial Média,Meadow Village,1 andar,7,1976,129900,3,2,1,2,1060,4224
+25,Densidade Residencial Baixa,Sawyer,1 andar,8,1968,154000,3,1,1,2,1060,8246
+26,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,256300,3,3,1,2,1600,14230
+27,Densidade Residencial Baixa,NAmes,1 andar,7,1951,134800,3,2,1,2,900,7200
+28,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,306000,3,3,1,3,1704,11478
+29,Densidade Residencial Baixa,NAmes,1 andar,6,1957,207500,2,1,1,2,1600,16321
+30,Densidade Residencial Média,Brookside,1 andar,6,1927,68500,1,1,1,1,520,6324
+31,C (all),Iowa DOT and Rail Road,2 andares,4,1920,40000,3,1,1,1,1317,8500
+32,Densidade Residencial Baixa,Sawyer,1 andar,6,1966,149350,3,1,1,2,1228,8544
+33,Densidade Residencial Baixa,College Creek,1 andar,5,2007,179900,3,2,1,2,1234,11049
+34,Densidade Residencial Baixa,NAmes,1 andar,5,1959,165500,4,2,1,3,1700,10552
+35,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,277500,2,2,1,3,1561,7313
+36,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2004,309000,4,3,1,4,2452,13418
+37,Densidade Residencial Baixa,College Creek,1 andar,5,1994,145000,3,2,1,2,1097,10859
+38,Densidade Residencial Baixa,NAmes,1 andar,6,1954,153000,3,2,1,2,1297,8532
+39,Densidade Residencial Baixa,NAmes,1 andar,7,1953,109000,3,1,1,2,1057,7922
+40,Densidade Residencial Baixa,Edwards,1 andar,5,1955,82000,2,0,2,2,1152,6040
+41,Densidade Residencial Baixa,NAmes,1 andar,5,1965,160000,3,2,1,2,1324,8658
+42,Densidade Residencial Baixa,Timberland,1 andar,6,1959,170000,2,1,1,3,1328,16905
+43,Densidade Residencial Baixa,Sawyer West,2 andares,7,1983,144000,2,2,1,2,884,9180
+44,Densidade Residencial Baixa,College Creek,1 andar,6,1975,130250,3,1,1,2,938,9200
+45,Densidade Residencial Baixa,NAmes,1 andar,6,1959,141000,3,1,1,2,1150,7945
+46,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,319900,2,2,1,3,1752,7658
+47,Densidade Residencial Baixa,Mitchell,2 andares,5,2003,239686,1,2,1,3,2149,12822
+48,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,249700,3,3,1,2,1656,11096
+49,Densidade Residencial Média,Old Town,2 andares,5,1920,113000,2,0,3,2,1452,4456
+50,Densidade Residencial Baixa,Sawyer,1 andar,7,1966,127000,3,1,1,2,955,7742
+51,Densidade Residencial Baixa,Gilbert,2 andares,6,1997,177000,3,2,1,3,1470,13869
+52,Densidade Residencial Média,Brookside,2 andares,6,1934,114500,3,2,1,1,1176,6240
+53,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,5,1963,110000,2,2,1,2,816,8472
+54,Densidade Residencial Baixa,Veenker,1 andar,5,1981,385000,0,3,1,3,1842,50271
+55,Densidade Residencial Baixa,NAmes,2 andares,5,1955,130000,3,2,1,1,1360,7134
+56,Densidade Residencial Baixa,NAmes,1 andar,5,1964,180500,3,2,1,2,1425,10175
+57,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,172500,3,2,1,4,1739,2645
+58,Densidade Residencial Baixa,College Creek,2 andares,5,2004,196500,3,2,1,3,1720,11645
+59,Densidade Residencial Baixa,Stone Brook,2 andares,5,2006,438780,3,3,1,4,2945,13682
+60,Densidade Residencial Baixa,College Creek,1 andar,7,1972,124900,2,1,1,1,780,7200
+61,Densidade Residencial Baixa,Sawyer West,1 andar,5,2004,158000,3,2,1,3,1158,13072
+62,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1920,101000,3,1,1,1,1111,7200
+63,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,202500,2,2,1,2,1370,6442
+64,Densidade Residencial Média,Old Town,2 andares,6,1921,140000,3,2,1,2,1710,10300
+65,Densidade Residencial Baixa,College Creek,2 andares,5,1997,219500,3,2,1,4,2034,9375
+66,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2004,317000,4,3,1,3,2473,9591
+67,Densidade Residencial Baixa,NAmes,1 andar,5,1970,180000,3,2,1,3,2207,19900
+68,Densidade Residencial Baixa,College Creek,1 andar,5,2003,226000,3,2,1,3,1479,10665
+69,Densidade Residencial Média,Old Town,1 andar,6,1945,80000,2,1,1,1,747,4608
+70,Densidade Residencial Baixa,Clear Creek,2 andares,4,1953,225000,3,2,1,2,2287,15593
+71,Densidade Residencial Baixa,NAmes,1 andar,6,1973,244000,3,2,1,3,2223,13651
+72,Densidade Residencial Baixa,Mitchell,1 andar,6,1982,129500,2,2,1,2,845,7599
+73,Densidade Residencial Baixa,Gilbert,2 andares,5,1998,185000,3,2,1,3,1718,10141
+74,Densidade Residencial Baixa,NAmes,1 andar,7,1954,144900,3,2,1,2,1086,10200
+75,Densidade Residencial Média,Old Town,2 andares,6,1915,107400,3,1,2,2,1605,5790
+76,Densidade Residencial Média,Meadow Village,2 andares,5,1973,91000,2,1,1,2,988,1596
+77,Densidade Residencial Baixa,NAmes,1 andar,7,1956,135750,2,1,1,1,952,8475
+78,Densidade Residencial Média,Brookside,2 andares,5,1948,127000,2,1,1,2,1285,8635
+79,Densidade Residencial Baixa,Sawyer,1 andar,5,1968,136500,4,0,2,2,1768,10778
+80,Densidade Residencial Média,Old Town,2 andares,6,1910,110000,2,2,1,2,1230,10440
+81,Densidade Residencial Baixa,NAmes,2 andares,6,1968,193500,4,1,1,3,2142,13000
+82,Densidade Residencial Média,Mitchell,1 andar,5,1998,153500,2,2,1,3,1337,4500
+83,Densidade Residencial Baixa,Somerset,1 andar,5,2007,245000,3,3,1,2,1563,10206
+84,Densidade Residencial Baixa,NAmes,1 andar,5,1960,126500,3,2,1,2,1065,8892
+85,Densidade Residencial Baixa,Gilbert,2 andares,5,1995,168500,3,2,1,3,1474,8530
+86,Densidade Residencial Baixa,Northridge,2 andares,5,1991,260000,4,2,1,3,2417,16059
+87,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,174000,3,2,1,3,1560,11911
+88,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2009,164500,2,2,1,3,1224,3951
+89,C (all),Iowa DOT and Rail Road,2 andares,2,1915,85000,2,0,1,1,1526,8470
+90,Densidade Residencial Baixa,College Creek,1 andar,5,1994,123600,3,0,1,2,990,8070
+91,Densidade Residencial Baixa,NAmes,1 andar,5,1950,109900,2,2,1,1,1040,7200
+92,Densidade Residencial Baixa,NAmes,1 andar,3,1961,98600,2,2,1,1,1235,8500
+93,Densidade Residencial Baixa,Crawford,1 andar,7,1921,163500,2,2,1,2,964,13360
+94,C (all),Old Town,2 andares,6,1910,133900,4,2,2,3,2291,7200
+95,Densidade Residencial Baixa,College Creek,2 andares,5,1997,204750,3,2,1,4,1786,9337
+96,Densidade Residencial Baixa,Gilbert,2 andares,8,1993,185000,3,2,1,3,1470,9765
+97,Densidade Residencial Baixa,College Creek,1 andar,5,1999,214000,3,2,1,2,1588,10264
+98,Densidade Residencial Baixa,Edwards,1 andar,5,1965,94750,3,1,1,2,960,10921
+99,Densidade Residencial Baixa,Edwards,1 andar,5,1920,83000,2,1,1,1,835,10625
+100,Densidade Residencial Baixa,NAmes,1 andar,5,1959,128950,3,0,1,3,1225,9320
+101,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1977,205000,3,2,1,3,1610,10603
+102,Densidade Residencial Baixa,Sawyer West,2 andares,5,1985,178000,3,2,1,3,1732,9206
+103,Densidade Residencial Baixa,Sawyer West,1 andar,5,1979,118964,4,2,2,2,1535,7018
+104,Densidade Residencial Baixa,College Creek,1 andar,5,2009,198900,3,3,1,2,1226,10402
+105,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,4,1931,169500,4,1,1,2,1818,7758
+106,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2003,250000,3,2,1,3,1992,9375
+107,Densidade Residencial Média,Old Town,1 andar,7,1885,100000,2,1,1,1,1047,10800
+108,Densidade Residencial Média,Old Town,1 andar,5,1948,115000,2,1,1,1,789,6000
+109,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1919,115000,3,0,1,2,1517,8500
+110,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1977,190000,3,2,1,2,1844,11751
+111,Densidade Residencial Baixa,Edwards,2 andares,4,1954,136900,4,1,1,2,1855,9525
+112,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,180000,3,2,1,3,1430,7750
+113,Densidade Residencial Baixa,College Creek,2 andares,5,2007,383970,4,3,1,4,2696,9965
+114,Densidade Residencial Baixa,Crawford,1 andar,5,1953,217000,3,2,1,3,2259,21000
+115,Densidade Residencial Baixa,Crawford,2 andares,8,1945,259500,3,1,1,4,2320,7259
+116,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,176000,2,2,1,3,1458,3230
+117,Densidade Residencial Baixa,Sawyer,1 andar,5,1962,139000,3,1,1,2,1092,11616
+118,Densidade Residencial Baixa,Edwards,1 andar,5,2006,155000,2,2,1,2,1125,8536
+119,Densidade Residencial Baixa,Sawyer West,2 andares,5,1990,320000,5,3,1,4,3222,12376
+120,Densidade Residencial Baixa,College Creek,2 andares,5,2005,163990,3,2,1,3,1456,8461
+121,Densidade Residencial Baixa,Clear Creek,2 andares,5,1969,180000,1,2,1,2,988,21453
+122,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1939,100000,3,1,1,1,1123,6060
+123,Densidade Residencial Baixa,NAmes,1 andar,7,1958,136000,3,1,1,1,1080,9464
+124,Densidade Residencial Baixa,Sawyer West,1 andar,5,1993,153900,2,2,1,2,1199,7892
+125,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1979,181000,3,2,1,2,1586,17043
+126,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,8,1935,84500,2,0,1,2,754,6780
+127,Densidade Residencial Baixa,Northpark Villa,1 andar,5,1976,128000,2,2,1,2,958,4928
+128,Densidade Residencial Média,Old Town,2 andares,7,1930,87000,3,0,1,1,840,4388
+129,Densidade Residencial Baixa,NAmes,2 andares,5,1966,155000,3,2,1,2,1348,7590
+130,Densidade Residencial Baixa,NAmes,1 andar,7,1958,150000,3,2,1,3,1053,8973
+131,Densidade Residencial Baixa,NAmes,2 andares,6,1966,226000,4,2,1,3,2157,14200
+132,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,244000,3,2,1,4,2054,12224
+133,Densidade Residencial Baixa,NAmes,1 andar,6,1959,150750,3,2,1,2,1327,7388
+134,Densidade Residencial Baixa,Timberland,1 andar,5,2001,220000,2,2,1,3,1296,6853
+135,Densidade Residencial Baixa,Sawyer,1 andar,6,1968,180000,3,2,1,3,1721,10335
+136,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1970,174000,3,2,1,2,1682,10400
+137,Densidade Residencial Baixa,NAmes,1 andar,5,1967,143000,3,1,1,2,1214,10355
+138,Densidade Residencial Baixa,Mitchell,1 andar,5,1988,171000,5,3,2,3,1959,11070
+139,Densidade Residencial Baixa,College Creek,2 andares,5,1999,230000,3,3,1,3,1852,9066
+140,Densidade Residencial Baixa,College Creek,2 andares,5,1997,231500,3,2,1,4,1764,15426
+141,Densidade Residencial Baixa,NAmes,1 andar,5,1971,115000,3,0,1,1,864,10500
+142,Densidade Residencial Baixa,College Creek,1 andar,5,2005,260000,3,2,1,3,1734,11645
+143,Densidade Residencial Baixa,NAmes,2 andares,4,1952,166000,4,2,1,2,1385,8520
+144,Densidade Residencial Baixa,College Creek,1 andar,5,1999,204000,3,2,1,3,1501,10335
+145,Densidade Residencial Média,Sawyer,1 andar,5,1963,125000,6,2,2,3,1728,9100
+146,Densidade Residencial Média,Edwards,2 andares,5,2004,130000,3,2,1,2,1709,2522
+147,Densidade Residencial Média,Brookside,1 andar,7,1931,105000,2,1,1,2,875,6120
+148,Densidade Residencial Baixa,Gilbert,2 andares,5,2001,222500,3,2,1,3,2035,9505
+149,Densidade Residencial Baixa,Sawyer West,1 andar,5,2004,141000,3,0,1,2,1080,7500
+150,Densidade Residencial Média,Brookside,2 andares,4,1936,115000,3,1,1,1,1344,6240
+151,Densidade Residencial Baixa,College Creek,1 andar,6,1975,122000,3,2,1,2,969,10356
+152,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,372402,2,3,1,3,1710,13891
+153,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1971,190000,4,2,1,3,1993,14803
+154,Densidade Residencial Baixa,Clear Creek,1 andar,7,1960,235000,1,2,1,2,1252,13500
+155,Densidade Residencial Média,Old Town,1 andar,5,1923,125000,4,1,1,1,1200,11340
+156,Densidade Residencial Baixa,Edwards,2 andares,5,1924,79000,2,0,1,1,1096,9600
+157,Densidade Residencial Baixa,NAmes,1 andar,7,1950,109500,2,2,1,1,1040,7200
+158,Densidade Residencial Baixa,Timberland,2 andares,5,2009,269500,4,3,1,3,1968,12003
+159,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2004,254900,3,2,1,3,1947,12552
+160,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,320000,4,2,1,4,2462,19378
+161,Densidade Residencial Baixa,Veenker,1 andar,6,1984,162500,3,2,1,2,1232,11120
+162,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2003,412500,3,3,1,4,2668,13688
+163,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,220000,3,2,1,2,1541,12182
+164,Densidade Residencial Baixa,Old Town,2 andares,6,1956,103200,1,0,1,1,882,5500
+165,Densidade Residencial Média,Old Town,1 andar,7,1926,152000,3,1,1,2,1616,5400
+166,Densidade Residencial Baixa,Edwards,2 andares,7,1940,127500,4,0,2,3,1355,10106
+167,Densidade Residencial Baixa,Clear Creek,1 andar,5,1955,190000,2,1,1,2,1867,10708
+168,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2007,325624,3,3,1,3,2161,10562
+169,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,183500,3,2,1,3,1720,8244
+170,Densidade Residencial Baixa,Timberland,1 andar,6,1981,228000,2,2,1,3,1707,16669
+171,Densidade Residencial Média,Old Town,2 andares,6,1941,128500,2,2,1,2,1382,12358
+172,Densidade Residencial Baixa,NAmes,1 andar,5,1960,215000,3,2,1,2,1656,31770
+173,Densidade Residencial Baixa,Stone Brook,2 andares,7,1987,239000,2,2,1,3,1767,5306
+174,Densidade Residencial Baixa,NAmes,1 andar,5,1961,163000,3,2,1,3,1362,10197
+175,Densidade Residencial Baixa,Timberland,1 andar,5,1986,184000,3,2,1,3,1651,12416
+176,Densidade Residencial Baixa,Edwards,1 andar,7,1950,243000,4,2,1,3,2158,12615
+177,Densidade Residencial Baixa,Clear Creek,2 andares,5,1988,211000,4,2,1,4,2060,10029
+178,Densidade Residencial Baixa,Sawyer,2 andares,5,1958,172500,4,2,1,3,1920,13650
+179,Densidade Residencial Baixa,Stone Brook,1 andar,5,2008,501837,1,3,1,3,2234,17423
+180,Densidade Residencial Média,Old Town,1 andar,6,1923,100000,2,2,1,1,968,8520
+181,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,177000,3,2,1,3,1525,2117
+182,Densidade Residencial Baixa,Crawford,2 andares,6,1920,200100,4,1,1,2,1802,7588
+183,Densidade Residencial Baixa,Edwards,1 andar,6,1957,120000,3,1,1,1,1340,9060
+184,Densidade Residencial Média,Old Town,2 andares,5,2003,200000,3,2,1,3,2082,11426
+185,Densidade Residencial Baixa,Brookside,2 andares,8,1908,127000,3,2,1,1,1252,7438
+186,Densidade Residencial Média,Old Town,2 andares,9,1892,475000,4,3,1,3,3608,22950
+187,Densidade Residencial Baixa,Mitchell,2 andares,5,1990,173000,3,2,1,3,1217,9947
+188,Densidade Residencial Baixa,Old Town,2 andares,7,1916,135000,3,1,1,3,1656,10410
+189,Densidade Residencial Baixa,Sawyer West,2 andares,5,1979,153337,2,2,2,4,1224,7018
+190,Densidade Residencial Baixa,Stone Brook,1 andar,5,2001,286000,0,2,1,3,1593,4923
+191,Densidade Residencial Baixa,Crawford,2 andares,8,1932,315000,3,2,1,3,2727,10570
+192,Densidade Residencial Baixa,NAmes,2 andares,9,1972,184000,4,2,1,3,1479,7472
+193,Densidade Residencial Baixa,College Creek,1 andar,5,1999,192000,3,2,1,3,1431,9017
+194,Densidade Residencial Média,Edwards,2 andares,5,2004,130000,3,2,1,2,1709,2522
+195,Densidade Residencial Baixa,College Creek,1 andar,7,1972,127000,3,1,1,1,864,7180
+196,Densidade Residencial Baixa,Northpark Villa,2 andares,6,1976,148500,3,2,1,3,1456,2280
+197,Densidade Residencial Baixa,Somerset,1 andar,5,2007,311872,3,3,1,3,1726,9416
+198,Densidade Residencial Baixa,NAmes,2 andares,4,1918,235000,4,2,1,4,3112,25419
+199,Densidade Residencial Média,Old Town,2 andares,6,1912,104000,5,0,1,1,2229,5520
+200,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2004,274900,3,3,1,3,1713,9591
+201,Densidade Residencial Média,Edwards,1 andar,5,2003,140000,2,2,1,2,1121,8546
+202,Densidade Residencial Baixa,Mitchell,1 andar,6,1977,171500,3,2,1,3,1279,10125
+203,Densidade Residencial Baixa,Old Town,2 andares,6,1924,112000,2,1,1,2,1310,7000
+204,Densidade Residencial Média,College Creek,1 andar,5,2004,149000,1,2,1,2,848,4438
+205,Densidade Residencial Média,Old Town,2 andares,7,1947,110000,2,1,1,2,1284,3500
+206,Densidade Residencial Baixa,Gilbert,1 andar,5,1990,180500,3,2,1,2,1442,11851
+207,Densidade Residencial Baixa,Sawyer,1 andar,5,1962,143900,3,1,1,2,1696,13673
+208,Densidade Residencial Baixa,NAmes,1 andar,5,1960,141000,3,1,1,2,1100,12493
+209,Densidade Residencial Baixa,Sawyer West,2 andares,5,1988,277000,3,2,1,4,2062,14364
+210,Densidade Residencial Baixa,NAmes,1 andar,7,1964,145000,3,2,1,2,1092,8250
+211,Densidade Residencial Baixa,Edwards,1 andar,6,1925,98000,2,0,1,2,864,5604
+212,Densidade Residencial Baixa,Edwards,1 andar,5,2009,186000,3,2,1,2,1212,10420
+213,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2009,252678,3,2,1,4,1852,8640
+214,Densidade Residencial Baixa,College Creek,1 andar,5,1995,156000,3,2,1,2,990,13568
+215,Densidade Residencial Baixa,College Creek,2 andares,7,1977,161750,3,1,1,2,1392,10900
+216,Densidade Residencial Baixa,NAmes,1 andar,6,1957,134450,2,1,1,2,1236,10011
+217,Densidade Residencial Baixa,College Creek,1 andar,5,2004,210000,3,2,1,3,1436,8450
+218,Densidade Residencial Média,Old Town,2 andares,4,1925,107000,3,1,1,1,1328,9906
+219,Densidade Residencial Baixa,Crawford,2 andares,9,1939,311500,3,2,1,3,1954,15660
+220,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2005,167240,2,2,1,2,1248,3010
+221,Densidade Residencial Baixa,College Creek,1 andar,5,2006,204900,2,2,1,2,1498,8990
+222,Densidade Residencial Baixa,Gilbert,2 andares,5,2002,200000,4,2,1,3,2267,8068
+223,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1975,179900,3,2,1,4,1552,11475
+224,Densidade Residencial Baixa,NAmes,1 andar,6,1971,97000,2,2,1,1,864,10500
+225,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,386250,3,3,1,2,2392,13472
+226,Densidade Residencial Média,Briardale,2 andares,5,1971,112000,3,1,1,3,1302,1680
+227,Densidade Residencial Baixa,Northridge,2 andares,5,1995,290000,4,3,1,3,2520,9950
+228,Densidade Residencial Média,Briardale,2 andares,6,1970,106000,2,1,1,2,987,1869
+229,Densidade Residencial Baixa,Sawyer,1 andar,5,1967,125000,3,1,1,1,912,8521
+230,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2005,192500,2,2,1,2,1555,3182
+231,Densidade Residencial Baixa,NAmes,1 andar,6,1959,148000,3,1,1,2,1194,8760
+232,Densidade Residencial Baixa,Northridge,2 andares,5,1995,403000,4,3,1,4,2794,15138
+233,Densidade Residencial Média,Briardale,2 andares,5,1972,94500,2,1,1,2,987,1680
+234,Densidade Residencial Baixa,College Creek,1 andar,6,1976,128200,3,1,1,2,894,10650
+235,Densidade Residencial Baixa,Gilbert,2 andares,5,2002,216500,4,2,1,4,1960,7851
+236,Densidade Residencial Média,Briardale,2 andares,3,1971,89500,2,1,1,2,987,1680
+237,Densidade Residencial Baixa,College Creek,1 andar,5,2004,185500,3,2,1,2,1414,8773
+238,Densidade Residencial Baixa,Sawyer West,2 andares,7,1993,194500,3,2,1,3,1744,9453
+239,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,318000,3,3,1,2,1694,12030
+240,Densidade Residencial Baixa,Edwards,2 andares,4,1945,113000,3,1,1,2,1487,8741
+241,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2008,262500,3,2,1,3,1566,9000
+242,Densidade Residencial Média,Old Town,1 andar,9,1945,110500,2,0,1,1,866,3880
+243,Densidade Residencial Média,Old Town,2 andares,4,1900,79000,3,1,1,1,1440,5000
+244,Densidade Residencial Baixa,Sawyer West,2 andares,6,1980,120000,3,1,1,2,1217,10762
+245,Densidade Residencial Baixa,Sawyer West,2 andares,5,1994,205000,3,2,1,4,2110,8880
+246,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1988,241500,3,2,1,3,1872,10400
+247,Densidade Residencial Média,Old Town,2 andares,8,1910,137000,4,1,2,2,1928,9142
+248,Densidade Residencial Baixa,NAmes,1 andar,5,1954,140000,2,2,1,1,1375,11310
+249,Densidade Residencial Baixa,College Creek,2 andares,5,2003,180000,3,2,1,3,1668,11317
+250,Densidade Residencial Baixa,Clear Creek,2 andares,7,1958,277000,4,2,1,3,2144,159000
+251,Densidade Residencial Baixa,Brookside,1 andar,2,1940,76500,3,0,1,1,1306,5350
+252,Densidade Residencial Média,Crawford,1 andar,5,2006,235000,2,2,1,4,1625,4750
+253,Densidade Residencial Baixa,Sawyer West,2 andares,5,2004,173000,3,2,1,3,1640,8366
+254,Densidade Residencial Baixa,NAmes,2 andares,7,1964,158000,3,1,1,3,1302,9350
+255,Densidade Residencial Baixa,NAmes,1 andar,6,1957,145000,3,1,1,2,1314,8400
+256,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,230000,4,2,1,3,2291,8738
+257,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2003,207500,3,2,1,3,1728,8791
+258,Densidade Residencial Baixa,College Creek,1 andar,5,2006,220000,3,2,1,4,1604,8814
+259,Densidade Residencial Baixa,College Creek,2 andares,5,2001,231500,3,2,1,3,1792,12435
+260,Densidade Residencial Média,Old Town,1 andar,5,1956,97000,2,1,1,1,882,12702
+261,Densidade Residencial Baixa,NAmes,2 andares,5,1962,176000,3,2,1,2,1382,19296
+262,Densidade Residencial Baixa,College Creek,2 andares,5,2007,276000,3,3,1,3,2574,9588
+263,Densidade Residencial Baixa,Sawyer,2 andares,7,1977,151000,3,2,1,2,1212,8471
+264,Densidade Residencial Média,Old Town,2 andares,7,1929,130000,3,2,1,2,1316,5500
+265,Densidade Residencial Média,Old Town,1 andar,5,1925,73000,2,2,1,1,764,5232
+266,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1981,175500,3,2,1,2,1422,12090
+267,Densidade Residencial Baixa,Gilbert,2 andares,5,1997,185000,3,2,1,4,1511,11207
+268,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,8,1939,179500,4,1,1,3,2192,8400
+269,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,6,1940,120500,2,1,1,1,778,6900
+270,Densidade Residencial Baixa,Edwards,1 andar,7,1976,148000,3,1,1,3,1113,7917
+271,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2006,266000,3,3,1,3,1939,10728
+272,Densidade Residencial Baixa,Clear Creek,1 andar,7,1954,241500,2,2,1,2,1363,39104
+273,Densidade Residencial Baixa,Northridge,2 andares,7,1999,290000,4,3,1,3,2270,11764
+274,Densidade Residencial Baixa,NAmes,1 andar,6,1958,139000,3,1,1,3,1632,9600
+275,Densidade Residencial Baixa,Mitchell,1 andar,7,1982,124500,2,1,1,1,816,8314
+276,Densidade Residencial Baixa,Brookside,2 andares,7,1925,205000,3,2,1,3,1548,7264
+277,Densidade Residencial Baixa,Mitchell,1 andar,5,2003,201000,3,2,1,2,1560,9196
+278,Densidade Residencial Baixa,Gilbert,1 andar,5,1951,141000,2,2,1,1,864,19138
+279,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,415298,3,3,1,3,2121,14450
+280,Densidade Residencial Baixa,Clear Creek,2 andares,5,1977,192000,4,2,1,3,2022,10005
+281,Densidade Residencial Baixa,Sawyer West,2 andares,6,1989,228500,3,2,1,3,1982,11287
+282,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,185000,2,2,1,2,1262,7200
+283,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,207500,2,2,1,3,1314,5063
+284,Densidade Residencial Baixa,Somerset,1 andar,5,2008,244600,3,3,1,2,1468,9612
+285,Densidade Residencial Baixa,Sawyer West,1 andar,5,1992,179200,2,2,1,3,1575,8012
+286,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2006,164700,2,2,1,3,1250,4251
+287,Densidade Residencial Baixa,NAmes,2 andares,7,1962,159000,3,2,1,2,1734,9786
+288,Densidade Residencial Baixa,NAmes,1 andar,4,1971,88000,3,0,1,1,858,8125
+289,Densidade Residencial Baixa,Sawyer,1 andar,5,1967,122000,3,1,1,1,900,9819
+290,Densidade Residencial Baixa,Brookside,2 andares,7,1915,153575,3,1,1,1,1396,8730
+291,Densidade Residencial Baixa,College Creek,2 andares,5,2006,233230,3,2,1,3,1919,15611
+292,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,6,1912,135900,6,0,1,3,1716,5687
+293,Densidade Residencial Baixa,Edwards,2 andares,4,1949,131000,3,1,1,2,1716,11409
+294,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1977,235000,3,2,1,4,2263,16659
+295,Densidade Residencial Baixa,NAmes,1 andar,5,1953,167000,3,2,1,2,1644,9600
+296,Densidade Residencial Baixa,Mitchell,2 andares,6,1984,142500,3,2,1,2,1003,7937
+297,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1950,152000,4,1,1,2,1558,13710
+298,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1997,239000,3,2,1,3,1950,7399
+299,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1968,175000,3,2,1,4,1743,11700
+300,Densidade Residencial Baixa,Crawford,1 andar,8,1950,158500,3,1,1,2,1152,14000
+301,Densidade Residencial Baixa,Crawford,1 andar,5,1953,157000,2,1,1,2,1336,15750
+302,Densidade Residencial Baixa,College Creek,2 andares,5,1998,267000,4,2,1,3,2452,16226
+303,Densidade Residencial Baixa,College Creek,1 andar,5,2001,205000,3,3,1,2,1541,13704
+304,Densidade Residencial Baixa,College Creek,1 andar,7,1972,149900,3,2,1,2,894,9800
+305,Densidade Residencial Média,Old Town,2 andares,9,1880,295000,3,3,1,3,3493,18386
+306,Densidade Residencial Baixa,College Creek,1 andar,5,2004,305900,3,3,1,3,2000,10386
+307,Densidade Residencial Baixa,Sawyer West,2 andares,5,1990,225000,4,3,1,4,2243,13474
+308,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1920,89500,3,0,1,1,1406,7920
+309,Densidade Residencial Baixa,Edwards,1 andar,5,1940,82500,1,2,1,1,861,12342
+310,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,360000,3,3,1,3,1944,12378
+311,Densidade Residencial Baixa,Gilbert,2 andares,5,1993,165600,3,2,1,3,1501,7685
+312,Densidade Residencial Baixa,NAmes,1 andar,6,1948,132000,2,1,1,2,972,8000
+313,Densidade Residencial Média,Old Town,2 andares,7,1939,119900,3,2,1,2,1118,7800
+314,Densidade Residencial Baixa,Timberland,1 andar,5,1965,375000,3,2,1,4,2036,215245
+315,Densidade Residencial Média,Old Town,2 andares,7,1925,178000,3,2,1,3,1641,9600
+316,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,188500,3,2,1,4,1432,7795
+317,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1980,260000,4,2,1,4,2353,13005
+318,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2006,270000,3,3,1,3,1959,9000
+319,Densidade Residencial Baixa,Northridge,2 andares,5,1993,260000,4,3,1,4,2646,9900
+320,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1980,187500,3,2,1,3,1472,14115
+321,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2006,342643,4,3,1,4,2596,16259
+322,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2004,354000,4,3,1,4,2468,12099
+323,Densidade Residencial Baixa,Sawyer West,2 andares,5,1986,301000,4,2,1,4,2730,10380
+324,Densidade Residencial Média,Old Town,1 andar,8,1955,126175,3,1,1,2,1163,5820
+325,Densidade Residencial Baixa,NAmes,2 andares,7,1967,242000,5,2,1,3,2978,11275
+326,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1941,87000,2,2,1,1,803,5000
+327,Densidade Residencial Baixa,Veenker,1 andar,5,1993,324000,1,2,1,4,1719,10846
+328,Densidade Residencial Baixa,NAmes,1 andar,5,1960,145250,3,1,1,2,1383,11600
+329,Densidade Residencial Baixa,Brookside,2 andares,6,1916,214500,5,2,1,2,2134,11888
+330,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1920,78000,3,1,1,1,1192,6402
+331,Densidade Residencial Baixa,NAmes,1 andar,4,1964,119000,6,1,2,3,1728,10624
+332,Densidade Residencial Baixa,NAmes,1 andar,6,1958,139000,3,1,1,2,1056,8176
+333,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,284000,3,3,1,3,1629,10655
+334,Densidade Residencial Média,Northridge Heights,1 andar,5,2004,207000,2,2,1,3,1358,8198
+335,Densidade Residencial Baixa,Gilbert,2 andares,5,1998,192000,3,2,1,4,1638,9042
+336,Densidade Residencial Baixa,Timberland,2 andares,6,1965,228950,3,2,1,4,1786,164660
+337,Densidade Residencial Baixa,Stone Brook,1 andar,5,2005,377426,3,3,1,3,1922,14157
+338,Densidade Residencial Baixa,College Creek,1 andar,5,2002,214000,3,2,1,3,1536,9135
+339,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1984,202500,3,2,1,3,1621,14145
+340,Densidade Residencial Baixa,NAmes,1 andar,7,1958,155000,3,1,1,1,1215,12400
+341,Densidade Residencial Baixa,Timberland,2 andares,5,2002,202900,4,2,1,3,1908,14191
+342,Densidade Residencial Alta,Sawyer West,1 andar,4,1950,82000,2,1,1,1,841,8400
+343,Densidade Residencial Baixa,NAmes,1 andar,4,1949,87500,2,2,2,2,1040,8544
+344,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,266000,2,2,1,2,1684,8849
+345,Densidade Residencial Média,Meadow Village,2 andares,3,1976,85000,3,1,1,2,1112,2592
+346,Densidade Residencial Baixa,Brookside,2 andares,5,1939,140200,3,1,1,1,1577,6435
+347,Densidade Residencial Baixa,NAmes,1 andar,8,1960,151500,2,1,1,1,958,12772
+348,Densidade Residencial Baixa,NAmes,1 andar,5,1960,157500,3,2,1,3,1478,17600
+349,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2003,154000,2,2,1,4,1626,2448
+350,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,437154,4,3,1,4,2728,20431
+351,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,318061,2,2,1,2,1869,7820
+352,Densidade Residencial Baixa,Clear Creek,1 andar,5,1986,190000,2,2,1,3,1453,5271
+353,Densidade Residencial Baixa,Edwards,2 andares,6,1941,95000,3,1,1,2,1111,9084
+354,Densidade Residencial Média,Old Town,1 andar,8,1928,105900,2,2,1,1,720,8520
+355,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,5,1940,140000,2,1,1,1,1595,8400
+356,Densidade Residencial Baixa,College Creek,1 andar,5,1995,177500,3,2,1,3,1200,11249
+357,Densidade Residencial Baixa,Gilbert,1 andar,6,1992,173000,3,2,1,3,1167,9248
+358,Densidade Residencial Média,Meadow Village,1 andar,5,1976,134000,3,2,1,3,1142,4224
+359,Densidade Residencial Baixa,Clear Creek,2 andares,4,1958,130000,3,1,1,2,1352,6930
+360,Densidade Residencial Baixa,Northridge,2 andares,5,1998,280000,3,2,1,4,1924,12011
+361,Densidade Residencial Baixa,Mitchell,2 andares,6,1978,156000,2,2,1,2,912,7540
+362,Densidade Residencial Baixa,Brookside,2 andares,5,1940,145000,3,1,1,2,1505,9144
+363,Densidade Residencial Baixa,Edwards,2 andares,5,2003,198500,4,2,1,3,1922,7301
+364,Densidade Residencial Média,Briardale,2 andares,8,1972,118000,2,1,1,2,987,1680
+365,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1976,190000,3,2,1,4,1574,18800
+366,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1920,147000,3,1,1,1,1344,10690
+367,Densidade Residencial Baixa,NAmes,1 andar,5,1963,159000,3,2,1,3,1394,9500
+368,Densidade Residencial Baixa,NAmes,2 andares,5,1962,165000,3,1,1,2,1431,9150
+369,Densidade Residencial Baixa,NAmes,1 andar,6,1954,132000,2,1,1,1,1268,7800
+370,Densidade Residencial Baixa,NAmes,1 andar,7,1959,162000,3,2,1,2,1287,9830
+371,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,172400,3,2,1,3,1664,8121
+372,Densidade Residencial Baixa,Clear Creek,2 andares,4,1959,134432,4,2,1,2,1588,17120
+373,Densidade Residencial Baixa,Sawyer West,1 andar,5,1984,125000,2,1,1,2,752,7175
+374,Densidade Residencial Baixa,NAmes,1 andar,6,1953,123000,3,1,1,2,1319,10634
+375,Densidade Residencial Baixa,College Creek,2 andares,5,2003,219500,4,2,1,3,1928,8200
+376,Densidade Residencial Baixa,Edwards,1 andar,1,1922,61000,1,0,1,2,904,10020
+377,Densidade Residencial Baixa,College Creek,2 andares,5,1996,148000,2,2,1,1,914,8846
+378,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2004,340000,4,2,1,3,2466,11143
+379,Densidade Residencial Baixa,Stone Brook,1 andar,2,2010,394432,1,3,1,3,1856,11394
+380,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,179000,3,2,1,3,1800,8123
+381,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,6,1924,127000,3,1,1,2,1691,5000
+382,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,187750,2,2,1,3,1301,7200
+383,Densidade Residencial Baixa,College Creek,2 andares,5,2006,213500,3,2,1,3,1797,9245
+384,Densidade Residencial Alta,Sawyer West,2 andares,3,1928,76000,2,2,1,1,784,9000
+385,Densidade Residencial Baixa,Clear Creek,2 andares,5,1992,240000,3,2,1,4,1953,53107
+386,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2004,192000,2,2,1,2,1269,3182
+387,Densidade Residencial Baixa,Edwards,2 andares,3,1910,81000,5,0,1,1,1184,8410
+388,Densidade Residencial Baixa,Edwards,2 andares,6,1976,125000,3,1,1,2,1125,7200
+389,Densidade Residencial Baixa,College Creek,1 andar,5,1999,191000,3,2,1,2,1479,9382
+390,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2007,426000,3,3,1,4,2332,12474
+391,Densidade Residencial Baixa,Edwards,2 andares,8,1900,119000,4,1,1,2,1367,8405
+392,Densidade Residencial Baixa,Mitchell,2 andares,5,2001,215000,3,2,1,4,1961,12209
+393,Densidade Residencial Baixa,NAmes,1 andar,7,1959,106500,3,1,1,1,882,8339
+394,Densidade Residencial Baixa,Brookside,1 andar,5,1941,100000,2,0,1,1,788,7446
+395,Densidade Residencial Baixa,Old Town,2 andares,6,1940,109000,2,1,1,1,1034,10134
+396,Densidade Residencial Baixa,Edwards,1 andar,6,1956,129000,3,1,1,2,1144,9571
+397,Densidade Residencial Baixa,College Creek,1 andar,5,1972,123000,2,2,1,1,894,7200
+398,Densidade Residencial Baixa,NAmes,2 andares,5,1962,169500,4,1,1,2,1812,7590
+399,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,2,1920,67000,2,1,1,1,1077,8967
+400,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2006,241000,2,2,1,3,1550,8125
+401,Densidade Residencial Baixa,Veenker,1 andar,5,1996,245500,1,2,1,3,1288,14963
+402,Densidade Residencial Baixa,College Creek,1 andar,5,2005,164990,3,2,1,2,1310,8767
+403,Densidade Residencial Baixa,Sawyer,1 andar,8,1940,108000,2,1,1,1,672,10200
+404,Densidade Residencial Baixa,Northridge,2 andares,5,1998,258000,4,2,1,3,2263,12090
+405,Densidade Residencial Baixa,Gilbert,2 andares,5,1995,168000,3,2,1,3,1572,10364
+406,Densidade Residencial Baixa,Sawyer,1 andar,4,1976,150000,3,2,1,3,1620,9991
+407,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,5,1936,115000,3,1,1,1,1639,10480
+408,Densidade Residencial Baixa,Crawford,2 andares,7,1915,177000,4,1,1,2,1680,15576
+409,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2006,280000,3,3,1,3,2172,14154
+410,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2007,339750,3,3,1,4,2078,10800
+411,Densidade Residencial Baixa,Edwards,1 andar,3,1958,60000,3,1,1,1,1276,9571
+412,Densidade Residencial Baixa,Gilbert,1 andar,5,1955,145000,3,2,1,2,1056,34650
+413,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2009,222000,2,2,1,4,1478,4403
+414,Densidade Residencial Média,Old Town,1 andar,6,1927,115000,2,2,1,1,1028,8960
+415,Densidade Residencial Baixa,Sawyer West,2 andares,5,1993,228000,3,3,1,4,2097,11228
+416,Densidade Residencial Baixa,Gilbert,1 andar,5,2007,181134,3,2,1,2,1340,8899
+417,Densidade Residencial Baixa,Sawyer,2 andares,7,1978,149500,3,2,1,2,1400,7844
+418,Densidade Residencial Baixa,Crawford,2 andares,6,1918,239000,4,3,1,4,2624,22420
+419,Densidade Residencial Baixa,Edwards,2 andares,6,1940,126000,3,1,1,3,1134,8160
+420,Densidade Residencial Baixa,NAmes,1 andar,6,1968,142000,3,1,1,2,1056,8450
+421,Densidade Residencial Média,Mitchell,2 andares,5,1997,206300,2,4,2,4,1344,7060
+422,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1977,215000,3,2,1,3,1602,16635
+423,Densidade Residencial Baixa,Mitchell,1 andar,5,1954,113000,2,2,1,1,988,21750
+424,Densidade Residencial Baixa,Northridge,2 andares,5,1998,315000,4,3,1,4,2630,9200
+425,Densidade Residencial Baixa,NAmes,1 andar,5,1956,139000,2,1,1,2,1196,9000
+426,Densidade Residencial Média,Old Town,2 andares,8,1946,135000,3,1,1,2,1389,3378
+427,Densidade Residencial Baixa,Sawyer West,2 andares,5,1989,275000,2,2,1,4,1644,12800
+428,Densidade Residencial Baixa,NAmes,1 andar,6,1957,109008,3,1,1,1,907,8593
+429,Densidade Residencial Baixa,College Creek,1 andar,5,2007,195400,2,2,1,3,1208,6762
+430,Densidade Residencial Baixa,Timberland,1 andar,5,1988,175000,3,2,1,3,1412,11457
+431,Densidade Residencial Média,Briardale,2 andares,5,1971,85400,2,1,1,2,987,1680
+432,Densidade Residencial Média,Old Town,2 andares,7,1920,79900,4,0,1,1,1198,5586
+433,Densidade Residencial Média,Briardale,2 andares,5,1971,122500,2,2,1,3,1365,1920
+434,Densidade Residencial Baixa,Gilbert,2 andares,5,1997,181000,3,2,1,3,1604,10839
+435,Densidade Residencial Média,Meadow Village,2 andares,7,1972,81000,1,0,1,2,630,1890
+436,Densidade Residencial Baixa,College Creek,2 andares,6,1996,212000,3,2,1,4,1661,10667
+437,Densidade Residencial Média,Old Town,2 andares,8,1920,116000,2,2,1,1,1118,4400
+438,Densidade Residencial Média,Brookside,2 andares,7,1926,119000,2,1,1,1,904,6000
+439,Densidade Residencial Baixa,Crawford,1 andar,6,1913,90350,2,1,1,1,694,4280
+440,Densidade Residencial Baixa,Edwards,2 andares,8,1920,110000,3,2,1,1,1196,12354
+441,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,555000,2,3,1,3,2402,15431
+442,Densidade Residencial Baixa,Edwards,1 andar,4,1955,118000,4,0,2,2,1440,12108
+443,Densidade Residencial Média,Brookside,2 andares,7,1930,162900,3,2,1,2,1573,6240
+444,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2006,172500,2,3,1,2,1258,3922
+445,Densidade Residencial Baixa,College Creek,2 andares,5,1994,210000,4,2,1,4,1908,8750
+446,Densidade Residencial Baixa,Edwards,1 andar,5,1956,127500,3,2,1,1,1689,9855
+447,Densidade Residencial Baixa,NAmes,1 andar,6,1966,190000,2,2,1,3,1888,16492
+448,Densidade Residencial Baixa,Gilbert,2 andares,5,1998,199900,4,2,1,3,1886,11214
+449,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1937,119500,3,1,1,2,1376,8600
+450,Densidade Residencial Média,Old Town,2 andares,7,1948,120000,2,1,1,2,1183,6000
+451,Densidade Residencial Média,Old Town,1 andar,8,1930,110000,2,1,1,1,813,5684
+452,Densidade Residencial Baixa,Clear Creek,1 andar,5,1975,280000,2,2,1,3,1533,70761
+453,Densidade Residencial Baixa,Timberland,2 andares,5,1996,204000,3,2,1,4,1756,9303
+454,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2008,210000,3,2,1,3,1590,9000
+455,Densidade Residencial Baixa,Mitchell,1 andar,5,1976,188000,4,2,2,4,1728,9297
+456,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1973,175500,3,2,1,2,1242,9600
+457,Densidade Residencial Média,Old Town,2 andares,5,1916,98000,4,3,1,1,1344,4571
+458,Densidade Residencial Baixa,Clear Creek,1 andar,6,1954,256000,2,2,1,2,1663,53227
+459,Densidade Residencial Média,Old Town,2 andares,7,1925,161000,3,1,1,1,1666,5100
+460,Densidade Residencial Baixa,Brookside,2 andares,4,1950,110000,3,1,1,2,1203,7015
+461,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2009,263435,3,2,1,4,1935,8004
+462,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,9,1936,155000,3,2,1,2,1135,7200
+463,Densidade Residencial Baixa,Sawyer,1 andar,5,1965,62383,3,1,1,1,864,8281
+464,Densidade Residencial Baixa,Crawford,2 andares,7,1934,188700,3,1,1,2,1660,11988
+465,Densidade Residencial Baixa,College Creek,1 andar,5,1978,124000,3,0,1,2,1040,8430
+466,Densidade Residencial Média,Bloomington Heights,1 andar,5,2004,178740,2,2,1,2,1414,3072
+467,Densidade Residencial Baixa,NAmes,1 andar,5,1970,167000,2,2,1,2,1277,10628
+468,Densidade Residencial Baixa,NAmes,2 andares,7,1942,146500,3,1,1,2,1644,9480
+469,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,250000,3,3,1,2,1634,11428
+470,Densidade Residencial Baixa,Sawyer West,2 andares,5,1993,187000,3,2,1,3,1710,9291
+471,Densidade Residencial Baixa,Stone Brook,1 andar,5,1985,212000,1,2,1,3,1502,6820
+472,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1977,190000,3,2,1,3,1969,11952
+473,Densidade Residencial Média,Edwards,2 andares,5,2005,148000,2,2,1,2,1072,3675
+474,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,440000,2,3,1,3,1976,14977
+475,Densidade Residencial Baixa,Stone Brook,1 andar,5,2000,251000,2,2,1,3,1652,5330
+476,Densidade Residencial Baixa,Sawyer,1 andar,6,1963,132500,2,2,1,2,970,8480
+477,Densidade Residencial Baixa,College Creek,1 andar,5,1997,208900,3,2,1,3,1493,13125
+478,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2006,380000,3,3,1,3,2643,13693
+479,Densidade Residencial Baixa,College Creek,1 andar,5,2007,297000,3,3,1,3,1718,10637
+480,Densidade Residencial Média,Old Town,1 andar,7,1937,89471,2,2,1,1,1131,5925
+481,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2004,326000,3,3,1,3,1850,16033
+482,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,374000,2,3,1,3,1792,11846
+483,Densidade Residencial Média,Old Town,2 andares,8,1915,155000,4,1,1,3,1826,2500
+484,Densidade Residencial Média,Mitchell,1 andar,5,1998,164000,2,2,1,3,1216,4500
+485,Densidade Residencial Baixa,Sawyer,1 andar,7,1962,132500,3,1,1,2,999,7758
+486,Densidade Residencial Baixa,NAmes,1 andar,7,1950,147000,3,1,1,1,1113,9600
+487,Densidade Residencial Baixa,NAmes,1 andar,7,1965,156000,3,2,1,3,1073,10289
+488,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1971,175000,3,2,1,2,1484,12243
+489,Densidade Residencial Baixa,Old Town,2 andares,4,1900,160000,3,2,2,2,2414,10800
+490,Densidade Residencial Média,Meadow Village,2 andares,8,1970,86000,1,1,1,2,630,1526
+491,Densidade Residencial Média,Meadow Village,2 andares,6,1976,115000,3,1,1,2,1304,2665
+492,Densidade Residencial Baixa,NAmes,2 andares,7,1941,133000,3,1,1,2,1578,9490
+493,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,172785,3,2,1,3,1456,15578
+494,Densidade Residencial Baixa,NAmes,1 andar,6,1960,155000,3,1,1,2,1269,7931
+495,Densidade Residencial Média,Old Town,1 andar,8,1938,91300,2,1,1,1,886,5784
+496,C (all),Iowa DOT and Rail Road,1 andar,5,1920,34900,2,0,1,1,720,7879
+497,Densidade Residencial Baixa,Northridge,1 andar,5,1992,430000,4,2,1,4,3228,12692
+498,Densidade Residencial Baixa,Brookside,2 andares,6,1925,184000,4,1,1,3,1820,9120
+499,Densidade Residencial Baixa,Sawyer,1 andar,7,1967,130000,3,1,1,1,899,7800
+500,Densidade Residencial Baixa,NAmes,1 andar,7,1958,120000,2,1,1,2,912,7535
+501,Densidade Residencial Média,Briardale,2 andares,5,1973,113000,3,1,1,2,1218,1890
+502,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,226700,3,2,1,3,1768,9803
+503,Densidade Residencial Baixa,Edwards,1 andar,7,1965,140000,2,2,1,2,1214,9170
+504,Densidade Residencial Baixa,Crawford,1 andar,8,1959,289000,1,2,1,3,1801,15602
+505,Densidade Residencial Baixa,Northpark Villa,2 andares,5,1974,147000,3,2,1,4,1322,2308
+506,Densidade Residencial Média,Old Town,2 andares,5,1952,124500,4,2,2,2,1960,7596
+507,Densidade Residencial Baixa,Sawyer West,2 andares,5,1993,215000,3,2,1,3,1911,9554
+508,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2009,208300,2,2,1,2,1218,7862
+509,Densidade Residencial Média,Old Town,2 andares,9,1928,161000,3,2,1,2,1378,9600
+510,Densidade Residencial Baixa,NAmes,1 andar,6,1959,124500,3,1,1,2,1041,9600
+511,Densidade Residencial Baixa,NAmes,1 andar,7,1951,164900,2,1,1,2,1363,14559
+512,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,202665,2,2,1,2,1368,6792
+513,Densidade Residencial Baixa,NAmes,1 andar,5,1958,129900,3,2,1,2,864,9100
+514,Densidade Residencial Baixa,Mitchell,1 andar,5,1983,134000,3,2,1,2,1080,9187
+515,Densidade Residencial Baixa,Crawford,2 andares,5,1926,96500,2,1,1,1,789,10594
+516,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2009,402861,3,3,1,4,2020,12220
+517,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1972,158000,3,2,1,3,2119,10448
+518,Densidade Residencial Baixa,Northridge,2 andares,5,1996,265000,3,3,1,3,2344,10208
+519,Densidade Residencial Baixa,College Creek,2 andares,5,1998,211000,3,2,1,4,1796,9531
+520,Densidade Residencial Baixa,Crawford,2 andares,9,1926,234000,3,1,1,2,2080,10918
+521,Densidade Residencial Baixa,Old Town,2 andares,7,1900,106250,3,0,2,2,1294,10800
+522,Densidade Residencial Baixa,NAmes,1 andar,6,1957,150000,3,1,1,2,1244,11988
+523,Densidade Residencial Média,Brookside,2 andares,7,1947,159000,3,2,1,2,1664,5000
+524,Densidade Residencial Baixa,Edwards,2 andares,5,2007,184750,3,3,1,5,4676,40094
+525,Densidade Residencial Baixa,Northridge,2 andares,5,1996,315750,3,3,1,4,2398,11787
+526,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2005,176000,3,2,1,2,1266,7500
+527,Densidade Residencial Baixa,NAmes,1 andar,7,1956,132000,2,1,1,1,928,13300
+528,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2008,446261,3,3,1,4,2713,14948
+529,Densidade Residencial Baixa,Edwards,1 andar,7,1920,86000,2,0,1,2,605,9098
+530,Densidade Residencial Baixa,Crawford,1 andar,3,1957,200624,4,2,2,4,2515,32668
+531,Densidade Residencial Baixa,Timberland,2 andares,5,1988,175000,3,2,1,3,1509,10200
+532,Densidade Residencial Média,Brookside,2 andares,8,1920,128000,3,2,1,2,1362,6155
+533,Densidade Residencial Baixa,NAmes,1 andar,7,1955,107500,2,1,1,1,827,7200
+534,Densidade Residencial Baixa,Brookside,1 andar,3,1946,39300,1,0,1,1,334,5000
+535,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,178000,3,2,1,3,1414,9056
+536,Densidade Residencial Baixa,Edwards,2 andares,7,1910,107500,3,0,1,2,1347,7000
+537,Densidade Residencial Baixa,College Creek,2 andares,5,1998,188000,3,2,1,3,1724,8924
+538,Densidade Residencial Baixa,NAmes,1 andar,5,1972,111250,3,2,1,1,864,12735
+539,Densidade Residencial Baixa,Sawyer,1 andar,5,1968,158000,3,1,1,2,1159,11553
+540,Densidade Residencial Baixa,College Creek,1 andar,5,2001,272000,3,2,1,3,1601,11423
+541,Densidade Residencial Baixa,Timberland,1 andar,5,2006,315000,2,3,1,3,1838,14601
+542,Densidade Residencial Baixa,Northridge,2 andares,5,2000,248000,4,3,1,3,2285,11000
+543,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1998,213250,3,2,1,3,1680,10140
+544,Densidade Residencial Alta,NAmes,2 andares,5,1998,133000,1,1,1,2,767,4058
+545,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,179665,3,2,1,4,1496,17104
+546,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1988,229000,4,3,1,3,2183,13837
+547,Densidade Residencial Baixa,Brookside,2 andares,7,1923,210000,3,2,1,2,1635,8737
+548,Densidade Residencial Baixa,Mitchell,2 andares,7,1970,129500,2,2,1,2,768,7244
+549,Densidade Residencial Média,Old Town,1 andar,7,1955,125000,2,2,1,2,825,8235
+550,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2003,263000,4,2,1,3,2094,9375
+551,Densidade Residencial Baixa,Northpark Villa,1 andar,6,1977,140000,2,2,1,2,1069,4043
+552,Densidade Residencial Média,Old Town,1 andar,6,1957,112500,3,1,1,1,928,6000
+553,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,255500,3,3,1,2,1717,11146
+554,Densidade Residencial Baixa,Edwards,1 andar,5,1949,108000,2,2,1,2,1126,8777
+555,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2003,284000,3,3,1,4,2046,10625
+556,Densidade Residencial Média,Brookside,2 andares,6,1922,113000,2,1,1,1,1048,6380
+557,Densidade Residencial Baixa,NAmes,1 andar,5,1957,141000,2,1,1,2,1092,14850
+558,C (all),Iowa DOT and Rail Road,2 andares,6,1920,108000,3,1,1,2,1336,11040
+559,Densidade Residencial Baixa,Gilbert,2 andares,5,1996,175000,3,2,1,4,1446,21872
+560,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2003,234000,2,2,1,2,1557,3196
+561,Densidade Residencial Baixa,Sawyer,1 andar,6,1957,121500,3,2,1,3,1392,11341
+562,Densidade Residencial Baixa,Mitchell,1 andar,5,1974,170000,2,2,1,2,1389,10010
+563,Densidade Residencial Baixa,Edwards,1 andar,6,1940,108000,3,0,1,2,996,13907
+564,Densidade Residencial Baixa,Edwards,2 andares,7,1918,185000,4,2,1,2,1674,21780
+565,Densidade Residencial Baixa,Northridge,2 andares,5,1992,268000,4,2,1,4,2295,13346
+566,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,4,1915,128000,4,1,1,3,1647,6858
+567,Densidade Residencial Baixa,Stone Brook,2 andares,5,2005,325000,4,3,1,3,2504,11198
+568,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2004,214000,3,2,1,2,1535,10171
+569,Densidade Residencial Baixa,Sawyer West,2 andares,8,1983,316600,1,2,1,3,2132,12327
+570,Densidade Residencial Baixa,NAmes,2 andares,5,1979,135960,2,2,1,2,943,7032
+571,Densidade Residencial Baixa,NAmes,1 andar,5,1965,142600,6,2,2,2,1728,13101
+572,Densidade Residencial Baixa,NAmes,1 andar,6,1959,120000,2,1,1,2,864,7332
+573,Densidade Residencial Baixa,Timberland,2 andares,5,2009,224500,3,2,1,3,1692,13159
+574,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,170000,3,2,1,3,1430,9967
+575,Densidade Residencial Baixa,NAmes,2 andares,7,1971,139000,3,1,1,2,1109,10500
+576,Densidade Residencial Baixa,NAmes,2 andares,5,1947,118500,2,1,1,1,1216,8480
+577,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,7,1928,145000,3,1,1,3,1477,6292
+578,Densidade Residencial Baixa,Sawyer,2 andares,6,1966,164500,3,2,1,2,1320,11777
+579,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2007,146000,2,2,1,2,1392,3604
+580,Densidade Residencial Média,Old Town,2 andares,5,1954,131500,4,1,1,2,1795,12150
+581,Densidade Residencial Baixa,NAmes,1 andar,6,1960,181900,3,2,1,2,1429,14585
+582,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,253293,3,3,1,3,2042,12704
+583,Densidade Residencial Baixa,Edwards,2 andares,5,1990,118500,3,0,1,2,816,11841
+584,Densidade Residencial Média,Old Town,2 andares,9,1893,325000,3,2,1,4,2775,13500
+585,Densidade Residencial Média,Brookside,2 andares,7,1935,133000,3,1,1,1,1573,6120
+586,Densidade Residencial Baixa,Timberland,1 andar,5,2005,369900,2,3,1,3,2028,11443
+587,Densidade Residencial Baixa,Brookside,1 andar,7,1918,130000,2,1,1,2,838,10267
+588,Densidade Residencial Baixa,Sawyer,2 andares,6,1982,137000,2,2,1,2,860,8740
+589,Densidade Residencial Baixa,Clear Creek,1 andar,8,1968,143000,1,1,1,3,1473,25095
+590,Densidade Residencial Média,Brookside,1 andar,6,1930,79500,2,1,1,1,935,9100
+591,Densidade Residencial Baixa,College Creek,2 andares,5,2004,185900,3,2,1,3,1582,8320
+592,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2008,451950,3,3,1,4,2296,13478
+593,Densidade Residencial Baixa,Mitchell,1 andar,8,1982,138000,2,2,1,2,816,6600
+594,Densidade Residencial Média,College Creek,1 andar,5,2003,140000,1,2,1,2,848,4435
+595,Densidade Residencial Baixa,College Creek,1 andar,6,1975,110000,3,1,1,1,924,7990
+596,Densidade Residencial Baixa,Stone Brook,1 andar,5,2005,319000,3,3,1,3,1826,11302
+597,Densidade Residencial Média,Old Town,2 andares,7,1910,114504,3,1,1,1,1368,3600
+598,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2006,194201,2,3,1,4,1402,3922
+599,Densidade Residencial Baixa,Crawford,1 andar,6,1977,217500,3,2,1,3,1647,12984
+600,Densidade Residencial Média,Bluestem,2 andares,6,1980,151000,3,2,1,4,1556,1950
+601,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,275000,3,2,1,4,1904,10927
+602,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1937,141000,3,1,1,2,1375,9000
+603,Densidade Residencial Baixa,Sawyer West,2 andares,5,1992,220000,3,2,1,4,1915,10041
+604,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2004,151000,2,2,1,3,1200,3182
+605,Densidade Residencial Baixa,College Creek,1 andar,5,2002,221000,3,2,1,3,1494,12803
+606,Densidade Residencial Baixa,NAmes,2 andares,6,1965,205000,3,2,1,3,1986,13600
+607,Densidade Residencial Baixa,College Creek,1 andar,5,1996,152000,3,2,1,2,1040,12464
+608,Densidade Residencial Baixa,Edwards,2 andares,8,1948,225000,3,1,1,4,2008,7800
+609,Densidade Residencial Baixa,Crawford,2 andares,6,1934,359100,4,2,1,3,3194,12168
+610,Densidade Residencial Baixa,Sawyer,1 andar,5,1961,118500,3,1,1,2,1029,7943
+611,Densidade Residencial Baixa,College Creek,2 andares,5,2000,313000,3,3,1,4,2153,11050
+612,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1978,148000,3,2,1,3,1032,10395
+613,Densidade Residencial Baixa,College Creek,2 andares,5,2001,261500,3,2,1,4,1872,11885
+614,Densidade Residencial Baixa,Mitchell,1 andar,5,2007,147000,3,0,1,1,1120,8402
+615,Densidade Residencial Média,Meadow Village,2 andares,6,1972,75500,1,0,1,2,630,1491
+616,Densidade Residencial Baixa,NAmes,2 andares,7,1963,137500,3,2,1,2,1054,8800
+617,Densidade Residencial Baixa,Gilbert,2 andares,5,2002,183200,3,2,1,4,1509,7861
+618,Densidade Residencial Baixa,NAmes,2 andares,6,1954,105500,2,2,1,1,832,7227
+619,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,314813,3,3,1,2,1828,11694
+620,Densidade Residencial Baixa,Timberland,2 andares,5,2003,305000,4,3,1,4,2262,12244
+621,Densidade Residencial Baixa,Edwards,1 andar,3,1914,67000,2,0,1,2,864,8248
+622,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1974,240000,4,2,1,3,2614,10800
+623,Densidade Residencial Baixa,Sawyer,1 andar,6,1977,135000,3,2,1,1,980,7064
+624,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,168500,2,2,1,3,1512,2117
+625,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1972,165150,4,2,1,4,1790,10400
+626,Densidade Residencial Baixa,NAmes,1 andar,6,1962,160000,3,2,1,2,1116,10000
+627,Densidade Residencial Baixa,NAmes,1 andar,5,1960,139900,3,1,1,1,1422,12342
+628,Densidade Residencial Baixa,NAmes,2 andares,6,1955,153000,3,1,1,2,1520,9600
+629,Densidade Residencial Baixa,NAmes,2 andares,5,1969,135000,5,2,1,4,2080,11606
+630,Densidade Residencial Baixa,NAmes,2 andares,5,1964,168500,3,2,1,3,1350,9020
+631,Densidade Residencial Média,Old Town,2 andares,6,1880,124000,3,1,1,1,1750,9000
+632,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,209500,2,2,1,2,1554,4590
+633,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1977,82500,3,2,1,2,1411,11900
+634,Densidade Residencial Baixa,NAmes,1 andar,7,1954,139400,3,1,1,2,1056,9250
+635,Densidade Residencial Baixa,Old Town,2 andares,5,1980,144000,0,2,2,2,1056,6979
+636,Densidade Residencial Alta,South & West of Iowa State University,2 andares,7,1914,200000,8,0,2,2,3395,10896
+637,Densidade Residencial Média,Brookside,1 andar,3,1936,60000,1,0,1,1,800,6120
+638,Densidade Residencial Média,Old Town,2 andares,4,1954,93000,3,1,2,2,1387,6000
+639,Densidade Residencial Baixa,Edwards,1 andar,7,1910,85000,2,0,1,1,796,8777
+640,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2006,264561,1,3,1,3,1567,3982
+641,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,274000,1,2,1,2,1518,12677
+642,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2001,226000,3,2,1,4,1929,7050
+643,Densidade Residencial Baixa,NAmes,2 andares,7,1972,345000,4,2,1,4,2704,13860
+644,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1969,152000,4,2,1,3,1620,10793
+645,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2009,370878,2,3,1,4,1766,9187
+646,Densidade Residencial Baixa,NAmes,1 andar,5,1971,143250,3,2,1,3,981,10530
+647,Densidade Residencial Baixa,NAmes,1 andar,5,1950,98300,3,2,1,1,1048,7200
+648,Densidade Residencial Baixa,Edwards,1 andar,5,1953,155000,3,2,1,1,1094,10452
+649,Densidade Residencial Baixa,NAmes,2 andares,5,1966,155000,4,2,1,2,1839,7700
+650,Densidade Residencial Média,Meadow Village,2 andares,6,1970,84500,1,0,1,2,630,1936
+651,Área Residencial de Vilas Flutuantes,Somerset,2 andares,6,2007,205950,3,2,1,3,1665,8125
+652,Densidade Residencial Baixa,Edwards,2 andares,5,1940,108000,4,1,1,2,1510,9084
+653,Densidade Residencial Baixa,College Creek,2 andares,5,1996,191000,2,2,1,3,1716,8750
+654,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1906,135000,3,1,1,1,1469,10320
+655,Densidade Residencial Baixa,Northridge,1 andar,6,1995,350000,2,3,1,4,2113,10437
+656,Densidade Residencial Média,Briardale,2 andares,5,1971,88000,3,1,1,2,1092,1680
+657,Densidade Residencial Baixa,NAmes,1 andar,7,1959,145500,3,1,1,3,1053,10007
+658,Densidade Residencial Baixa,Crawford,2 andares,6,1931,149000,3,1,1,2,1502,7200
+659,Densidade Residencial Baixa,NAmes,2 andares,5,1948,97500,3,1,1,2,1458,17503
+660,Densidade Residencial Baixa,Edwards,1 andar,7,1964,167000,3,2,1,2,1486,9937
+661,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1976,197900,3,2,1,3,1935,12384
+662,Densidade Residencial Baixa,Northridge,2 andares,7,1994,402000,4,3,1,4,2448,46589
+663,Densidade Residencial Baixa,NAmes,1 andar,3,1968,110000,2,2,1,2,1392,13560
+664,Densidade Residencial Baixa,Edwards,2 andares,5,1972,137500,3,2,1,3,1181,10012
+665,Densidade Residencial Baixa,Somerset,1 andar,5,2005,423000,1,3,1,3,2097,20896
+666,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,230500,3,2,1,3,1936,11194
+667,Densidade Residencial Baixa,NAmes,2 andares,5,1965,129000,3,2,1,3,2380,18450
+668,Densidade Residencial Baixa,Sawyer West,1 andar,5,1994,193500,3,2,1,3,1679,8125
+669,Densidade Residencial Baixa,Sawyer,1 andar,6,1956,168000,3,2,1,3,1437,14175
+670,Densidade Residencial Baixa,Crawford,1 andar,5,1922,137500,2,1,1,1,1180,11600
+671,Densidade Residencial Baixa,College Creek,2 andares,5,2005,173500,3,2,1,4,1476,8633
+672,Densidade Residencial Alta,Edwards,2 andares,6,1925,103600,3,1,1,3,1369,6629
+673,Densidade Residencial Baixa,Veenker,1 andar,6,1977,165000,3,2,1,3,1208,11250
+674,Densidade Residencial Baixa,Crawford,1 andar,7,1957,257500,3,2,1,3,1839,14442
+675,Densidade Residencial Baixa,NAmes,1 andar,6,1965,140000,3,1,1,2,1136,9200
+676,Densidade Residencial Baixa,Northpark Villa,2 andares,6,1978,148500,3,2,1,3,1441,2289
+677,Densidade Residencial Média,Old Town,2 andares,2,1900,87000,4,3,2,3,1774,9600
+678,Densidade Residencial Baixa,Old Town,1 andar,8,1924,109500,2,1,1,1,792,9022
+679,Densidade Residencial Baixa,Stone Brook,1 andar,5,2008,372500,3,3,1,3,2046,11844
+680,Densidade Residencial Baixa,Sawyer,1 andar,5,1961,128500,3,2,1,2,988,9945
+681,Densidade Residencial Baixa,Sawyer West,1 andar,5,1980,143000,2,1,1,2,923,8012
+682,Densidade Residencial Alta,South & West of Iowa State University,2 andares,5,1932,159434,3,1,1,1,1520,4500
+683,Densidade Residencial Baixa,Clear Creek,1 andar,5,1996,173000,2,2,1,2,1291,2887
+684,Densidade Residencial Baixa,College Creek,1 andar,5,2002,285000,3,3,1,3,1668,11248
+685,Densidade Residencial Baixa,Northridge,2 andares,5,1998,221000,4,2,1,3,1839,16770
+686,Densidade Residencial Baixa,Stone Brook,2 andares,5,1984,207500,3,2,1,3,2090,5062
+687,Área Residencial de Vilas Flutuantes,Somerset,2 andares,6,2007,227875,3,2,1,3,1761,10207
+688,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2004,148800,2,2,1,3,1102,5105
+689,Densidade Residencial Baixa,Stone Brook,1 andar,6,2007,392000,2,2,1,3,1419,8089
+690,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,194700,2,2,1,2,1362,7577
+691,Densidade Residencial Média,College Creek,1 andar,5,2004,141000,1,2,1,2,848,4426
+692,Densidade Residencial Baixa,Northridge,2 andares,6,1994,755000,4,3,1,5,4316,21535
+693,Densidade Residencial Baixa,Timberland,2 andares,5,1989,335000,4,2,1,4,2519,26178
+694,Densidade Residencial Baixa,Old Town,1 andar,6,1921,108480,2,1,1,1,1073,5400
+695,Densidade Residencial Média,Brookside,2 andares,6,1936,141500,3,2,1,2,1539,6120
+696,Densidade Residencial Baixa,Timberland,1 andar,6,1987,176000,2,2,1,3,1137,13811
+697,Densidade Residencial Média,Brookside,1 andar,7,1921,89000,2,1,1,1,616,6000
+698,Densidade Residencial Baixa,Edwards,1 andar,7,1952,123500,2,1,1,2,1148,6420
+699,Densidade Residencial Baixa,Sawyer,1 andar,8,1965,138500,3,1,1,2,894,8450
+700,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2004,196000,2,2,1,2,1391,4282
+701,Densidade Residencial Baixa,Timberland,1 andar,5,2002,312500,3,3,1,3,1800,14331
+702,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1969,140000,3,2,1,2,1164,9600
+703,Densidade Residencial Baixa,Stone Brook,2 andares,5,2006,361919,4,3,1,3,2576,12438
+704,Densidade Residencial Média,Old Town,2 andares,9,1900,140000,4,2,2,2,1812,7630
+705,Densidade Residencial Baixa,College Creek,1 andar,5,2004,213000,3,2,1,3,1484,8400
+706,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1930,55000,3,0,2,2,1092,5600
+707,Densidade Residencial Baixa,Clear Creek,1 andar,5,1971,302000,2,2,1,3,1824,115149
+708,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,254000,2,2,1,3,1324,6240
+709,Densidade Residencial Baixa,Gilbert,2 andares,5,2007,179540,3,2,1,3,1456,9018
+710,Densidade Residencial Baixa,Sawyer,1 andar,7,1966,109900,3,1,1,1,904,7162
+711,Densidade Residencial Baixa,Brookside,1 andar,6,1935,52000,2,0,1,1,729,4130
+712,C (all),Iowa DOT and Rail Road,2 andares,7,1900,102776,2,1,1,1,1178,8712
+713,Densidade Residencial Baixa,Stone Brook,1 andar,5,1988,189000,2,2,1,3,1228,4671
+714,Densidade Residencial Baixa,Brookside,1 andar,5,1970,129000,3,2,1,2,960,9873
+715,Densidade Residencial Baixa,Sawyer,2 andares,8,1976,130500,3,2,1,3,1479,13517
+716,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1974,165000,3,2,1,2,1350,10140
+717,Densidade Residencial Média,Old Town,2 andares,8,1890,159500,3,2,1,2,2554,10800
+718,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1973,157000,3,2,1,3,1178,10000
+719,Densidade Residencial Baixa,Northridge,2 andares,5,1993,341000,3,3,1,4,2418,10542
+720,Densidade Residencial Baixa,College Creek,1 andar,6,1969,128500,3,1,1,2,971,9920
+721,Densidade Residencial Baixa,Stone Brook,1 andar,5,1985,275000,2,2,1,3,1742,6563
+722,Densidade Residencial Média,College Creek,1 andar,5,2004,143000,1,2,1,2,848,4426
+723,Densidade Residencial Baixa,NAmes,1 andar,7,1970,124500,3,2,1,1,864,8120
+724,Densidade Residencial Baixa,Edwards,2 andares,6,1954,135000,4,1,1,2,1470,8172
+725,Densidade Residencial Baixa,Edwards,1 andar,5,2007,320000,3,3,1,3,1698,13286
+726,Densidade Residencial Baixa,NAmes,1 andar,6,1970,120500,3,2,1,1,864,6960
+727,Densidade Residencial Baixa,Crawford,1 andar,9,1988,222000,3,2,1,3,1680,21695
+728,Densidade Residencial Baixa,College Creek,1 andar,5,2007,194500,2,2,1,3,1232,7314
+729,Densidade Residencial Baixa,NAmes,1 andar,5,1958,110000,4,3,2,3,1776,11475
+730,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,5,1925,103000,2,2,1,1,1208,6240
+731,Densidade Residencial Baixa,Stone Brook,1 andar,5,1995,236500,2,2,1,3,1616,5389
+732,Densidade Residencial Baixa,Timberland,2 andares,5,2003,187500,3,2,1,3,1146,9590
+733,Densidade Residencial Baixa,College Creek,2 andares,5,1998,222500,3,2,1,3,2031,11404
+734,Densidade Residencial Baixa,Sawyer,1 andar,6,1961,131400,3,1,1,2,1144,10000
+735,Densidade Residencial Baixa,Sawyer,1 andar,5,1968,108000,3,1,1,1,948,8978
+736,Densidade Residencial Média,Old Town,2 andares,7,1914,163000,2,2,1,2,1768,10800
+737,Densidade Residencial Baixa,NAmes,1 andar,4,1950,93500,2,2,2,2,1040,8544
+738,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,239900,3,3,1,3,1801,10463
+739,Densidade Residencial Baixa,Edwards,1 andar,5,1987,179000,3,0,1,6,1200,10800
+740,Densidade Residencial Baixa,College Creek,2 andares,5,2004,190000,3,2,1,3,1728,9313
+741,Densidade Residencial Média,Old Town,2 andares,7,1910,132000,2,2,1,2,1432,9600
+742,Densidade Residencial Baixa,Sawyer,1 andar,8,1961,142000,3,1,1,3,912,6768
+743,Densidade Residencial Baixa,Sawyer West,1 andar,5,2000,179000,3,2,1,2,1349,8450
+744,Densidade Residencial Baixa,Sawyer,2 andares,6,1963,175000,3,2,1,3,1464,12886
+745,Densidade Residencial Baixa,Stone Brook,1 andar,5,1993,180000,2,2,1,3,1337,5395
+746,Densidade Residencial Baixa,Northwest Ames,2 andares,9,1976,299800,4,2,1,5,2715,8963
+747,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,236000,4,2,1,3,2256,8795
+748,Densidade Residencial Média,Old Town,2 andares,7,1880,265979,4,4,1,2,2640,11700
+749,Densidade Residencial Baixa,Northridge,1 andar,5,1996,260400,3,2,1,3,1720,10593
+750,Densidade Residencial Baixa,Edwards,2 andares,3,1945,98000,4,1,1,2,1529,8405
+751,Densidade Residencial Média,Old Town,2 andares,7,1910,96500,3,0,1,1,1140,8800
+752,Densidade Residencial Baixa,Gilbert,2 andares,5,2003,162000,3,2,1,3,1320,7750
+753,Densidade Residencial Baixa,College Creek,1 andar,5,1997,217000,3,2,1,3,1494,9236
+754,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2005,275500,3,3,1,3,2098,10240
+755,Densidade Residencial Baixa,NAmes,1 andar,8,1969,156000,3,2,1,2,1026,7930
+756,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,172500,3,2,1,3,1471,3230
+757,Densidade Residencial Baixa,College Creek,2 andares,5,2007,212000,3,2,1,3,1768,10769
+758,Densidade Residencial Baixa,Sawyer,2 andares,5,1978,158900,3,2,1,3,1386,11616
+759,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,179400,3,2,1,3,1501,2280
+760,Densidade Residencial Baixa,Northridge,2 andares,5,1995,290000,4,3,1,3,2531,12257
+761,Densidade Residencial Baixa,NAmes,1 andar,6,1959,127500,2,1,1,1,864,9100
+762,Densidade Residencial Média,Brookside,1 andar,5,1924,100000,2,2,1,1,1301,6911
+763,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2009,215200,3,2,1,3,1547,8640
+764,Densidade Residencial Baixa,Northridge,2 andares,5,1999,337000,3,3,1,4,2365,9430
+765,Densidade Residencial Baixa,Veenker,1 andar,5,1995,270000,2,2,1,3,1494,9549
+766,Densidade Residencial Baixa,Somerset,1 andar,5,2008,264132,2,2,1,2,1506,14587
+767,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1988,196500,3,2,1,3,1714,10421
+768,Densidade Residencial Baixa,Mitchell,2 andares,7,1940,160000,4,1,1,3,1750,12508
+769,Densidade Residencial Baixa,College Creek,1 andar,5,2004,216837,3,2,1,2,1836,9100
+770,Densidade Residencial Baixa,Stone Brook,2 andares,5,2003,538000,4,3,1,5,3279,53504
+771,Densidade Residencial Baixa,Sawyer,2 andares,5,1982,134900,2,2,1,2,858,7252
+772,Densidade Residencial Baixa,Edwards,1 andar,5,1951,102000,2,2,1,1,1220,8877
+773,Densidade Residencial Baixa,Edwards,2 andares,5,1976,107000,3,2,1,2,1117,7819
+774,Densidade Residencial Baixa,NAmes,1 andar,5,1958,114500,2,1,1,1,912,10150
+775,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,395000,3,3,1,2,1973,14226
+776,Densidade Residencial Média,Mitchell,1 andar,5,1998,162000,2,2,1,3,1204,4500
+777,Densidade Residencial Baixa,College Creek,1 andar,5,2005,221500,3,3,1,2,1614,11210
+778,Densidade Residencial Baixa,Sawyer,1 andar,5,1974,142500,3,2,1,2,894,13350
+779,Densidade Residencial Alta,Sawyer West,1 andar,5,1977,144000,4,2,2,2,2020,8400
+780,Densidade Residencial Baixa,Mitchell,2 andares,5,1977,135000,2,2,1,2,1004,10530
+781,Densidade Residencial Baixa,Gilbert,1 andar,5,1995,176000,3,2,1,2,1253,7875
+782,Densidade Residencial Baixa,Sawyer West,2 andares,5,1992,175900,3,2,1,3,1603,7153
+783,Densidade Residencial Baixa,College Creek,1 andar,5,2001,187100,3,2,1,2,1430,16285
+784,Densidade Residencial Baixa,Mitchell,2 andares,6,1978,165500,1,2,1,2,1110,9101
+785,Densidade Residencial Média,Old Town,2 andares,6,1914,128000,3,0,1,2,1484,6300
+786,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1967,161500,3,2,1,2,1342,9790
+787,Densidade Residencial Média,Old Town,2 andares,6,1915,139000,4,1,1,3,1652,10800
+788,Densidade Residencial Baixa,Sawyer West,2 andares,5,2004,233000,4,2,1,4,2084,10142
+789,Densidade Residencial Média,Old Town,1 andar,7,1954,107900,2,1,1,1,901,6000
+790,Densidade Residencial Baixa,Clear Creek,2 andares,8,1966,187500,5,2,1,3,2087,12205
+791,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2005,160200,2,2,1,2,1145,3182
+792,Densidade Residencial Baixa,Mitchell,2 andares,5,1976,146800,3,2,1,2,1062,11333
+793,Densidade Residencial Baixa,Northridge,2 andares,5,1996,269790,3,2,1,4,2013,9920
+794,Densidade Residencial Baixa,Somerset,1 andar,5,2007,225000,3,2,1,2,1496,9158
+795,Densidade Residencial Baixa,Gilbert,2 andares,5,1994,194500,3,2,1,3,1895,10832
+796,Densidade Residencial Baixa,Sawyer West,2 andares,6,1980,171000,3,2,1,3,1564,8400
+797,Densidade Residencial Baixa,Sawyer,1 andar,5,1977,143500,3,2,1,2,1285,8197
+798,Densidade Residencial Baixa,NAmes,1 andar,5,1953,110000,2,1,1,1,773,7677
+799,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2008,485000,4,3,1,4,3140,13518
+800,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,7,1937,175000,3,1,1,3,1768,7200
+801,Densidade Residencial Baixa,Clear Creek,2 andares,5,1997,200000,4,2,1,4,1688,12798
+802,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,7,1916,109900,2,2,1,2,1196,4800
+803,Densidade Residencial Baixa,College Creek,2 andares,5,2005,189000,3,2,1,4,1456,8199
+804,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2008,582933,4,3,1,4,2822,13891
+805,Densidade Residencial Baixa,NAmes,1 andar,5,1954,118000,2,1,1,1,1128,9000
+806,Densidade Residencial Baixa,Somerset,1 andar,5,2008,227680,3,2,1,2,1428,12274
+807,Densidade Residencial Baixa,NAmes,2 andares,5,1967,135500,3,1,1,2,980,9750
+808,Densidade Residencial Baixa,Brookside,2 andares,6,1923,223500,3,2,1,4,1576,21384
+809,Densidade Residencial Baixa,NAmes,2 andares,5,1966,159950,3,2,1,2,1086,13400
+810,Densidade Residencial Média,Old Town,2 andares,5,1898,106000,2,2,3,2,2138,8100
+811,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1974,181000,3,2,1,3,1309,10140
+812,Densidade Residencial Média,College Creek,1 andar,5,2004,144500,1,2,1,2,848,4438
+813,C (all),Iowa DOT and Rail Road,1 andar,5,1952,55993,2,2,1,1,1044,8712
+814,Densidade Residencial Baixa,NAmes,1 andar,6,1958,157900,4,1,1,2,1442,9750
+815,Densidade Residencial Baixa,Edwards,2 andares,7,1918,116000,3,1,1,3,1250,8248
+816,Densidade Residencial Baixa,College Creek,1 andar,5,1998,224900,3,2,1,2,1661,12137
+817,Densidade Residencial Baixa,NAmes,1 andar,6,1954,137000,2,1,1,1,1008,11425
+818,Densidade Residencial Baixa,Mitchell,1 andar,5,2002,271000,3,3,1,3,1689,13265
+819,Densidade Residencial Baixa,Clear Creek,2 andares,7,1971,155000,3,2,1,2,1052,8816
+820,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2009,224000,2,2,1,3,1358,6371
+821,Densidade Residencial Baixa,College Creek,2 andares,5,2003,183000,3,2,1,3,1640,7226
+822,Densidade Residencial Média,Old Town,1 andar,4,1953,93000,2,2,1,1,936,6000
+823,Densidade Residencial Baixa,Gilbert,2 andares,5,2003,225000,3,2,1,3,1733,12394
+824,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,7,1940,139500,3,1,1,2,1489,9900
+825,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,232600,3,2,1,2,1489,11216
+826,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,385000,2,3,1,3,2084,14803
+827,Densidade Residencial Média,Brookside,2 andares,6,1924,109500,2,0,1,2,784,6130
+828,Densidade Residencial Baixa,Sawyer West,1 andar,5,2001,189000,3,2,1,2,1434,8529
+829,Densidade Residencial Baixa,Clear Creek,2 andares,5,1967,185000,3,2,1,4,2126,28698
+830,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,147400,2,2,1,3,1223,2544
+831,Densidade Residencial Baixa,NAmes,1 andar,5,1957,166000,3,2,1,3,1392,11900
+832,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,151000,2,2,1,3,1200,3180
+833,Densidade Residencial Baixa,College Creek,2 andares,6,2003,237000,3,2,1,4,1829,9548
+834,Densidade Residencial Baixa,NAmes,1 andar,6,1964,167000,3,2,1,2,1516,10004
+835,Densidade Residencial Baixa,NAmes,1 andar,6,1961,139950,3,2,1,2,1144,7875
+836,Densidade Residencial Baixa,Sawyer,1 andar,7,1950,128000,2,2,1,2,1067,9600
+837,Densidade Residencial Média,Old Town,1 andar,6,1948,153500,2,2,1,2,1559,8100
+838,Densidade Residencial Média,Briardale,2 andares,5,1973,100000,2,1,1,3,987,1680
+839,Densidade Residencial Baixa,College Creek,1 andar,6,1995,144000,3,1,1,2,1099,9525
+840,Densidade Residencial Baixa,Edwards,2 andares,6,1946,130500,3,1,1,1,1200,11767
+841,Densidade Residencial Alta,South & West of Iowa State University,2 andares,8,1925,140000,4,1,1,2,1482,12155
+842,Densidade Residencial Média,Old Town,2 andares,8,1904,157500,3,2,1,2,1539,10440
+843,Densidade Residencial Baixa,NAmes,2 andares,7,1966,174900,3,2,1,3,1165,9020
+844,Densidade Residencial Baixa,NAmes,1 andar,4,1961,141000,6,0,2,2,1800,8000
+845,Densidade Residencial Média,Old Town,2 andares,8,1915,153900,4,3,1,2,1416,12665
+846,Densidade Residencial Baixa,Sawyer,2 andares,5,1975,171000,3,2,1,3,1701,16647
+847,Densidade Residencial Baixa,Sawyer West,2 andares,5,1993,213000,3,2,1,4,1775,9317
+848,Densidade Residencial Baixa,College Creek,1 andar,6,1972,133500,3,1,1,2,864,15523
+849,Densidade Residencial Baixa,Clear Creek,2 andares,8,1908,240000,5,2,1,3,2358,45600
+850,Densidade Residencial Baixa,Veenker,2 andares,7,1976,187000,3,2,1,3,1855,9600
+851,Densidade Residencial Média,College Creek,1 andar,5,2003,131500,1,2,1,2,848,4435
+852,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2003,215000,2,2,1,2,1456,3196
+853,Densidade Residencial Baixa,Crawford,2 andares,5,1941,164000,4,1,1,2,1646,7128
+854,Densidade Residencial Baixa,NAmes,2 andares,6,1964,158000,3,2,1,2,1445,12095
+855,Densidade Residencial Baixa,Sawyer,1 andar,4,1955,170000,3,2,1,3,1779,17920
+856,Densidade Residencial Baixa,Sawyer,1 andar,8,1962,127000,3,1,1,3,1040,6897
+857,Densidade Residencial Baixa,College Creek,2 andares,6,1978,147000,3,2,1,2,1026,10970
+858,Densidade Residencial Baixa,Gilbert,2 andares,5,1994,174000,3,2,1,3,1481,8125
+859,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1976,152000,3,2,1,2,1370,10400
+860,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1968,250000,4,2,1,4,2654,11029
+861,Densidade Residencial Baixa,Crawford,2 andares,8,1918,189950,3,1,1,2,1426,7642
+862,Densidade Residencial Baixa,Sawyer,1 andar,4,1965,131500,3,2,1,3,1039,11625
+863,Densidade Residencial Baixa,Sawyer West,1 andar,5,1984,152000,3,2,1,2,1097,9672
+864,Densidade Residencial Baixa,NAmes,1 andar,5,1959,132500,3,1,1,2,1148,7931
+865,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2007,250580,3,2,1,2,1372,8640
+866,Densidade Residencial Baixa,NAmes,1 andar,6,1970,148500,3,2,1,2,1002,8750
+867,Densidade Residencial Baixa,Timberland,1 andar,5,2006,248900,3,3,1,2,1646,10656
+868,Densidade Residencial Baixa,Sawyer,1 andar,5,1961,129000,3,2,1,3,1120,6970
+869,Densidade Residencial Baixa,Gilbert,2 andares,6,1948,169000,2,2,1,2,2320,14762
+870,Densidade Residencial Baixa,Sawyer West,2 andares,5,1993,236000,3,2,1,4,1949,9938
+871,Densidade Residencial Baixa,NAmes,1 andar,5,1962,109500,2,1,1,1,894,6600
+872,Densidade Residencial Baixa,College Creek,2 andares,5,1998,200500,3,2,1,3,1682,8750
+873,Densidade Residencial Baixa,NAmes,1 andar,7,1953,116000,3,2,1,1,910,8892
+874,Densidade Residencial Baixa,NAmes,1 andar,7,1949,133000,3,1,1,1,1268,12144
+875,Densidade Residencial Média,Old Town,2 andares,6,1941,66500,3,1,1,2,1131,5720
+876,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2007,303477,4,2,1,3,2610,9000
+877,Densidade Residencial Baixa,Mitchell,1 andar,5,1963,132250,3,2,1,2,1040,25286
+878,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2004,350000,4,3,1,4,2224,8834
+879,Densidade Residencial Baixa,Sawyer,2 andares,7,1961,148000,3,2,1,2,1155,11782
+880,Densidade Residencial Baixa,College Creek,1 andar,8,1978,136500,3,1,1,2,864,7000
+881,Densidade Residencial Baixa,Edwards,1 andar,5,2005,157000,2,2,1,3,1090,7024
+882,Densidade Residencial Baixa,Timberland,2 andares,5,1990,187500,3,2,1,3,1717,13758
+883,Densidade Residencial Baixa,Gilbert,2 andares,5,1992,178000,3,2,1,3,1593,9636
+884,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,5,1912,118500,5,1,1,2,2230,6204
+885,Densidade Residencial Baixa,NAmes,1 andar,5,1967,100000,3,1,1,1,892,7150
+886,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,1999,328900,2,2,1,3,1709,5119
+887,Densidade Residencial Baixa,NAmes,1 andar,5,1959,145000,4,2,2,2,1712,8393
+888,Densidade Residencial Baixa,Edwards,2 andares,7,1955,135500,3,1,1,2,1393,16466
+889,Densidade Residencial Baixa,NAmes,1 andar,6,1970,268000,4,2,1,3,2217,15865
+890,Densidade Residencial Baixa,NAmes,1 andar,4,1953,149500,2,2,1,2,1505,12160
+891,Densidade Residencial Baixa,NAmes,2 andares,7,1949,122900,3,2,1,1,924,8064
+892,Densidade Residencial Baixa,Sawyer,2 andares,5,1978,172500,3,2,1,3,1683,11184
+893,Densidade Residencial Baixa,Sawyer,1 andar,8,1963,154500,3,1,1,2,1068,8414
+894,Densidade Residencial Baixa,Sawyer,1 andar,5,1954,165000,3,1,1,2,1383,13284
+895,Densidade Residencial Baixa,Sawyer West,1 andar,5,1979,118858,4,2,2,2,1535,7018
+896,Densidade Residencial Baixa,NAmes,2 andares,5,1963,140000,4,2,1,3,1796,7056
+897,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,6,1936,106500,2,1,1,1,951,8765
+898,Densidade Residencial Baixa,Sawyer West,2 andares,5,1979,142953,6,2,2,2,2240,7018
+899,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2009,611657,2,3,1,4,2364,12919
+900,Densidade Residencial Baixa,Sawyer,1 andar,7,1961,135000,3,1,1,1,1236,6993
+901,Densidade Residencial Baixa,NAmes,1 andar,6,1971,110000,2,1,1,1,858,7340
+902,Densidade Residencial Baixa,NAmes,1 andar,7,1957,153000,2,1,1,2,1306,8712
+903,Densidade Residencial Baixa,Gilbert,2 andares,5,2003,180000,3,2,1,3,1509,7875
+904,Densidade Residencial Baixa,Gilbert,1 andar,5,2006,240000,3,3,1,2,1670,14859
+905,Densidade Residencial Baixa,Sawyer,1 andar,6,1967,125500,3,1,1,1,902,6173
+906,Densidade Residencial Baixa,NAmes,1 andar,5,1954,128000,3,1,1,2,1063,9920
+907,Densidade Residencial Baixa,Somerset,1 andar,5,2006,255000,3,3,1,3,1636,13501
+908,Densidade Residencial Baixa,Crawford,2 andares,7,1936,250000,3,1,1,2,2057,11500
+909,Densidade Residencial Baixa,Mitchell,1 andar,5,1983,131000,2,2,1,2,902,8885
+910,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,174000,3,2,1,3,1484,12589
+911,Densidade Residencial Baixa,NAmes,2 andares,5,1960,154300,5,2,2,2,2274,11600
+912,Densidade Residencial Baixa,College Creek,1 andar,7,1977,143500,3,1,1,2,1268,9286
+913,Densidade Residencial Média,Brookside,1 andar,7,1925,88000,3,1,1,1,1015,6120
+914,Densidade Residencial Alta,Crawford,2 andares,6,1949,145000,4,3,2,2,2002,6270
+915,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2009,173733,2,2,1,3,1224,3000
+916,Densidade Residencial Média,Meadow Village,2 andares,5,1970,75000,3,1,1,2,1092,2001
+917,C (all),Iowa DOT and Rail Road,1 andar,3,1949,35311,1,1,1,1,480,9000
+918,Densidade Residencial Baixa,Edwards,1 andar,6,1956,135000,3,1,1,1,1229,17140
+919,Densidade Residencial Baixa,Sawyer West,2 andares,5,1991,238000,4,3,1,4,2127,13125
+920,Densidade Residencial Baixa,NAmes,1 andar,8,1958,176500,3,2,1,2,1414,11029
+921,Densidade Residencial Baixa,Sawyer West,2 andares,5,1994,201000,3,2,1,4,1721,8462
+922,Densidade Residencial Baixa,Edwards,2 andares,7,1900,145900,4,0,2,6,2200,8777
+923,Densidade Residencial Baixa,Gilbert,1 andar,5,2005,169990,3,2,1,2,1316,10237
+924,Densidade Residencial Baixa,Sawyer West,1 andar,5,1993,193000,2,2,1,3,1617,8012
+925,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1980,207500,3,2,1,3,1686,10240
+926,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1977,175000,3,2,1,3,1126,15611
+927,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2003,285000,4,3,1,3,2374,11999
+928,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1968,176000,4,2,1,3,1978,9900
+929,Densidade Residencial Baixa,College Creek,1 andar,5,2001,236500,3,2,1,2,1788,11838
+930,Densidade Residencial Baixa,Gilbert,2 andares,5,1997,222000,4,2,1,3,2236,13006
+931,Densidade Residencial Baixa,Timberland,1 andar,5,2007,201000,3,3,1,2,1466,8925
+932,Densidade Residencial Baixa,NAmes,1 andar,6,1965,117500,2,1,1,2,925,9100
+933,Densidade Residencial Baixa,Somerset,1 andar,5,2006,320000,3,3,1,2,1905,11670
+934,Densidade Residencial Baixa,College Creek,1 andar,5,2004,190000,3,2,1,2,1500,8487
+935,Densidade Residencial Baixa,NAmes,1 andar,7,1960,242000,4,2,1,3,2069,27650
+936,Densidade Residencial Baixa,Brookside,1 andar,5,1926,79900,1,2,1,1,747,5825
+937,Densidade Residencial Baixa,Sawyer West,1 andar,5,2003,184900,2,2,1,3,1200,10083
+938,Densidade Residencial Baixa,Somerset,2 andares,5,2005,253000,3,2,1,3,1971,9675
+939,Densidade Residencial Baixa,College Creek,2 andares,5,2006,239799,3,3,1,3,1962,8760
+940,Densidade Residencial Baixa,Clear Creek,2 andares,7,1940,244400,4,1,1,2,2403,24090
+941,Densidade Residencial Baixa,Mitchell,1 andar,5,1976,150900,4,2,2,2,1728,12640
+942,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,214000,3,2,1,4,2060,8755
+943,Densidade Residencial Baixa,Edwards,1 andar,3,1977,150000,4,0,2,4,1440,7711
+944,Densidade Residencial Baixa,Mitchell,1 andar,4,1967,143000,4,2,2,2,1632,25000
+945,Densidade Residencial Baixa,Timberland,2 andares,6,1958,137500,3,2,1,2,1344,14375
+946,Densidade Residencial Média,Old Town,2 andares,6,1890,124900,2,2,1,1,1869,8820
+947,Densidade Residencial Baixa,NAmes,2 andares,6,1959,143000,3,1,1,2,1144,8163
+948,Densidade Residencial Baixa,Timberland,1 andar,5,2002,270000,3,3,1,3,1629,14536
+949,Densidade Residencial Baixa,College Creek,2 andares,5,2002,192500,3,2,1,3,1776,14006
+950,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1972,197500,3,2,1,3,1381,9360
+951,Densidade Residencial Baixa,NAmes,1 andar,8,1950,129000,3,2,1,2,864,7200
+952,Densidade Residencial Alta,Sawyer West,1 andar,5,1965,119900,3,1,1,2,965,7800
+953,Densidade Residencial Baixa,College Creek,2 andares,8,1972,133900,2,1,1,2,768,7200
+954,Densidade Residencial Baixa,Mitchell,2 andares,4,1969,172000,4,2,1,4,1968,11075
+955,Densidade Residencial Baixa,Edwards,2 andares,5,1975,127500,4,0,0,4,980,9400
+956,Densidade Residencial Alta,Crawford,2 andares,6,1946,145000,4,2,2,2,1958,7136
+957,Densidade Residencial Média,Bluestem,2 andares,6,1980,124000,2,2,1,2,1229,1300
+958,Densidade Residencial Baixa,Sawyer,1 andar,5,1962,132000,3,2,1,1,1057,7420
+959,Densidade Residencial Baixa,College Creek,1 andar,5,2003,185000,3,2,1,3,1337,8450
+960,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,155000,3,2,1,4,1416,2572
+961,Densidade Residencial Baixa,Brookside,1 andar,7,1958,116500,2,0,1,2,858,7207
+962,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1977,272000,4,2,1,4,2872,12227
+963,Densidade Residencial Baixa,Northpark Villa,2 andares,6,1976,155000,3,2,1,4,1548,2308
+964,Densidade Residencial Baixa,College Creek,1 andar,5,2007,239000,2,2,1,2,1800,11923
+965,Densidade Residencial Baixa,Timberland,2 andares,5,2002,214900,4,2,1,4,1894,11316
+966,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,178900,3,2,1,3,1484,10237
+967,Densidade Residencial Baixa,Crawford,2 andares,7,1940,160000,2,1,1,3,1308,9600
+968,Densidade Residencial Baixa,NAmes,1 andar,7,1955,135000,3,1,1,2,1098,7390
+969,Densidade Residencial Média,Old Town,2 andares,6,1910,37900,2,0,1,1,968,5925
+970,Densidade Residencial Baixa,NAmes,2 andares,5,1958,140000,2,1,1,2,1095,10382
+971,Densidade Residencial Baixa,NAmes,2 andares,4,1949,135000,4,0,1,2,1192,10800
+972,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2003,173000,2,2,1,2,1626,2268
+973,Densidade Residencial Baixa,Sawyer West,1 andar,5,1979,99500,2,1,1,2,918,7892
+974,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2007,182000,3,2,1,2,1428,11639
+975,Densidade Residencial Baixa,Brookside,2 andares,8,1910,167500,3,2,1,1,2019,11414
+976,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,165000,3,2,1,4,1382,2651
+977,Densidade Residencial Baixa,Brookside,1 andar,7,1923,85500,2,0,1,1,869,5900
+978,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,199900,1,2,1,3,1241,4274
+979,Densidade Residencial Baixa,Edwards,1 andar,5,1954,110000,3,2,1,1,894,9450
+980,Densidade Residencial Baixa,Sawyer,1 andar,6,1963,139000,3,2,1,2,1121,8816
+981,Densidade Residencial Baixa,NAmes,2 andares,9,1961,178400,3,2,1,2,999,12122
+982,Densidade Residencial Baixa,Northridge,2 andares,5,1998,336000,4,3,1,4,2612,12203
+983,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2007,159895,2,2,1,2,1266,3182
+984,Densidade Residencial Baixa,College Creek,2 andares,5,2002,255900,4,2,1,3,2290,11250
+985,Densidade Residencial Baixa,Mitchell,2 andares,5,1977,126000,4,2,2,2,1734,10125
+986,Densidade Residencial Baixa,Edwards,1 andar,5,1950,125000,3,1,1,2,1164,10880
+987,Densidade Residencial Média,Old Town,2 andares,8,1910,117000,2,1,1,1,1635,5310
+988,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2009,395192,3,3,1,4,1940,10159
+989,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1976,195000,4,2,1,3,2030,12046
+990,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2006,197000,3,2,1,3,1576,8125
+991,Densidade Residencial Baixa,Northridge,2 andares,5,1997,348000,3,3,1,4,2392,9452
+992,Densidade Residencial Média,Old Town,2 andares,9,1882,168000,4,2,1,2,1742,17671
+993,Densidade Residencial Baixa,NAmes,2 andares,8,1964,187000,3,2,1,3,1851,9760
+994,Densidade Residencial Baixa,College Creek,2 andares,5,2005,173900,3,2,1,3,1500,8846
+995,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,337500,3,3,1,3,1718,12456
+996,Densidade Residencial Baixa,Brookside,2 andares,7,1946,121600,3,1,1,3,1230,4712
+997,Densidade Residencial Baixa,NAmes,1 andar,6,1961,136500,3,1,1,2,1050,10659
+998,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1970,185000,2,2,1,2,1442,11717
+999,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,4,1922,91000,3,1,1,1,1077,9786
+1000,Densidade Residencial Baixa,College Creek,1 andar,5,2006,206000,2,2,1,3,1208,6762
+1001,Densidade Residencial Baixa,Edwards,1 andar,3,1952,82000,2,2,1,1,944,10206
+1002,Densidade Residencial Baixa,Old Town,1 andar,6,1920,86000,2,1,1,1,691,5400
+1003,Densidade Residencial Baixa,Somerset,1 andar,5,2006,232000,3,3,1,2,1574,11957
+1004,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1976,136905,4,2,2,2,1680,11500
+1005,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2005,181000,1,2,1,2,1504,3182
+1006,Densidade Residencial Baixa,College Creek,2 andares,8,1977,149900,3,1,1,2,985,8385
+1007,Densidade Residencial Baixa,NAmes,1 andar,3,1970,163500,3,2,1,3,1657,12155
+1008,Densidade Residencial Média,Meadow Village,2 andares,4,1970,88000,3,1,1,2,1092,2217
+1009,Densidade Residencial Baixa,Mitchell,1 andar,5,2004,240000,3,2,1,2,1710,12118
+1010,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,5,1926,102000,4,0,1,2,1522,6000
+1011,Densidade Residencial Baixa,Sawyer,2 andares,5,1948,135000,4,1,1,2,1271,21286
+1012,Densidade Residencial Baixa,Edwards,1 andar,5,1965,100000,4,0,2,2,1664,9825
+1013,Densidade Residencial Baixa,Crawford,2 andares,7,1923,165000,3,1,1,2,1502,10592
+1014,Densidade Residencial Média,Old Town,1 andar,4,1910,85000,2,1,1,2,1022,7200
+1015,Densidade Residencial Baixa,NAmes,1 andar,5,1948,119200,2,1,1,1,1082,11664
+1016,Densidade Residencial Baixa,Northwest Ames,2 andares,6,2001,227000,3,2,1,4,1665,8400
+1017,Densidade Residencial Baixa,College Creek,1 andar,5,1996,203000,3,2,1,3,1504,11883
+1018,Densidade Residencial Baixa,Stone Brook,1 andar,5,1984,187500,1,2,1,2,1360,5814
+1019,Densidade Residencial Baixa,Gilbert,2 andares,5,1991,160000,3,2,1,3,1472,10784
+1020,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2005,213490,2,2,1,2,1506,3013
+1021,Densidade Residencial Baixa,Edwards,1 andar,5,2005,176000,2,2,1,3,1132,7024
+1022,Densidade Residencial Baixa,College Creek,1 andar,5,2006,194000,2,2,1,3,1220,7406
+1023,Densidade Residencial Média,Old Town,2 andares,5,1930,87000,2,1,1,1,1248,9439
+1024,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2005,191000,2,2,1,2,1504,3182
+1025,Densidade Residencial Baixa,Timberland,1 andar,6,1976,287000,2,2,1,3,2898,15498
+1026,Densidade Residencial Baixa,College Creek,1 andar,5,1972,112500,3,2,1,2,882,7700
+1027,Densidade Residencial Baixa,NAmes,1 andar,5,1960,167500,3,2,1,2,1264,9300
+1028,Densidade Residencial Baixa,Timberland,1 andar,5,2007,293077,3,3,1,3,1646,9520
+1029,Densidade Residencial Baixa,NAmes,2 andares,5,1941,105000,3,1,1,2,1376,9492
+1030,Densidade Residencial Média,Briardale,2 andares,7,1972,118000,3,1,1,3,1218,1680
+1031,Densidade Residencial Alta,South & West of Iowa State University,2 andares,8,1916,160000,5,0,2,2,1928,7082
+1032,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,3,1920,197000,5,2,1,4,3082,15863
+1033,Densidade Residencial Baixa,Northridge,2 andares,7,1993,310000,5,3,1,4,2520,14541
+1034,Densidade Residencial Baixa,College Creek,1 andar,5,2002,230000,3,3,1,3,1654,8125
+1035,Densidade Residencial Baixa,Crawford,1 andar,7,1938,119750,2,1,1,1,954,6305
+1036,Densidade Residencial Baixa,Edwards,1 andar,3,1957,84000,3,1,1,1,845,11500
+1037,Densidade Residencial Baixa,Timberland,1 andar,5,2007,315500,2,3,1,3,1620,12898
+1038,Densidade Residencial Baixa,College Creek,2 andares,5,2001,287000,3,2,1,3,2263,9240
+1039,Densidade Residencial Média,Meadow Village,2 andares,6,1970,97000,3,0,1,2,1344,1533
+1040,Densidade Residencial Média,Meadow Village,2 andares,4,1970,80000,1,1,1,2,630,1477
+1041,Densidade Residencial Baixa,Sawyer,1 andar,4,1957,155000,3,2,1,3,1803,13125
+1042,Densidade Residencial Baixa,Northwest Ames,2 andares,8,1966,173000,4,2,1,3,1632,9130
+1043,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,196000,1,2,1,3,1306,5381
+1044,Densidade Residencial Baixa,Sawyer West,2 andares,5,1990,262280,4,2,1,4,2329,11839
+1045,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1981,278000,4,2,1,4,2524,9600
+1046,Densidade Residencial Baixa,Edwards,1 andar,5,1955,139600,4,2,1,2,1733,13680
+1047,Densidade Residencial Baixa,Stone Brook,2 andares,5,2005,556581,4,3,1,4,2868,16056
+1048,Densidade Residencial Baixa,College Creek,1 andar,5,1994,145000,3,2,1,2,990,9245
+1049,Densidade Residencial Baixa,Mitchell,1 andar,4,1960,115000,3,2,1,1,1771,21750
+1050,Densidade Residencial Baixa,Edwards,1 andar,7,1946,84900,2,1,1,1,930,11100
+1051,Densidade Residencial Baixa,Gilbert,1 andar,5,2007,176485,3,2,1,2,1302,8993
+1052,Densidade Residencial Baixa,College Creek,1 andar,5,2007,200141,3,2,1,2,1316,11175
+1053,Densidade Residencial Baixa,NAmes,2 andares,6,1964,165000,4,2,1,3,1977,9500
+1054,Densidade Residencial Baixa,Edwards,1 andar,6,1957,144500,4,1,1,1,1526,8562
+1055,Densidade Residencial Baixa,College Creek,2 andares,5,2002,255000,3,2,1,4,1989,11367
+1056,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1976,180000,3,2,1,3,1523,11361
+1057,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,185850,2,2,1,3,1364,7052
+1058,Densidade Residencial Baixa,Northridge,2 andares,6,1994,248000,3,2,1,3,1850,29959
+1059,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2008,335000,3,3,1,4,2184,11308
+1060,Densidade Residencial Baixa,Crawford,2 andares,7,1932,220000,3,2,1,2,1991,11275
+1061,Densidade Residencial Baixa,Stone Brook,1 andar,5,2001,213500,2,2,1,3,1338,4920
+1062,C (all),Iowa DOT and Rail Road,1 andar,4,1935,81000,2,3,1,1,894,18000
+1063,Densidade Residencial Média,Old Town,2 andares,5,1900,90000,5,2,2,2,2337,13600
+1064,Densidade Residencial Média,Old Town,1 andar,6,1925,110500,2,2,1,1,1103,6000
+1065,Densidade Residencial Baixa,NAmes,1 andar,6,1966,154000,3,2,1,2,1154,11000
+1066,Densidade Residencial Baixa,Clear Creek,2 andares,5,1996,328000,3,2,1,4,2260,14000
+1067,Densidade Residencial Baixa,Gilbert,2 andares,7,1993,178000,3,2,1,3,1571,7837
+1068,Densidade Residencial Baixa,NAmes,2 andares,6,1964,167900,4,2,1,3,1611,9760
+1069,Densidade Residencial Média,Meadow Village,2 andares,4,1973,151400,5,2,1,4,2521,3964
+1070,Densidade Residencial Baixa,NAmes,2 andares,7,1949,135000,2,2,1,2,893,9600
+1071,Densidade Residencial Baixa,NAmes,1 andar,5,1956,135000,3,1,1,2,1048,10152
+1072,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1968,154000,4,2,1,2,1556,11700
+1073,Densidade Residencial Baixa,Edwards,2 andares,3,1948,91500,4,1,1,3,1456,7585
+1074,Densidade Residencial Baixa,Edwards,2 andares,6,1977,159500,3,2,1,2,1426,7950
+1075,Densidade Residencial Baixa,College Creek,1 andar,5,2006,194000,2,3,1,2,1240,8556
+1076,Densidade Residencial Baixa,Crawford,2 andares,6,1940,219500,3,1,1,2,1740,13125
+1077,Densidade Residencial Baixa,Old Town,2 andares,8,1936,170000,3,2,1,3,1466,10800
+1078,Densidade Residencial Baixa,NAmes,1 andar,5,1969,138800,3,1,1,2,1096,15870
+1079,Densidade Residencial Média,College Creek,1 andar,5,2004,155900,1,2,1,2,848,4435
+1080,Densidade Residencial Baixa,College Creek,1 andar,5,1994,126000,3,1,1,1,990,8775
+1081,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1971,145000,3,2,1,3,1258,11040
+1082,Densidade Residencial Baixa,Sawyer,1 andar,5,1963,133000,3,1,1,3,1040,7500
+1083,Densidade Residencial Baixa,College Creek,1 andar,5,2002,192000,3,2,1,2,1459,8749
+1084,Densidade Residencial Baixa,NAmes,1 andar,6,1964,160000,3,1,1,2,1251,8800
+1085,Densidade Residencial Baixa,Gilbert,2 andares,5,1995,187500,3,2,1,3,1498,13031
+1086,Densidade Residencial Baixa,Sawyer West,2 andares,6,1992,147000,2,2,1,2,996,9069
+1087,Densidade Residencial Média,Meadow Village,2 andares,5,1973,83500,3,1,1,2,1092,1974
+1088,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,252000,3,3,1,3,1953,10574
+1089,Densidade Residencial Média,Edwards,2 andares,5,2004,137500,3,2,1,2,1709,2522
+1090,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2005,197000,1,2,1,3,1247,3316
+1091,Densidade Residencial Baixa,NAmes,1 andar,4,1950,92900,2,2,2,2,1040,8544
+1092,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,160000,2,2,1,4,1252,2160
+1093,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,5,1925,136500,4,2,1,2,1694,8400
+1094,Densidade Residencial Baixa,NAmes,1 andar,8,1965,146000,1,2,1,3,1200,9230
+1095,Densidade Residencial Baixa,NAmes,1 andar,7,1956,129000,2,1,1,2,936,5868
+1096,Densidade Residencial Baixa,College Creek,1 andar,5,2006,176432,3,2,1,2,1314,9317
+1097,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,7,1914,127000,3,0,1,2,1355,6882
+1098,Densidade Residencial Baixa,Stone Brook,1 andar,5,1986,170000,2,2,1,2,1088,3696
+1099,Densidade Residencial Média,Brookside,2 andares,6,1936,128000,3,1,1,1,1324,6000
+1100,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1978,157000,3,2,1,2,1601,11880
+1101,Densidade Residencial Baixa,South & West of Iowa State University,1 andar,5,1920,60000,1,1,1,1,438,8400
+1102,Densidade Residencial Baixa,NAmes,1 andar,5,1971,119500,3,1,1,1,950,9758
+1103,Densidade Residencial Baixa,NAmes,1 andar,7,1960,135000,2,1,1,1,1134,7000
+1104,Densidade Residencial Baixa,NAmes,1 andar,6,1959,159500,3,2,1,2,1194,8910
+1105,Densidade Residencial Média,Briardale,2 andares,5,1970,106000,3,2,1,3,1302,2016
+1106,Densidade Residencial Baixa,Northridge,2 andares,5,1994,325000,3,2,1,4,2622,12256
+1107,Densidade Residencial Baixa,Sawyer West,1 andar,5,1990,179900,3,2,1,3,1442,10357
+1108,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,274725,3,2,1,3,2021,23257
+1109,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,181000,3,2,1,3,1690,8063
+1110,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2004,280000,3,3,1,3,1836,11362
+1111,Densidade Residencial Baixa,Gilbert,2 andares,5,1995,188000,3,2,1,4,1658,8000
+1112,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1976,205000,4,2,1,3,1964,10480
+1113,Densidade Residencial Baixa,NAmes,1 andar,7,1957,129900,2,1,1,2,816,7100
+1114,Densidade Residencial Baixa,NAmes,1 andar,7,1953,134500,2,1,1,2,1008,8923
+1115,Densidade Residencial Baixa,Old Town,1 andar,7,1954,117000,2,1,1,1,833,5400
+1116,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,318000,3,3,1,3,1734,12085
+1117,Densidade Residencial Baixa,Gilbert,2 andares,5,2002,184100,3,2,1,4,1419,7750
+1118,Densidade Residencial Baixa,Sawyer,1 andar,7,1967,130000,3,2,1,2,894,9764
+1119,Densidade Residencial Baixa,Sawyer,2 andares,6,1958,140000,3,1,1,2,1601,13825
+1120,Densidade Residencial Baixa,NAmes,1 andar,5,1959,133700,3,1,1,1,1040,7560
+1121,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,5,1920,118400,2,1,1,1,1012,8263
+1122,Densidade Residencial Baixa,College Creek,1 andar,5,2005,212900,3,3,1,2,1552,10084
+1123,Densidade Residencial Baixa,Edwards,1 andar,3,1956,112000,3,1,1,1,960,8926
+1124,Densidade Residencial Baixa,Edwards,1 andar,9,1947,118000,2,0,1,2,698,9405
+1125,Densidade Residencial Baixa,Gilbert,2 andares,5,1992,163900,3,2,1,3,1482,9125
+1126,Densidade Residencial Baixa,NAmes,1 andar,5,1955,115000,2,2,1,1,1005,10434
+1127,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2007,174000,2,3,1,2,1555,3684
+1128,Densidade Residencial Baixa,Gilbert,1 andar,5,2004,259000,3,3,1,3,1530,14572
+1129,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,215000,4,2,1,3,1959,11796
+1130,Densidade Residencial Média,Old Town,2 andares,5,1980,140000,2,2,1,2,936,7200
+1131,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,3,1928,135000,4,2,1,3,1981,7804
+1132,Densidade Residencial Baixa,Mitchell,1 andar,5,1991,93500,3,0,1,1,974,10712
+1133,Densidade Residencial Média,Old Town,2 andares,4,1880,117500,5,1,1,2,2210,9900
+1134,Densidade Residencial Baixa,Sawyer West,2 andares,5,1995,239500,3,2,1,3,2020,9828
+1135,Densidade Residencial Baixa,Gilbert,2 andares,5,1997,169000,3,2,1,3,1600,8773
+1136,Densidade Residencial Média,Brookside,1 andar,5,1926,102000,2,1,1,1,986,6180
+1137,Densidade Residencial Baixa,NAmes,2 andares,5,1950,119000,3,1,1,1,1252,9600
+1138,Densidade Residencial Baixa,Sawyer,2 andares,8,1875,94000,2,0,1,1,1020,6342
+1139,Densidade Residencial Baixa,Mitchell,1 andar,5,1977,196000,2,2,1,3,1567,9819
+1140,Densidade Residencial Baixa,Brookside,1 andar,5,1920,144000,3,2,1,1,1167,8731
+1141,Densidade Residencial Baixa,NAmes,1 andar,7,1951,139000,2,2,1,2,952,7350
+1142,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1976,197500,4,2,1,4,1868,10304
+1143,Densidade Residencial Baixa,College Creek,2 andares,5,2006,424870,4,3,1,4,2828,9965
+1144,Densidade Residencial Baixa,Sawyer,1 andar,3,1959,80000,3,0,1,1,1006,9000
+1145,Densidade Residencial Baixa,Edwards,2 andares,4,1941,80000,2,1,1,2,924,12180
+1146,Densidade Residencial Média,Brookside,2 andares,6,1928,149000,3,1,1,1,1576,6240
+1147,Densidade Residencial Baixa,Sawyer West,1 andar,5,1985,180000,3,2,1,3,1298,11200
+1148,Densidade Residencial Baixa,Crawford,2 andares,7,1941,174500,3,1,1,2,1564,12000
+1149,Densidade Residencial Média,Old Town,2 andares,7,1926,116900,2,1,1,1,1111,5700
+1150,Densidade Residencial Média,Old Town,2 andares,9,1920,143000,3,2,1,2,1482,9000
+1151,Densidade Residencial Baixa,NAmes,1 andar,5,1950,124000,2,1,1,1,932,8280
+1152,Densidade Residencial Baixa,Edwards,1 andar,4,1959,149900,3,2,1,2,1466,17755
+1153,Densidade Residencial Baixa,Crawford,1 andar,7,1956,230000,2,2,1,1,1811,14115
+1154,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,8,1930,120500,2,1,1,1,816,5890
+1155,Densidade Residencial Baixa,NAmes,2 andares,6,1965,201800,4,2,1,3,1820,13700
+1156,Densidade Residencial Baixa,Veenker,1 andar,8,1976,218000,3,2,1,3,1437,10768
+1157,Densidade Residencial Baixa,NAmes,2 andares,8,1965,179900,3,2,1,3,1265,9350
+1158,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2007,230000,2,2,1,3,1314,5001
+1159,Densidade Residencial Baixa,Somerset,1 andar,5,2007,235128,3,3,1,2,1580,11932
+1160,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1974,185000,4,2,1,3,1876,9120
+1161,Densidade Residencial Baixa,Northpark Villa,2 andares,5,1978,146000,3,2,1,3,1456,2280
+1162,Densidade Residencial Baixa,Crawford,1 andar,7,1954,224000,3,2,1,2,1640,14778
+1163,Densidade Residencial Baixa,Sawyer,1 andar,5,1968,129000,3,2,1,1,894,8724
+1164,Densidade Residencial Baixa,Sawyer,2 andares,4,1969,108959,0,2,2,4,1258,12900
+1165,Densidade Residencial Baixa,Veenker,2 andares,7,1978,194000,2,2,1,3,1432,16157
+1166,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2009,233170,3,2,1,2,1502,9541
+1167,Densidade Residencial Baixa,College Creek,1 andar,5,2008,245350,3,3,1,2,1694,10475
+1168,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,173000,3,2,1,4,1671,10852
+1169,Densidade Residencial Baixa,Edwards,2 andares,7,1935,235000,4,2,1,2,2108,13728
+1170,Densidade Residencial Baixa,Northridge,2 andares,5,1995,625000,4,3,1,5,3627,35760
+1171,Densidade Residencial Baixa,Mitchell,2 andares,6,1977,171000,3,1,1,2,1118,9880
+1172,Densidade Residencial Baixa,NAmes,1 andar,6,1958,163000,3,2,1,2,1261,9120
+1173,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2006,171900,2,2,1,3,1250,4017
+1174,Densidade Residencial Baixa,Clear Creek,2 andares,6,1946,200500,3,0,1,3,3086,18030
+1175,Densidade Residencial Baixa,Crawford,2 andares,8,1932,239000,4,2,1,3,2345,16560
+1176,Densidade Residencial Baixa,Northridge,2 andares,5,1992,285000,4,2,1,3,2872,10678
+1177,Densidade Residencial Baixa,Mitchell,1 andar,5,1984,119500,3,1,1,2,923,6951
+1178,Densidade Residencial Média,Old Town,2 andares,8,1926,115000,3,1,1,1,1224,3950
+1179,Densidade Residencial Baixa,Crawford,2 andares,6,1921,154900,3,1,1,2,1343,7681
+1180,Densidade Residencial Baixa,Edwards,1 andar,5,1954,93000,3,0,1,1,1124,8335
+1181,Densidade Residencial Baixa,Timberland,2 andares,5,1990,250000,4,2,1,3,2514,11170
+1182,Densidade Residencial Média,Crawford,1 andar,5,2008,392500,2,2,1,4,1652,5587
+1183,Densidade Residencial Baixa,Northridge,2 andares,5,1996,745000,4,3,1,5,4476,15623
+1184,Densidade Residencial Baixa,Old Town,1 andar,6,1920,120000,2,2,1,2,1130,10800
+1185,Densidade Residencial Baixa,Timberland,1 andar,4,1963,186700,3,3,1,3,1572,35133
+1186,Densidade Residencial Baixa,Edwards,2 andares,7,1924,104900,4,1,1,2,1221,9738
+1187,Densidade Residencial Baixa,Old Town,2 andares,5,1900,95000,3,2,2,3,1699,10615
+1188,Densidade Residencial Baixa,Northridge,1 andar,5,1994,262000,2,3,1,3,1624,12461
+1189,Densidade Residencial Baixa,College Creek,2 andares,5,2002,195000,3,2,1,3,1660,8935
+1190,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,189000,3,2,1,3,1804,7500
+1191,Densidade Residencial Baixa,Mitchell,1 andar,4,1961,168000,3,4,1,2,1622,32463
+1192,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,174000,2,2,1,3,1441,2645
+1193,Densidade Residencial Média,Old Town,2 andares,8,1925,125000,3,1,1,1,1472,9600
+1194,Densidade Residencial Média,Mitchell,1 andar,5,1999,165000,2,2,1,3,1224,4500
+1195,Densidade Residencial Baixa,Sawyer,2 andares,7,1969,158000,4,1,1,2,1352,9364
+1196,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,176000,3,2,1,3,1456,8029
+1197,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,219210,4,3,1,3,1863,14054
+1198,Densidade Residencial Média,Old Town,2 andares,6,1916,144000,3,1,1,1,1690,8850
+1199,Densidade Residencial Baixa,College Creek,1 andar,5,2001,178000,3,2,1,2,1212,9100
+1200,Densidade Residencial Baixa,Sawyer,1 andar,5,1963,148000,3,2,1,2,1382,11235
+1201,Densidade Residencial Baixa,NAmes,1 andar,5,1970,116050,3,1,1,1,864,9353
+1202,Densidade Residencial Baixa,College Creek,2 andares,5,1998,197900,3,2,1,3,1779,10400
+1203,Densidade Residencial Média,Brookside,2 andares,8,1925,117000,3,1,1,2,1348,6000
+1204,Densidade Residencial Baixa,College Creek,1 andar,5,2000,213000,3,2,1,2,1630,9750
+1205,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1975,153500,3,2,1,3,1074,10140
+1206,Densidade Residencial Baixa,Sawyer West,1 andar,7,1990,271900,3,3,1,2,2196,14684
+1207,Densidade Residencial Alta,Sawyer West,1 andar,4,1966,107000,2,1,1,2,1056,8900
+1208,Densidade Residencial Baixa,College Creek,1 andar,5,2003,200000,3,2,1,3,1700,9135
+1209,Densidade Residencial Baixa,NAmes,1 andar,7,1962,140000,3,2,1,2,1283,7763
+1210,Densidade Residencial Baixa,Somerset,1 andar,5,2006,290000,3,2,1,3,1660,10182
+1211,Densidade Residencial Baixa,Sawyer West,2 andares,5,1992,189000,3,2,1,3,1845,11218
+1212,Densidade Residencial Baixa,Gilbert,2 andares,7,1988,164000,4,2,1,2,1752,12134
+1213,Densidade Residencial Baixa,Edwards,1 andar,6,1941,113000,2,1,1,2,672,9340
+1214,Densidade Residencial Baixa,Sawyer,2 andares,9,1965,145000,0,1,1,2,960,10246
+1215,Densidade Residencial Baixa,NAmes,2 andares,5,1962,134500,3,1,1,2,999,10205
+1216,Densidade Residencial Baixa,Sawyer,1 andar,5,1966,125000,3,1,1,1,894,7094
+1217,Densidade Residencial Média,Sawyer,2 andares,5,1978,112000,4,2,2,2,1902,8930
+1218,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2009,229456,3,2,1,3,1314,8640
+1219,Densidade Residencial Média,Brookside,2 andares,5,1947,80500,2,0,1,1,912,6240
+1220,Densidade Residencial Média,Briardale,2 andares,5,1971,91500,3,0,1,2,1218,1680
+1221,Densidade Residencial Baixa,NAmes,1 andar,5,1964,115000,2,1,1,1,912,7800
+1222,Densidade Residencial Baixa,Sawyer,1 andar,5,1968,134000,3,1,1,1,1211,8250
+1223,Densidade Residencial Baixa,NAmes,2 andares,6,1949,143000,3,1,1,2,1846,10496
+1224,Densidade Residencial Baixa,NAmes,1 andar,3,1951,137900,4,2,1,2,2136,10680
+1225,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,184000,3,2,1,4,1490,15384
+1226,Densidade Residencial Baixa,NAmes,2 andares,8,1958,145000,3,1,1,2,1138,10482
+1227,Densidade Residencial Baixa,Somerset,2 andares,5,2007,214000,4,3,1,3,1933,14598
+1228,Densidade Residencial Baixa,NAmes,1 andar,8,1965,147000,2,2,1,2,912,8872
+1229,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,367294,1,3,1,3,1702,8769
+1230,Densidade Residencial Baixa,NAmes,2 andares,5,1960,127000,4,1,1,2,1507,7910
+1231,Densidade Residencial Baixa,Sawyer,2 andares,5,1977,190000,4,2,2,4,2620,18890
+1232,Densidade Residencial Baixa,NAmes,2 andares,6,1962,132500,3,2,1,2,1190,7728
+1233,Densidade Residencial Baixa,NAmes,1 andar,5,1962,101800,2,2,2,2,1224,9842
+1234,Densidade Residencial Baixa,NAmes,1 andar,5,1959,142000,3,2,1,2,1188,12160
+1235,Densidade Residencial Alta,South & West of Iowa State University,2 andares,6,1911,130000,4,0,1,2,1964,8525
+1236,Densidade Residencial Baixa,Crawford,2 andares,5,1914,138887,4,1,1,2,1784,13132
+1237,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2003,175500,2,2,1,3,1626,2628
+1238,Densidade Residencial Baixa,College Creek,2 andares,5,2004,195000,4,2,1,3,1948,12393
+1239,Densidade Residencial Baixa,Sawyer West,1 andar,5,2005,142500,3,2,1,2,1141,13072
+1240,Densidade Residencial Baixa,Timberland,1 andar,5,2006,265900,2,2,1,2,1484,9037
+1241,Densidade Residencial Baixa,College Creek,2 andares,5,2003,224900,3,2,1,4,1768,8158
+1242,Densidade Residencial Baixa,Somerset,1 andar,6,2007,248328,3,3,1,2,1689,9849
+1243,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1974,170000,3,2,1,3,1173,10625
+1244,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,465000,2,3,1,4,2076,13891
+1245,Densidade Residencial Baixa,Crawford,2 andares,7,1929,230000,3,2,1,1,1517,11435
+1246,Densidade Residencial Baixa,Northwest Ames,2 andares,7,1984,178000,3,2,1,4,1868,12090
+1247,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,186500,3,2,1,3,1553,8125
+1248,Densidade Residencial Baixa,Mitchell,2 andares,5,1976,169900,3,3,1,2,1034,12328
+1249,Densidade Residencial Média,Old Town,2 andares,5,1917,129500,3,2,1,2,2058,9600
+1250,Densidade Residencial Baixa,NAmes,1 andar,7,1950,119000,3,1,1,1,988,7200
+1251,Densidade Residencial Baixa,NAmes,1 andar,5,1968,244000,3,2,1,4,2110,11160
+1252,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2003,171750,2,2,1,2,1405,3136
+1253,Densidade Residencial Baixa,Mitchell,1 andar,6,1968,130000,3,1,1,2,874,9858
+1254,Densidade Residencial Baixa,Veenker,2 andares,7,1974,294000,3,2,1,4,2167,17542
+1255,Densidade Residencial Baixa,Edwards,2 andares,5,2003,165400,3,2,1,3,1656,6931
+1256,Densidade Residencial Média,Brookside,2 andares,6,1931,127500,3,1,1,1,1367,6240
+1257,Densidade Residencial Baixa,Northridge,1 andar,5,1994,301500,2,2,1,3,1987,14303
+1258,Densidade Residencial Baixa,Edwards,1 andar,8,1922,99900,2,0,1,1,864,4060
+1259,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,190000,2,2,1,3,1166,9587
+1260,Densidade Residencial Baixa,NAmes,1 andar,8,1969,151000,3,2,1,3,1054,9750
+1261,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,181000,3,2,1,3,1675,24682
+1262,Densidade Residencial Baixa,NAmes,1 andar,6,1956,128900,2,1,1,1,1050,9600
+1263,Densidade Residencial Baixa,Clear Creek,2 andares,5,1957,161500,5,1,1,2,1788,11250
+1264,Densidade Residencial Baixa,Brookside,2 andares,6,1919,180500,3,2,1,1,1824,13515
+1265,Densidade Residencial Alta,NAmes,1 andar,5,1998,181000,2,2,1,3,1337,4060
+1266,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,1999,183900,3,2,1,4,1452,3735
+1267,Densidade Residencial Média,Old Town,2 andares,4,1910,122000,4,1,2,2,1889,10120
+1268,Densidade Residencial Baixa,Timberland,1 andar,5,2008,378500,3,3,1,2,2018,13214
+1269,Densidade Residencial Baixa,Crawford,2 andares,9,1935,381000,4,3,1,4,3447,14100
+1270,Densidade Residencial Baixa,NAmes,2 andares,5,1958,144000,3,1,1,2,1524,11344
+1271,Densidade Residencial Baixa,Clear Creek,1 andar,6,1979,260000,0,2,1,3,1524,23595
+1272,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1968,185750,3,2,1,2,1489,9156
+1273,Densidade Residencial Baixa,Sawyer,1 andar,6,1965,137000,3,1,1,2,935,13526
+1274,Densidade Residencial Baixa,Edwards,2 andares,7,1959,177000,2,1,1,2,1357,11512
+1275,Densidade Residencial Baixa,Crawford,2 andares,6,1910,139000,3,2,1,2,1250,5362
+1276,Densidade Residencial Baixa,NAmes,2 andares,5,1948,137000,4,2,2,2,1920,11345
+1277,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1972,162000,3,2,1,3,1395,12936
+1278,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1967,197900,3,2,1,3,1724,17871
+1279,Densidade Residencial Baixa,College Creek,2 andares,5,2002,237000,3,2,1,4,2031,9473
+1280,C (all),Iowa DOT and Rail Road,2 andares,4,1920,68400,2,2,1,1,1128,7500
+1281,Densidade Residencial Baixa,College Creek,1 andar,5,2002,227000,3,2,1,3,1573,9808
+1282,Densidade Residencial Baixa,Timberland,1 andar,5,1990,180000,2,2,1,3,1339,8049
+1283,Densidade Residencial Baixa,College Creek,1 andar,7,1977,150500,3,2,1,2,1040,8800
+1284,Densidade Residencial Baixa,Mitchell,2 andares,5,1971,139000,4,0,2,4,1824,9400
+1285,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,7,1919,169000,4,1,1,2,2447,9638
+1286,Densidade Residencial Média,Brookside,2 andares,6,1939,132500,4,1,1,1,1412,6000
+1287,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1963,143000,3,2,1,3,1328,9790
+1288,Densidade Residencial Baixa,Clear Creek,1 andar,5,1964,190000,4,2,1,3,1582,36500
+1289,Densidade Residencial Baixa,Stone Brook,1 andar,5,2000,278000,2,2,1,3,1659,5664
+1290,Densidade Residencial Baixa,Northridge Heights,2 andares,5,2006,281000,3,3,1,3,1970,11065
+1291,Densidade Residencial Baixa,NAmes,2 andares,7,1964,180500,3,2,1,2,1152,14112
+1292,Densidade Residencial Média,Briardale,2 andares,7,1972,119500,3,1,1,3,1302,1680
+1293,Densidade Residencial Média,Old Town,2 andares,4,1892,107500,4,1,2,2,2372,6600
+1294,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1976,162900,4,2,1,3,1664,10140
+1295,Densidade Residencial Baixa,Edwards,1 andar,7,1955,115000,2,2,1,2,864,8172
+1296,Densidade Residencial Baixa,NAmes,1 andar,5,1968,138500,3,1,1,3,1052,8400
+1297,Densidade Residencial Baixa,NAmes,1 andar,6,1963,155000,3,2,1,3,1128,8700
+1298,Densidade Residencial Média,Edwards,2 andares,5,2005,140000,2,2,1,3,1072,3675
+1299,Densidade Residencial Baixa,Edwards,2 andares,5,2008,160000,3,2,1,5,5642,63887
+1300,Densidade Residencial Baixa,NAmes,1 andar,7,1959,154000,3,1,1,3,1246,7500
+1301,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,225000,3,2,1,3,1983,10762
+1302,Densidade Residencial Baixa,Crawford,2 andares,7,1942,177500,3,1,1,1,1494,7500
+1303,Densidade Residencial Baixa,Northridge,2 andares,5,1994,290000,4,3,1,4,2526,10120
+1304,Densidade Residencial Baixa,Somerset,1 andar,5,2005,232000,3,3,1,2,1616,8688
+1305,Densidade Residencial Média,Edwards,2 andares,5,2004,130000,3,2,1,2,1708,3363
+1306,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2006,325000,2,2,1,3,1652,13173
+1307,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2005,202500,2,2,1,2,1368,6955
+1308,Densidade Residencial Baixa,College Creek,1 andar,5,1994,138000,3,2,1,2,990,8072
+1309,Densidade Residencial Média,Old Town,1 andar,7,1948,147000,2,2,1,2,1122,12000
+1310,Densidade Residencial Baixa,Sawyer West,1 andar,5,1991,179200,3,2,1,3,1294,7153
+1311,Densidade Residencial Baixa,Crawford,1 andar,8,1959,335000,3,2,1,3,1902,17500
+1312,Densidade Residencial Baixa,College Creek,1 andar,5,2005,203000,3,2,1,3,1274,8814
+1313,Densidade Residencial Baixa,Northridge,2 andares,5,1990,302000,4,2,1,3,2810,9572
+1314,Densidade Residencial Baixa,Northridge,2 andares,5,1999,333168,4,3,1,3,2599,14774
+1315,Densidade Residencial Baixa,Edwards,1 andar,6,1954,119000,3,1,1,2,948,8190
+1316,Densidade Residencial Baixa,NAmes,2 andares,5,1969,206900,4,2,1,3,2112,11075
+1317,Densidade Residencial Baixa,College Creek,1 andar,5,2008,295493,3,3,1,3,1630,10226
+1318,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2006,208900,2,2,1,2,1352,4230
+1319,Densidade Residencial Baixa,College Creek,1 andar,5,2001,275000,3,3,1,2,1787,14781
+1320,Densidade Residencial Baixa,Edwards,1 andar,5,1954,111000,3,1,1,1,948,10215
+1321,Densidade Residencial Baixa,NAmes,1 andar,3,1957,156500,3,2,1,3,1478,8400
+1322,Densidade Residencial Baixa,Brookside,1 andar,6,1949,72500,2,1,1,1,720,6627
+1323,Densidade Residencial Baixa,Northridge,2 andares,5,1992,190000,3,2,1,4,1923,10186
+1324,Densidade Residencial Baixa,Brookside,1 andar,7,1940,82500,2,0,1,1,708,5330
+1325,Densidade Residencial Baixa,Somerset,1 andar,5,2006,147000,2,3,1,2,1795,9986
+1326,Densidade Residencial Média,Iowa DOT and Rail Road,1 andar,4,1922,55000,2,0,1,1,796,3636
+1327,Densidade Residencial Alta,Edwards,1 andar,6,1931,79000,3,0,1,1,774,4270
+1328,Densidade Residencial Baixa,Mitchell,1 andar,9,1982,130500,3,1,1,2,816,6600
+1329,Densidade Residencial Média,Old Town,2 andares,7,1920,256000,5,2,1,2,2792,10440
+1330,Densidade Residencial Baixa,Gilbert,2 andares,5,1998,176500,3,2,1,3,1632,9084
+1331,Densidade Residencial Baixa,Somerset,1 andar,5,2006,227000,3,3,1,2,1588,10000
+1332,Densidade Residencial Baixa,College Creek,2 andares,5,1976,132500,3,2,1,1,954,10780
+1333,Densidade Residencial Baixa,Edwards,1 andar,6,1938,100000,2,1,1,2,816,8877
+1334,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,6,1938,125500,2,1,1,2,1360,7200
+1335,Densidade Residencial Média,Briardale,2 andares,6,1970,125000,3,2,1,2,1365,2368
+1336,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1977,167900,2,2,1,3,1334,9650
+1337,Densidade Residencial Baixa,Northwest Ames,1 andar,5,1973,135000,4,2,2,2,1656,9246
+1338,Densidade Residencial Média,Old Town,1 andar,4,1941,52500,2,0,1,1,693,4118
+1339,Densidade Residencial Baixa,College Creek,2 andares,5,2002,200000,3,2,1,4,1861,13450
+1340,Densidade Residencial Baixa,College Creek,1 andar,7,1972,128500,3,1,1,1,864,9560
+1341,Densidade Residencial Baixa,NAmes,1 andar,5,1971,123000,3,4,1,1,872,8294
+1342,Densidade Residencial Baixa,Sawyer West,1 andar,5,2003,155000,3,2,1,2,1114,13695
+1343,Densidade Residencial Baixa,College Creek,2 andares,5,2002,228500,3,2,1,3,2169,9375
+1344,Densidade Residencial Baixa,Crawford,2 andares,6,1928,177000,3,2,1,2,1913,7558
+1345,Densidade Residencial Baixa,College Creek,2 andares,5,2006,155835,3,2,1,3,1456,11103
+1346,Densidade Residencial Média,Old Town,1 andar,4,1920,108500,2,1,1,1,960,6000
+1347,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1968,262500,3,2,1,2,2156,20781
+1348,Densidade Residencial Baixa,Timberland,1 andar,5,2006,283463,3,3,1,3,1776,15306
+1349,Densidade Residencial Baixa,Sawyer West,1 andar,5,1998,215000,3,2,1,3,1494,16196
+1350,Densidade Residencial Média,Old Town,2 andares,5,1872,122000,4,0,1,2,2358,5250
+1351,Densidade Residencial Baixa,NAmes,2 andares,5,1969,200000,6,4,2,6,2634,11643
+1352,Densidade Residencial Baixa,NAmes,2 andares,6,1962,171000,4,2,1,2,1716,9247
+1353,Densidade Residencial Média,Brookside,2 andares,9,1937,134900,2,2,1,1,1176,6000
+1354,Densidade Residencial Baixa,Northridge,2 andares,5,1995,410000,4,3,1,4,3238,14720
+1355,Densidade Residencial Baixa,College Creek,2 andares,5,2000,235000,3,3,1,4,1865,10316
+1356,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1968,170000,4,2,1,3,1920,10192
+1357,Densidade Residencial Baixa,NAmes,1 andar,5,1966,110000,3,1,1,1,892,9477
+1358,Densidade Residencial Baixa,NAmes,1 andar,6,1971,149900,3,2,1,3,1078,12537
+1359,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,177500,3,2,1,3,1573,2117
+1360,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2004,315000,3,3,1,3,1980,16737
+1361,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,6,1921,189000,4,2,1,4,2601,9842
+1362,Densidade Residencial Baixa,Stone Brook,1 andar,5,2005,260000,3,2,1,3,1530,16158
+1363,Densidade Residencial Baixa,NAmes,2 andares,4,1920,104900,4,1,1,2,1738,12513
+1364,Densidade Residencial Baixa,Gilbert,2 andares,5,2006,156932,3,2,1,3,1412,8499
+1365,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,144152,2,2,1,3,1200,3180
+1366,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2000,216000,3,2,1,4,1674,7500
+1367,Densidade Residencial Baixa,College Creek,2 andares,5,1999,193000,3,2,1,4,1790,9179
+1368,Densidade Residencial Média,Meadow Village,2 andares,6,1977,127000,4,1,1,2,1475,2665
+1369,Densidade Residencial Média,College Creek,1 andar,5,2003,144000,1,2,1,2,848,4435
+1370,Densidade Residencial Baixa,College Creek,1 andar,5,2003,232000,3,2,1,3,1668,10635
+1371,Densidade Residencial Baixa,Old Town,2 andares,6,1920,105000,2,1,1,1,1374,5400
+1372,Densidade Residencial Baixa,NAmes,2 andares,6,1955,165500,3,1,1,2,1661,9600
+1373,Densidade Residencial Baixa,College Creek,2 andares,6,1998,274300,3,2,1,4,2097,9750
+1374,Densidade Residencial Baixa,Northridge,1 andar,5,2001,466500,2,3,1,4,2633,11400
+1375,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2005,250000,3,3,1,3,1958,10625
+1376,Densidade Residencial Baixa,Timberland,1 andar,5,2007,239000,3,3,1,2,1571,10991
+1377,Densidade Residencial Baixa,South & West of Iowa State University,1 andar,5,1930,91000,2,1,1,1,790,6292
+1378,Densidade Residencial Baixa,Edwards,2 andares,5,1941,117000,3,2,1,2,1604,10998
+1379,Densidade Residencial Média,Briardale,2 andares,5,1973,83000,2,1,1,2,987,1953
+1380,Densidade Residencial Baixa,Timberland,2 andares,5,2006,167500,3,2,1,3,1394,9735
+1381,Densidade Residencial Baixa,Edwards,1 andar,3,1914,58500,2,1,1,2,864,8212
+1382,Densidade Residencial Baixa,NAmes,1 andar,7,1970,237500,4,2,1,3,2117,12925
+1383,Densidade Residencial Média,Old Town,2 andares,7,1920,157000,4,2,1,3,1762,7200
+1384,Densidade Residencial Baixa,Sawyer,1 andar,7,1918,112000,3,2,1,2,1416,25339
+1385,Densidade Residencial Baixa,Edwards,2 andares,5,1939,105000,2,1,1,1,1258,9060
+1386,Densidade Residencial Média,Iowa DOT and Rail Road,2 andares,8,1922,125500,3,1,1,2,1154,5436
+1387,Densidade Residencial Baixa,Northwest Ames,2 andares,5,1978,250000,5,2,1,5,2784,16692
+1388,Densidade Residencial Média,Old Town,2 andares,7,1916,136000,5,1,1,2,2526,8520
+1389,Densidade Residencial Baixa,Gilbert,1 andar,5,2006,377500,3,3,1,3,1746,14892
+1390,Densidade Residencial Média,Brookside,2 andares,6,1941,131000,3,2,1,2,1218,6000
+1391,Densidade Residencial Baixa,College Creek,1 andar,5,2000,235000,3,2,1,3,1525,9100
+1392,Densidade Residencial Baixa,NAmes,1 andar,5,1967,124000,4,3,2,2,1584,8944
+1393,Densidade Residencial Baixa,NAmes,2 andares,5,1967,123000,3,1,1,2,900,7838
+1394,Densidade Residencial Média,Old Town,2 andares,7,1905,163000,3,2,2,2,1912,10800
+1395,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2006,246578,2,3,1,3,1500,4045
+1396,Densidade Residencial Baixa,Timberland,2 andares,5,2005,281213,4,3,1,3,2482,12665
+1397,Densidade Residencial Baixa,Timberland,1 andar,5,1948,160000,3,2,1,2,1687,57200
+1398,Densidade Residencial Média,Brookside,2 andares,8,1920,137500,4,1,1,2,1513,6120
+1399,Densidade Residencial Baixa,NAmes,2 andares,4,1950,138000,3,1,1,3,1904,7200
+1400,Densidade Residencial Baixa,South & West of Iowa State University,2 andares,6,1925,137450,3,1,1,3,1608,6171
+1401,Densidade Residencial Média,Brookside,2 andares,7,1929,120000,3,1,1,1,1158,6000
+1402,Densidade Residencial Baixa,Gilbert,2 andares,5,2004,193000,3,2,1,4,1593,7415
+1403,Densidade Residencial Baixa,College Creek,1 andar,5,2006,193879,2,2,1,2,1294,6762
+1404,Densidade Residencial Baixa,Somerset,1 andar,5,2007,282922,3,3,1,3,1464,15256
+1405,Densidade Residencial Baixa,Old Town,2 andares,4,1915,105000,3,3,1,1,1214,10410
+1406,Densidade Residencial Média,Crawford,1 andar,5,2004,275000,2,2,1,4,1646,3842
+1407,Densidade Residencial Baixa,College Creek,2 andares,7,1972,133000,2,2,1,2,768,8445
+1408,Densidade Residencial Baixa,Mitchell,1 andar,5,1985,112000,3,0,1,2,833,8780
+1409,Densidade Residencial Média,Old Town,2 andares,7,1910,125500,3,2,1,1,1363,7740
+1410,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1986,215000,3,2,1,3,2093,20544
+1411,Densidade Residencial Baixa,College Creek,2 andares,5,2001,230000,3,2,1,4,1840,12420
+1412,Densidade Residencial Baixa,NAmes,2 andares,8,1950,140000,3,1,1,2,1668,9600
+1413,Densidade Residencial Baixa,NAmes,1 andar,5,1949,90000,2,2,2,2,1040,7200
+1414,Densidade Residencial Baixa,Sawyer West,1 andar,5,2005,257000,2,2,1,3,1844,10994
+1415,Densidade Residencial Baixa,Brookside,2 andares,7,1923,207000,4,2,1,2,1848,13053
+1416,Densidade Residencial Baixa,Bloomington Heights,1 andar,5,2007,175900,1,3,1,3,1569,3635
+1417,Densidade Residencial Média,Old Town,2 andares,6,1885,122500,4,2,2,2,2290,11340
+1418,Densidade Residencial Baixa,Northridge,2 andares,5,1998,340000,3,3,1,4,2450,16545
+1419,Densidade Residencial Baixa,NAmes,1 andar,5,1963,124000,3,1,1,3,1144,9204
+1420,Densidade Residencial Baixa,Crawford,1 andar,5,1969,223000,3,2,1,3,1844,16381
+1421,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1968,179900,3,2,1,3,1416,11700
+1422,Densidade Residencial Baixa,Northpark Villa,1 andar,5,1977,127500,2,2,1,2,1069,4043
+1423,Densidade Residencial Média,College Creek,1 andar,5,2003,136500,1,2,1,2,848,4435
+1424,Densidade Residencial Baixa,Edwards,2 andares,7,1966,274970,4,2,1,2,2201,19690
+1425,Densidade Residencial Baixa,NAmes,1 andar,5,1958,144000,2,1,1,2,1344,9503
+1426,Densidade Residencial Baixa,NAmes,1 andar,6,1959,142000,3,2,1,1,1252,10721
+1427,Densidade Residencial Baixa,Northridge,2 andares,5,1994,271000,3,2,1,4,2127,10944
+1428,Densidade Residencial Baixa,NAmes,2 andares,6,1945,140000,3,1,1,3,1558,10930
+1429,Densidade Residencial Média,Old Town,1 andar,7,1940,119000,2,1,1,2,804,7200
+1430,Densidade Residencial Baixa,Northwest Ames,1 andar,7,1981,182900,3,2,1,2,1440,12546
+1431,Densidade Residencial Baixa,Gilbert,2 andares,5,2005,192140,4,2,1,3,1838,21930
+1432,Densidade Residencial Baixa,Northpark Villa,1 andar,6,1976,143750,2,2,1,2,958,4928
+1433,Densidade Residencial Baixa,Old Town,1 andar,6,1927,64500,4,1,1,2,968,10800
+1434,Densidade Residencial Baixa,Gilbert,2 andares,5,2000,186500,3,2,1,4,1792,10261
+1435,Densidade Residencial Baixa,Mitchell,1 andar,5,1977,160000,3,2,1,3,1126,17400
+1436,Densidade Residencial Baixa,NAmes,1 andar,9,1962,174000,3,2,1,3,1537,8400
+1437,Densidade Residencial Baixa,NAmes,1 andar,6,1971,120500,3,2,1,1,864,9000
+1438,Densidade Residencial Baixa,Northridge Heights,1 andar,5,2008,394617,2,3,1,3,1932,12444
+1439,Densidade Residencial Média,Old Town,1 andar,7,1957,149700,2,2,1,2,1236,7407
+1440,Densidade Residencial Baixa,Northwest Ames,2 andares,6,1979,197000,3,2,1,3,1725,11584
+1441,Densidade Residencial Baixa,Crawford,2 andares,7,1922,191000,3,2,1,2,2555,11526
+1442,Densidade Residencial Média,College Creek,1 andar,5,2004,149300,1,2,1,2,848,4426
+1443,Área Residencial de Vilas Flutuantes,Somerset,2 andares,5,2008,310000,3,3,1,4,2007,11003
+1444,Densidade Residencial Baixa,Brookside,2 andares,6,1916,121000,2,1,1,1,952,8854
+1445,Densidade Residencial Baixa,College Creek,1 andar,5,2004,179600,3,2,1,2,1422,8500
+1446,Densidade Residencial Baixa,Sawyer,2 andares,5,1966,129000,3,1,1,2,913,8400
+1447,Densidade Residencial Baixa,Mitchell,1 andar,7,1962,157900,3,1,1,1,1188,26142
+1448,Densidade Residencial Baixa,College Creek,2 andares,5,1995,240000,3,2,1,4,2090,10000
+1449,Densidade Residencial Baixa,Edwards,2 andares,7,1910,112000,2,1,1,2,1346,11767
+1450,Densidade Residencial Média,Meadow Village,2 andares,7,1970,92000,1,0,1,2,630,1533
+1451,Densidade Residencial Baixa,NAmes,2 andares,5,1974,136000,4,0,2,4,1792,9000
+1452,Densidade Residencial Baixa,Somerset,1 andar,5,2008,287090,3,3,1,2,1578,9262
+1453,Densidade Residencial Média,Edwards,2 andares,5,2005,145000,2,2,1,2,1072,3675
+1454,Densidade Residencial Baixa,Mitchell,1 andar,5,2006,84500,3,0,1,1,1140,17217
+1455,Área Residencial de Vilas Flutuantes,Somerset,1 andar,5,2004,185000,2,2,1,3,1221,7500
+1456,Densidade Residencial Baixa,Gilbert,2 andares,5,1999,175000,3,2,1,3,1647,7917
+1457,Densidade Residencial Baixa,Northwest Ames,1 andar,6,1978,210000,3,2,1,3,2073,13175
+1458,Densidade Residencial Baixa,Crawford,2 andares,9,1941,266500,4,1,1,2,2340,9042
+1459,Densidade Residencial Baixa,NAmes,1 andar,6,1950,142125,2,1,1,2,1078,9717
+1460,Densidade Residencial Baixa,Edwards,1 andar,6,1965,147500,3,1,1,3,1256,9937
